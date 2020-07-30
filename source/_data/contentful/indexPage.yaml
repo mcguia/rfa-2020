@@ -1098,9 +1098,9 @@ indexPage:
   - sys:
       id: 2n4KjkR7qMKMPwjAh1yq3T
       created_at: !ruby/object:DateTime 2020-07-30 10:09:54.201000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 10:09:54.201000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:44:20.504000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 2
     title: Performance Management / Continuous Improvement
     order: 2
     description: Did the state or any of its agencies implement a performance management
@@ -1120,7 +1120,7 @@ indexPage:
         id: 3IkjjOqBqYkJPO9egvxewz
     - sys:
         id: 6vM7XhybeFTN3rGIT1OuX6
-    year: '2019'
+    year: '2020'
   - sys:
       id: 2CsLPVwziyJElqeTgsTO76
       created_at: !ruby/object:DateTime 2020-07-30 10:12:10.113000000 Z
