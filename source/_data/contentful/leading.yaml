@@ -1084,3 +1084,83 @@ leading:
     or promising examples for this criteria. No examples were identified in 2018 either.
   criteria: Evaluation Resources
   year: '2019'
+- sys:
+    id: 6lr40ckJd96mOiBtJrJxI3
+    created_at: !ruby/object:DateTime 2020-07-30 09:30:35.325000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:30:35.326000000 Z
+    content_type_id: leading
+    revision: 1
+  state: Colorado
+  state_abbreviation: CO
+  type: Statewide
+  short_description: 'The Colorado Governor’s Office dashboard outlines four high-priority
+    strategic goals: tax reform and economic development; energy and renewables; health;
+    and education and the workforce. Each goal is aligned with a subset of measurable
+    metrics and goals and the strategies for accomplishing them. '
+  long_description: 'Launched in 2019, Colorado’s Governor’s Dashboard outlines four
+    high-priority strategic goals: tax reform and economic development, energy and
+    renewables, health, and education and the workforce. Each high-priority strategic
+    area is supported by a cabinet working group as well as aligned goals, metrics,
+    and actions contained within agency performance plans. The governor’s annual budget
+    request also links these goals to specific agency activities and outcomes.'
+  criteria: Strategic Goals
+  issue:
+  - Education
+  - Health
+  - Workforce
+  - Economic Mobility
+  state_outline:
+    sys:
+      id: 1fBCZ8QhmmqQauoWMyOAk6
+      created_at: !ruby/object:DateTime 2018-06-26 21:56:20.502000000 Z
+      updated_at: !ruby/object:DateTime 2019-09-29 14:23:17.008000000 Z
+    title: colorado
+    description: 
+    url: "//images.ctfassets.net/cu0oxaxjfcsj/1fBCZ8QhmmqQauoWMyOAk6/8cd16aed556a4ae47964bad4c1edb549/Colorado.svg"
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 5jwzZ7x2jhn3I1hIBnD1fQ
+    created_at: !ruby/object:DateTime 2020-07-30 10:05:13.841000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 10:05:13.841000000 Z
+    content_type_id: leading
+    revision: 1
+  state: Minnesota
+  state_abbreviation: MN
+  type: Statewide
+  long_description: 'Since 2014, Minnesota has maintained a dashboard featuring 40
+    key “well-being” indicators in the state’s eight key priority areas. Each indicator
+    has a status (good, okay, or poor, according to specific criteria) and can be
+    compared to the performance of other states, with  many indicators disaggregated
+    by race, income, or geography. The Minnesota Management and Budget Office uses
+    the dashboard to convene state agencies for “state-stat" meetings to monitor performance
+    and identify opportunities to enhance collaboration. In response to COVID-19,
+    the state built a comprehensive public data dashboard that tracks health and economic
+    data, including response data on hospital capacity, critical care supplies, child
+    care, and funding. The dashboard also tracks the disparate impacts of the virus
+    on communities of color to enhance collaboration with stakeholders and “eliminate
+    systemic barriers so communities of color and indigenous communities can recover
+    with dignity and resiliency.” Such a collaboration includes an ongoing partnership
+    with J-PAL North America that has leveraged the data to identify how to increase
+    take up of COVID-19 testing in Black, Latinx, immigrant, and Native American communities
+    based on local priorities and preferences. The Governor regularly briefs the public
+    on progress being made on these goals. '
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - Criminal Justice
+  - Economic Mobility
+  - Education
+  - Health
+  - Statewide Evidence-Building Capacity
+  - Workforce
+  state_outline:
+    sys:
+      id: YlOt55v1CeImIm2qQQEg6
+      created_at: !ruby/object:DateTime 2018-06-26 21:52:54.906000000 Z
+      updated_at: !ruby/object:DateTime 2019-09-29 15:18:49.311000000 Z
+    title: minnesota
+    description: 
+    url: "//images.ctfassets.net/cu0oxaxjfcsj/YlOt55v1CeImIm2qQQEg6/0f75f66c41a82a3f43bf985186ec5959/Minnesota.svg"
+  year: '2020'
+  status: Updated from 2019

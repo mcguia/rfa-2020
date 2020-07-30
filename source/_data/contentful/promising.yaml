@@ -20,7 +20,7 @@ promising:
     details about each goal and the state entities charged with managing efforts in
     relevant areas.
 
-'
+    '
   criteria: Strategic Goals
   year: '2018'
 - sys:
@@ -4507,3 +4507,275 @@ promising:
   year: '2019'
   short_description: Results for America was not able to identify any states with
     leading or promising examples for this criteria.
+- sys:
+    id: 4l0rBknOgLBoJ45Dlzh7ur
+    created_at: !ruby/object:DateTime 2020-07-30 09:42:58.651000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:42:58.651000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Arizona
+  state_abbreviation: AZ
+  type: Statewide
+  long_description: Since 2017, the Arizona Governor’s Office has developed and updated
+    the Governor's Fundamentals Map, which lists goals under six statewide priority
+    areas. All cabinet agencies are required to complete an annual strategic plan
+    that includes annual objectives, metrics, and initiatives, which are captured
+    in My Agency Scorecards. In 2020, the Governor’s Office of Strategic Planning
+    and Budgeting hired a statewide Strategic Planner to further support the multi-year
+    strategic planning processes.
+  criteria: Strategic Goals
+  issue:
+  - Child Welfare
+  - Criminal Justice
+  - Education
+  - Health
+  - Workforce
+  - Economic Mobility
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 5cyUevZGl4zxVxLTeJkvgA
+    created_at: !ruby/object:DateTime 2020-07-30 09:49:15.755000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:49:15.755000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Oregon
+  state_abbreviation: OR
+  type: Statewide
+  long_description: 'In 2018, the Oregon Governor’s Office released the [Action Plan
+    for Oregon](https://www.actionplanfororegon.gov/), which identified key priorities
+    for the state in the areas of: [environment](https://www.oregon.gov/gov/policy/Documents/Governor%20Kate%20Brown%20Climate%20Agenda.pdf),
+    [healthcare](https://www.oregon.gov/gov/policy/Documents/Health%20Care%20Agenda-GOVERNOR%20KATE%20BROWN.pdf),
+    [education](https://drive.google.com/file/d/1BIO3DsKCQXHTaLuW8CUhzYXjxAnFyrpQ/view),
+    [transportation](https://www.oregon.gov/gov/policy/Documents/transportation_policy_agenda_Governor_Kate_Brown.pdf),
+    [good government](https://www.oregon.gov/gov/policy/Documents/Information%20Technology_Governor%20Kate%20Brown.pdf),
+    [earthquake preparedness](https://www.oregon.gov/gov/policy/Documents/resiliency-policy-agenda.pdf),
+    [housing and homelessness](https://www.oregon.gov/gov/policy/Documents/Housing%20Agenda%20FINAL.pdf),
+    [child welfare](https://www.oregon.gov/gov/policy/Documents/Child%20Welfare%20Agenda-GOVERNOR%20KATE%20BROWN.pdf),
+    and [job training](https://www.oregon.gov/gov/policy/Documents/Future%20Ready%20Oregon%20Governor%20Kate%20Brown.pdf).
+    Progress made on meeting each priority is publicly available [online](https://www.actionplanfororegon.gov/),
+    along with [strategic plans](https://www.oregon.gov/gov/policy/Documents/Governor%20Kate%20Brown%20Climate%20Agenda.pdf)
+    for these policy areas.'
+  criteria: Strategic Goals
+  issue:
+  - Child Welfare
+  - Education
+  - Health
+  - Workforce
+  - Economic Mobility
+  - Statewide Evidence-Building Capacity
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 6nHldAoSiwnzPvmjam50jj
+    created_at: !ruby/object:DateTime 2020-07-30 09:51:08.814000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:51:08.814000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Kentucky
+  state_abbreviation: KY
+  type: Statewide
+  long_description: The Kentucky Governor has statewide priorities focused on wages,
+    health care, education, retirement, and transparency. State agencies are required
+    to align their activities to the Governor’s priorities and establish, maintain,
+    and publish strategic plans. In March 2020, the Governor took actions to elevate
+    Kentucky’s COVID-19 crisis response as the state’s highest priority and publicly
+    committed to a statewide, data-driven response.
+  criteria: Strategic Goals
+  issue:
+  - Economic Mobility
+  - Education
+  - Workforce
+  - Health
+  - COVID-19
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 1Rcvl0VRStF9JCmGSvQzqR
+    created_at: !ruby/object:DateTime 2020-07-30 09:52:25.115000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:52:33.824000000 Z
+    content_type_id: promising
+    revision: 2
+  state: Pennsylvania
+  state_abbreviation: PA
+  type: Statewide
+  long_description: 'The Pennsylvania Governor has three statewide goals: Jobs that
+    Pay, Schools that Teach, and Government that Works. For each goal, the governor’s
+    office developed subgoals with key performance measures sourced from the state’s
+    open data platform to track the progress in all three strategic areas.'
+  criteria: Strategic Goals
+  issue:
+  - Education
+  - Workforce
+  - Health
+  - Economic Mobility
+  year: '2020'
+  status: New
+- sys:
+    id: 4NAeLbaVWU7JjwxwkLEh7c
+    created_at: !ruby/object:DateTime 2020-07-30 09:53:20.897000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:53:20.897000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Tennessee
+  state_abbreviation: TN
+  type: Statewide
+  long_description: 'The Tennessee Governor has five priorities: Education and Workforce
+    Development, Jobs and Rural Economic Development, Transparent and Efficient Government,
+    Healthier Tennessee, and Public Safety and Criminal Justice Reform. Specific metrics
+    tied to the success of each priority area are publicly displayed on the state’s
+    Transparent TN website.'
+  criteria: Strategic Goals
+  issue:
+  - Education
+  - Workforce
+  - Economic Mobility
+  - Statewide Evidence-Building Capacity
+  year: '2020'
+  status: New
+- sys:
+    id: 2t8qjyPGFi0URfM6TUzlla
+    created_at: !ruby/object:DateTime 2020-07-30 09:55:28.595000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:55:28.595000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Utah
+  state_abbreviation: UT
+  type: Statewide
+  long_description: 'In 2018, the Utah Governor’s Office released the Utah Life Elevated
+    2020 Initiative, which includes four statewide goals: effective and efficient
+    government, thriving communities, qualified workforce, and equitable and competitive
+    revenue.'
+  criteria: Strategic Goals
+  issue:
+  - Economic Mobility
+  - Statewide Evidence-Building Capacity
+  - Workforce
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 37HK8LeIDZiXacSMCWXRTj
+    created_at: !ruby/object:DateTime 2020-07-30 09:57:07.831000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:57:59.491000000 Z
+    content_type_id: promising
+    revision: 2
+  state: Vermont
+  state_abbreviation: VT
+  type: Statewide
+  long_description: 'Vermont''s 2018-2023 Strategic Plan included four statewide goals:
+    the economy, affordability, vulnerability, and modernization. These priority areas
+    were established by a 2017 Vermont executive order which required all agencies
+    “to establish the following cornerstones as their strategic and operational goals:
+    growing the Vermont economy; making Vermont an affordable place to live, work,
+    and do business; and protecting vulnerable Vermonters.” As required by a 2014
+    law and a related executive order, the state’s Chief Performance Officer annually
+    reports data related to the state’s goals and fiscal transparency.'
+  criteria: Strategic Goals
+  issue:
+  - Economic Mobility
+  - Statewide Evidence-Building Capacity
+  - Workforce
+  - Child Welfare
+  - Education
+  - Health
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 3ydd84RN5q4tfLnNVwQq2p
+    created_at: !ruby/object:DateTime 2020-07-30 09:58:49.178000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 09:58:49.178000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Washington
+  state_abbreviation: WA
+  type: Statewide
+  long_description: 'In 2017, the Washington Governor’s Office issued five overarching
+    goals with aligned outcome measures: world-class education; prosperous economy;
+    sustainable energy and clean environment; healthy and safe communities; and effective,
+    efficient, and accountable government.'
+  criteria: Strategic Goals
+  issue:
+  - Economic Mobility
+  - Education
+  - Health
+  - Statewide Evidence-Building Capacity
+  - Workforce
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 6Y2nmvtx89Kd1OlaSNGhNL
+    created_at: !ruby/object:DateTime 2020-07-30 10:06:47.447000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 10:06:47.447000000 Z
+    content_type_id: promising
+    revision: 1
+  state: California
+  state_abbreviation: CA
+  type: Multiple agencies
+  long_description: 'California’s Department of Health Care Services has a performance
+    dashboard initiative that aggregates enrollment, client demographic, access, and
+    coverage data. The information is also available on the California Health and
+    Human Services Open Data Portal. The state’s Department of Social Services uses
+    the Cal-OAR system to continuously improve county-based CalWORKs programs by collecting,
+    analyzing, and disseminating outcomes and best practices. The California Department
+    of Education’s California School Dashboard documents state and local education
+    performance. The state indicators include: academic information, English learner
+    progress, chronic absenteeism, graduation rate, suspension rate, and college/career
+    readiness.'
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Health
+  - Economic Mobility
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 3IkjjOqBqYkJPO9egvxewz
+    created_at: !ruby/object:DateTime 2020-07-30 10:08:29.327000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 10:08:29.327000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Colorado
+  state_abbreviation: CO
+  type: Statewide
+  long_description: 'A 2013 Colorado law required all state agencies to submit annual
+    performance reports to the Colorado state legislature, which must include: (1)
+    performance measures for the major functions of the department; (2) performance
+    goals for at least the subsequent three years; (3) a description of the strategies
+    necessary to achieve those goals; and (4) a summary of the department’s most recent
+    performance evaluation. In 2019, the Governor asked agencies to identify Wildly
+    Important Goals that roll-up to the statewide Bold Four goals and to align their
+    operations to achieve those goals. Reported monthly on the Governor''s dashboard,
+    these goals are aligned to the state’s budget and are coordinated by inter-agency
+    working groups.'
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - Criminal Justice
+  - Education
+  - Economic Mobility
+  - Health
+  - Workforce
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 6vM7XhybeFTN3rGIT1OuX6
+    created_at: !ruby/object:DateTime 2020-07-30 10:09:06.107000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 10:09:06.107000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Florida
+  state_abbreviation: FL
+  type: Single agency
+  long_description: 'A 2014 Florida law created the Florida Department of Children
+    and Families’ results-oriented accountability program. This program monitors data
+    from service providers and other entities to report progress via a public child
+    welfare performance dashboard. In addition, the Department publishes interactive
+    scorecards with detailed information on program performance for: community based
+    care, federal child welfare indicators, child protective investigations, and adult
+    protective services. Pursuant to the law, the Office of Child Welfare publishes
+    an annual performance report.'
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - Health
+  year: '2020'
+  status: Updated from 2019

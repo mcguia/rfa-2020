@@ -1033,3 +1033,543 @@ indexPage:
     - sys:
         id: bEg3dKNERLq839wOQdw5n
     year: '2019'
+- sys:
+    id: 6Ap1JlR5RqMa1PSh9Kqrue
+    created_at: !ruby/object:DateTime 2020-07-30 10:11:40.983000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-30 10:11:40.983000000 Z
+    content_type_id: indexPage
+    revision: 1
+  year: '2020'
+  short_description: "The Invest in What Works State Standard of Excellence sets a
+    national benchmark—a “north star”—for how state governments can consistently and
+    effectively use evidence and data in budget, policy, and management decisions
+    to achieve better outcomes for their residents. \n\n\nResults for America identified
+    169 examples of data-driven and evidence-based practices, policies, programs,
+    and systems in effect as of June 2020 in 35 states across the country.  Further,
+    in 2020, the COVID-19 pandemic demonstrated that, now more than ever, states need
+    robust evidence and data capacities to make equitable decisions that affect their
+    residents’ health, economic mobility, and overall well-being. \n\n\nOverall, seven
+    states are leading the way with their use of data-driven and evidence-based practices,
+    policies, programs, and systems. These Leading States are Colorado, Connecticut,
+    Minnesota, Oregon, Tennessee, Utah, and Washington. Four Honor Roll States have
+    also demonstrated a commitment to improving their evidence and data efforts: Massachusetts,
+    North Carolina, Ohio, and Rhode Island….\n\n….The leading and promising examples
+    highlighted in the 2020 State Standard of Excellence are informing other state
+    governments, policymakers, and the public about the effectiveness of using evidence
+    and data to invest taxpayer dollars in what works. To further help states meet
+    the State Standard of Excellence’s national benchmarks, the recently released
+    Blueprint for Delivering Results in State Government provides state leaders with
+    implementation strategies and actions for consistently and effectively using evidence
+    and data to improve residents’ lives."
+  criteria:
+  - sys:
+      id: 8KO6YMb34nOxY6hbrQTb3
+      created_at: !ruby/object:DateTime 2020-07-30 09:59:25.424000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 09:59:25.424000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Strategic Goals
+    order: 1
+    description: Did the Governor have public statewide strategic goals?
+    explanation: The creation of statewide strategic goals is an important first step
+      in aligning state government budgets, policies, and programs to improve outcomes
+      on a state government’s highest priorities.
+    leading_list:
+      sys:
+        id: 6lr40ckJd96mOiBtJrJxI3
+    promising_list:
+    - sys:
+        id: 4l0rBknOgLBoJ45Dlzh7ur
+    - sys:
+        id: 6nHldAoSiwnzPvmjam50jj
+    - sys:
+        id: 5cyUevZGl4zxVxLTeJkvgA
+    - sys:
+        id: 1Rcvl0VRStF9JCmGSvQzqR
+    - sys:
+        id: 4NAeLbaVWU7JjwxwkLEh7c
+    - sys:
+        id: 2t8qjyPGFi0URfM6TUzlla
+    - sys:
+        id: 37HK8LeIDZiXacSMCWXRTj
+    - sys:
+        id: 3ydd84RN5q4tfLnNVwQq2p
+    year: '2020'
+  - sys:
+      id: 2n4KjkR7qMKMPwjAh1yq3T
+      created_at: !ruby/object:DateTime 2020-07-30 10:09:54.201000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:09:54.201000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Performance Management / Continuous Improvement
+    order: 2
+    description: Did the state or any of its agencies implement a performance management
+      system aligned with its statewide strategic goals, with clear and prioritized
+      outcome-focused goals, program objectives, and measures; and did it consistently
+      collect, analyze, and use data and evidence to improve outcomes, return on investment,
+      and other indicators of performance?
+    explanation: "*Performance management helps state governments monitor and improve
+      customer service, program performance, and outcomes for their residents.*"
+    leading_list:
+      sys:
+        id: 5jwzZ7x2jhn3I1hIBnD1fQ
+    promising_list:
+    - sys:
+        id: 6Y2nmvtx89Kd1OlaSNGhNL
+    - sys:
+        id: 3IkjjOqBqYkJPO9egvxewz
+    - sys:
+        id: 6vM7XhybeFTN3rGIT1OuX6
+    year: '2019'
+  - sys:
+      id: 2CsLPVwziyJElqeTgsTO76
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:10.113000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:10.113000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Contracting for Outcomes (1)
+    order: 14
+    description: Did the state or any of its agencies enter into performance-based
+      contracts and/or use active contract management (frequent use of data and regular
+      communication with providers to monitor implementation and progress) to improve
+      outcomes for publicly funded programs?
+    explanation: "__Why is this important?__  \nPerformance contracting techniques
+      allow state governments to get better results and value for each taxpayer dollar."
+    leading_list:
+      sys:
+        id: 24P5khzBzfrC2I52sfoEZX
+    promising_list:
+    - sys:
+        id: 5QlNV71sOMAgD62AfI7RL0
+    - sys:
+        id: vy7DJ6wPc3G8pAa33ORCp
+    - sys:
+        id: 6aP4Vu6Jo8JdvCVXI85cfU
+    - sys:
+        id: 6aJY0WuiOIszxU2dloN44T
+    - sys:
+        id: 3HqA5tQCN9KYcFenj9Ftbu
+    - sys:
+        id: 2jMGl0IxxYbi83aqnK17vt
+    year: '2019'
+  - sys:
+      id: 5CuQtFENegNq8opM4SWlxe
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:08.817000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:08.817000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Cost-Benefit Analysis (1)
+    order: 11
+    description: Did the state or any of its agencies assess and make publicly available
+      the costs and benefits of public programs?
+    explanation: "__Why is this important?__  \nCost-benefit analysis helps state
+      governments quantify outcomes and program costs to ensure that public dollars
+      are being efficiently spent to get the most value for taxpayers and the best
+      outcomes for residents."
+    leading_list:
+      sys:
+        id: 6VLi1WAsxcJGuf4dGAAB3R
+    promising_list:
+    - sys:
+        id: 1VZS8O1xqf81SDkDoKRsYi
+    - sys:
+        id: 2aXuAk51rWLGe8oPPP4wyB
+    - sys:
+        id: 1xSg9I7QAAsxUDjHxdPep9
+    - sys:
+        id: 63q5BIcu0b61WVDSuevMP
+    - sys:
+        id: 3QG01pnvugizaiFQy5sFfl
+    - sys:
+        id: 7lUwb7irOPR6bxK0jVmalP
+    - sys:
+        id: 7hD8VkZXKtlu8pR53C9hh6
+    - sys:
+        id: 5ZRpendTCbudp6rUhLkmbP
+    - sys:
+        id: 5dd8mKbXP1XrW85CBr22IS
+    - sys:
+        id: 5yu2eXuu6WKqTM05o9hxRK
+    year: '2019'
+  - sys:
+      id: 6lbWj6FAflJBseIBzhdnuV
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:10.890000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:10.890000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Data Leadership (1)
+    order: 3
+    description: 'Did the governor’s office or any state agency have a senior staff
+      member(s) with the authority, staff, and budget to collect, analyze, share,
+      and use high-quality administrative and survey data—consistent with strong privacy
+      protections— to improve (or help other entities including, but not limited to,
+      local governments and nonprofit organizations improve) federal, state, and local
+      programs? (Example: chief data officer)'
+    explanation: "__Why is this important?__  \nA designated chief data officer can
+      create a coherent set of policies, structures, and guidance for how state agencies
+      should routinely use data to improve programs."
+    leading_list:
+      sys:
+        id: 3Q5XJJm2sR7PJH5aGnwsGY
+    promising_list:
+    - sys:
+        id: Lez3Om9NF203uPErxjJij
+    - sys:
+        id: XfHj1AZBOXtNhxEmbBZue
+    - sys:
+        id: 2FbntRqLSd27koVHN0in3i
+    - sys:
+        id: 7cZdpUe77NPRe95ewve24F
+    - sys:
+        id: 1oNfOzjPYXPkfa6ZE6nOwY
+    - sys:
+        id: 4aO7ePVSLB9ykm3pPyHiCx
+    - sys:
+        id: 1zPGSnc7Gb19x68VgaZlLS
+    year: '2019'
+  - sys:
+      id: 5Opf1l1gCi2GgVJg40W7Ti
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:08.497000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:08.497000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Data Policies / Agreements (1)
+    order: 4
+    description: 'Did the state or any of its agencies have data sharing policies
+      and data sharing agreements—consistent with strong privacy protections—with
+      any nonprofit organizations, academic institutions, local government agencies,
+      and/or federal government agencies which were designed to improve outcomes for
+      publicly funded programs, and did it make those policies and agreements publicly
+      available? (Example: data sharing policy, open data policy)'
+    explanation: |-
+      __Why is this important?__<br>
+      Data sharing policies and agreements allow state governments to take a coordinated approach to identifying and using relevant data to improve programs while implementing strong privacy protections.
+    leading_list:
+      sys:
+        id: 7g9PIQ5dZH9zQDvwPTjWro
+    promising_list:
+    - sys:
+        id: 3HxYBuwBG0TWRHEBJ83XEp
+    - sys:
+        id: 6ixBytmp1fMHBQ7D7quo7c
+    - sys:
+        id: 1IhKQAFLpYRsdJPOX9aMoj
+    - sys:
+        id: 6MWU5t8YDN0h0k0S53YZ3O
+    - sys:
+        id: 5Vg4tyrbVaRhQf22IKRHC5
+    - sys:
+        id: M3FiMX3PDUMtsBkpU3f3d
+    - sys:
+        id: 7N0IPAT106Wbsye1gvmOKZ
+    - sys:
+        id: 5oq6WEal1q3AWNXGzmmf2j
+    - sys:
+        id: 6CBGy5vqOCtXgOgSQTTCaa
+    - sys:
+        id: 5sRJANPce8pVEkD7R0RJug
+    - sys:
+        id: 1Zc86FC9Li6plep1bZMJMs
+    - sys:
+        id: 2KXjCfxZdYTl8ROWtkjgwy
+    year: '2019'
+  - sys:
+      id: bVKS7EiDVSXsdjy23DZkV
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:08.525000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:08.525000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Data Use (1)
+    order: 5
+    description: Did the state or any of its agencies have data systems consistent
+      with strong privacy protections that linked multiple administrative data sets
+      across state agencies, and did it use those systems to improve federal, state,
+      or local programs?
+    explanation: |-
+      __Why is this important?__<br>
+      The linking of agency data allows state governments to increase the effectiveness of state services and get better results for their residents.
+    leading_list:
+      sys:
+        id: 6YZVOSIBsz7BOaxZKT1n2J
+    promising_list:
+    - sys:
+        id: 41IFbwBBjPOZrCtmyhNFg7
+    - sys:
+        id: 3KJq7GQ3lOaSEWZTFSw5WM
+    - sys:
+        id: 18Ycx8ZBgTObXRGpHmeGTo
+    - sys:
+        id: 7ckhSCifoT7IkFLcX3TB6m
+    - sys:
+        id: 6AT7X8He3n8vUqgqvfMj3r
+    - sys:
+        id: 3YOCW7PNefI9NpOY0Ax9z0
+    - sys:
+        id: 5EVDKkIAXDd62gUhrK1YFo
+    - sys:
+        id: 6XYx8LLjpLATijncX8UaIG
+    - sys:
+        id: 5rl1NbQYDWhg0fddHrGjgT
+    - sys:
+        id: 54sXWz2am87kjVuFiDWYd8
+    - sys:
+        id: 7aaKpBqN35hTfxOP1ncCi2
+    - sys:
+        id: 7Jpqc6fWoBSXoRHXizNuRR
+    - sys:
+        id: 16MPkt2ADhCLG6GKL97FOc
+    - sys:
+        id: 68ZlBGCyYQ12NNYpdRANIF
+    - sys:
+        id: 5LQKbLjZL2D6AqyG4wMnJb
+    - sys:
+        id: 4Mw9VdOHewVrR8hAym6H91
+    - sys:
+        id: 1P0FFTQEaDBXcdnyM3pcKq
+    - sys:
+        id: 2lWpg3MDzDRQlvrZAHQFCt
+    year: '2019'
+  - sys:
+      id: 7BM6A2Fs7Frh6cW9Q9zeQL
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:08.526000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:08.526000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Evaluation Leadership (1)
+    order: 6
+    description: 'Did the governor’s office or any state agency have a senior staff
+      member(s) with the authority, staff, and budget to evaluate its major programs
+      and inform policy decisions affecting them? (Example: chief evaluation officer)'
+    explanation: "__Why is this important?__  \nEvaluation leadership positions are
+      an important tool for state governments to ensure that evidence of what works
+      is a primary consideration when making programmatic and budget decisions."
+    leading_list:
+      sys:
+        id: 5eYHX5RaNHGDOAWfE56erP
+    promising_list:
+    - sys:
+        id: 2HucYj7EMUydhAhL8Vnmoy
+    - sys:
+        id: 2N4ihB2TosMRt0ww9tgRZy
+    - sys:
+        id: 1JqWAzbPJHnzt1BDx5ExXF
+    year: '2019'
+  - sys:
+      id: 6gpmDsx6wuL6kPEsgKCMBo
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:08.509000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:08.509000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Evaluation Policies (1)
+    order: 7
+    description: Did the state or any of its agencies have an evaluation policy, evaluation
+      plan, and research/learning agenda(s), and did it publicly release the findings
+      of all completed evaluations?
+    explanation: "__Why is this important?__  \nEvaluation policies allow state governments
+      to align their evaluation and research priorities, learn about what works, and
+      share information with outside researchers about additional areas where they
+      want to increase their knowledge base."
+    leading_list:
+      sys:
+        id: kJepHSEBDmqljuiIPs5mM
+    promising_list:
+    - sys:
+        id: 3Yve3F5ogndXU7gEcrZ5iq
+    - sys:
+        id: 7eD3sokHbFDQPDR4hpvyo9
+    - sys:
+        id: 6Xvfd0cQDAaFhlAYPRMgIA
+    - sys:
+        id: vx6UzbKMyAi0MoQ5tGecm
+    - sys:
+        id: 2eycb3kV14j66DL4ihbLI8
+    - sys:
+        id: 46lP3XUj2ZBLXVMe7xKKT7
+    - sys:
+        id: 5cxqFCMw4d43o490pqwiCc
+    year: '2019'
+  - sys:
+      id: 7MxcS9Ot5xRWIqEZjTpxU5
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:10.826000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:10.826000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Evaluation Resources (1)
+    order: 8
+    description: Did the state or any of its agencies invest at least 1% of program
+      funds in evaluations?
+    explanation: "__Why is this important?__  \nMaking specific funding commitments
+      to evaluation is critical and ensures that state governments have the necessary
+      funds to evaluate whether state programs are achieving their desired outcomes.
+      At the federal level, several agencies have made commitments to spend 1% of
+      program funds on evaluation, which has allowed them to improve programmatic
+      outcomes and build their knowledge base about what works."
+    leading_list:
+      sys:
+        id: vopBrHjd6kNmP6inEIG8m
+    promising_list:
+    - sys:
+        id: 7o4XJ0q7PXqxfNiuGwpIEo
+    year: '2019'
+  - sys:
+      id: 6Z716bKzlblSR3XRibaUCj
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:08.499000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:08.499000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Evidence Definition and Program Inventory (1)
+    order: 10
+    description: Did the state or any of its agencies release a common evidence framework,
+      guidelines, or standards to inform its research and funding decisions and make
+      publicly available an inventory of state-funded programs categorized based on
+      at least two tiers of evidence?
+    explanation: "__Why is this important?__  \nDefining evidence and conducting program
+      inventories can help state governments ensure that their programs are using
+      proven practices and that their interventions are effective in meeting the state’s
+      desired goals as well as improving outcomes for residents."
+    leading_list:
+      sys:
+        id: SKZcZnTe5yMUz45T3vsKY
+    promising_list:
+    - sys:
+        id: 3T5WIaHeCzuFpbkrSAuhU9
+    - sys:
+        id: 0reWFHpzCOx6OyV9Hl6M9
+    - sys:
+        id: 7cvD3Lj6nbf0KWnTLYVAx8
+    - sys:
+        id: 2Gc9BY5sAfdfWceDwxubkj
+    - sys:
+        id: 579kN4UBpv0AfMRHjPs7Sq
+    - sys:
+        id: 5a6x1n4DrytadwUSey1osW
+    - sys:
+        id: 68r0n8s1HDZj7Hu6hUTk3
+    - sys:
+        id: 5dIYCSo4I5TYObiKZHdLzW
+    - sys:
+        id: 5qenKfilxCs3BZxyBKs2GA
+    year: '2019'
+  - sys:
+      id: 1BNdf74PYDKLbGtCfsldlZ
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:10.864000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:10.864000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Innovation (1)
+    order: 13
+    description: Did the state or any of its agencies have staff, policies, and processes
+      in place that encouraged innovation to improve outcomes?
+    explanation: "__Why is this important?__  \nEncouraging innovation allows state
+      governments to implement new models that can improve programs and build new
+      evidence about what works."
+    leading_list:
+      sys:
+        id: 4vpuLFYm1PWSvpvlITpOzV
+    promising_list:
+    - sys:
+        id: 5TbupcfyVMcrAJuwvkP7i1
+    - sys:
+        id: 1vl3lsrH7LZcDvi3zkh8CF
+    - sys:
+        id: 2i1qfgLhc6J2KKqFToX5PP
+    - sys:
+        id: 1kuI2OpHJcCgLetcUebtkO
+    - sys:
+        id: 6b6XctWk3hkv9aFbO4QzvH
+    - sys:
+        id: 1L7S29s1LBT4YN9yp7gcbv
+    year: '2019'
+  - sys:
+      id: 4NaeiWeBS92QLy71c9rmo7
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:08.524000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:08.524000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Outcome Data (1)
+    order: 9
+    description: Did the state or any of its agencies report or require outcome data
+      for its state-funded programs during their budget process?
+    explanation: "__Why is this important?__  \nUsing data and evidence as part of
+      the budget process helps state policymakers allocate funds based on information
+      about what works."
+    leading_list:
+      sys:
+        id: ws6Fo5ETAgAiUWMhR1MZA
+    promising_list:
+    - sys:
+        id: 4eV9znbHauZJnWWeeEH6UU
+    - sys:
+        id: 2fahPWRmERcgGC8KWX2bDz
+    - sys:
+        id: 63QbnW9CGGHzsCAl2eqZQm
+    - sys:
+        id: 2vwiGSBPbnvsWuZrfqSSoF
+    - sys:
+        id: 65teYyPR55im00tVAajCwA
+    - sys:
+        id: 4i5iHSfcvQdkithlWnlWe7
+    - sys:
+        id: 5IZVhUAUNNAdwzjcHqJ54K
+    year: '2019'
+  - sys:
+      id: 1rW1tKmq1DysxDR7M0FBfa
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:10.526000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:10.526000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Repurpose for Results (1)
+    order: 15
+    description: Did the state or any of its agencies shift funds away from any practice,
+      policy, or program which consistently failed to achieve desired outcomes?
+    explanation: "__Why is this important?__  \nRepurposing funds from programs that
+      fail to consistently achieve results to programs that consistently achieve results
+      is a key strategy for state governments to improve their performance while building
+      knowledge about what works."
+    leading_list:
+      sys:
+        id: 2oXTqTm8p2hysarZ0O6bCZ
+    promising_list:
+    - sys:
+        id: bEg3dKNERLq839wOQdw5n
+    year: '2019'
+  - sys:
+      id: 1TGYsizOV1wZzkCxSxGvOq
+      created_at: !ruby/object:DateTime 2020-07-30 10:12:10.544000000 Z
+      updated_at: !ruby/object:DateTime 2020-07-30 10:12:10.544000000 Z
+      content_type_id: criteria
+      revision: 1
+    title: Use of Evidence in Grant Programs (1)
+    order: 12
+    description: Did the state or any of its agencies (1) invest at least 50% of program
+      funds in evidence-based solutions or (2) use evidence of effectiveness when
+      allocating funds to eligible grantees (including local governments) from its
+      five largest competitive and noncompetitive grant programs?
+    explanation: "__Why is this important?__  \nRequiring a portion of grant funds
+      to be spent on evidence-based programs allows state governments to use and scale
+      proven program models to achieve better results."
+    leading_list:
+      sys:
+        id: 4xPnYwyyZZrUBgd3VT6KVO
+    promising_list:
+    - sys:
+        id: 1Le1wmYTPRq3fUI6t44QwY
+    - sys:
+        id: Lvk0Diqm23RhySIjtirOd
+    - sys:
+        id: 0XnUpqG7syJnyF02zZvFO
+    - sys:
+        id: 22VZBdxNhKyZ2DGEsk76G1
+    - sys:
+        id: 4bvrCI80IYQbzl67ih2f7J
+    - sys:
+        id: azf3gl4rALD3yLL70AXBA
+    - sys:
+        id: 4x5QCoQHtEDhOudhbX7Ywg
+    - sys:
+        id: 4FeP2YfNMgQpqOZdmPeTnl
+    - sys:
+        id: 5Pds5lh3ZfkZf8YHhJIwoL
+    - sys:
+        id: 11ApfaPTCF1ZIYL7GjLEn4
+    year: '2019'
