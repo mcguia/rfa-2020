@@ -1,0 +1,73 @@
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  display: flex;
+  justify-content: space-between;
+  font-weight:500;
+  background-color: $blue;
+  color: #444;
+  cursor: pointer;
+  padding: 30px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  text-transform: none;
+  margin: 10px 0 0;
+  @include breakpoint($small-only) {
+    padding: 20px;
+  }
+
+  h5, p {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    letter-spacing: normal;
+    line-height: 1.2;
+    text-transform: none;
+  }
+
+  strong {
+    font-weight: 800;
+  }
+  .fa {
+    color: #fff;
+  }
+}
+
+.accordion-row {
+  max-width: 62.5rem;
+  margin-bottom: 3rem;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: $light-gray;
+  h5, p, .fa {
+    color: $blue;
+  }
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 30px;
+  @include breakpoint($small-only) {
+    padding: 0 20px;
+  }
+  background-color: $light-gray;
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordion:after {
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+
+.accordion-lever {
+  width: 60px;
+}

@@ -22,14 +22,27 @@ seo_image_path: #'/images/media/filename.jpg'
         <div class="column large-11 medium-12 small-12 markdown">
           {{ page.short_description | markdownify }}
         </div>
-        <div class="column large-11 medium-12 small-12">
-          {% include buttons_top.html %}
-        </div>
       </div>
 
       <div class="row align-center">
         <div class="column large-11 read-more-wrapper">
           <button class="read-more" aria-label="Read More Toggle"></button>
+        </div>
+      </div>
+    </div>
+
+    <div class="accordion-row row align-center">
+      <div class="column large-11 markdown">
+      <button class="accordion"><h5>States Use Data to Respond to COVID-19</h5><i class="fa fa-plus fa-lg" aria-hidden="true"></i></button>
+        <div class="panel">
+          {{ page.states_use_data_accordion | markdownify }}
+          <p><a class="read-more">Read More Here</a></p>
+        </div>
+        
+      <button class="accordion"><h5>Evidence in State Budgets</h5><i class="fa fa-plus fa-lg" aria-hidden="true"></i></button>
+        <div class="panel">
+          {{ page.evidence_in_state_budgets_accordion | markdownify }}
+          <p><a class="read-more">Read More Here</a></p>
         </div>
       </div>
     </div>
@@ -43,8 +56,7 @@ seo_image_path: #'/images/media/filename.jpg'
   <section>
     <div class="row align-center expanded footnote">
       <div class="column large-8 small-12">
-        <p><strong>1.</strong> The views expressed herein are those of Results for America and do not necessarily
-          reflect the views of the Pew Charitable Trusts or the John D. and Catherine T. MacArthur Foundation.</p>
+        <p>Results for America’s analysis is based on data provided under license by The Pew Charitable Trusts’ Results First initiative (which was used to inform its 2017 report on states’ engagement in evidence-based policymaking) and input from more than 150 current and former state government officials and other experts.</p>
       </div>
     </div>
     {% include buttons.html %}

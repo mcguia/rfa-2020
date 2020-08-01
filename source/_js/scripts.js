@@ -1,4 +1,5 @@
 // import CompactPanel from './compact-panel';
+import Accordion from './accordion';
 import Expandable from './expandable';
 import Filter from './filter';
 import FixedNav from './fixed-nav';
@@ -12,6 +13,7 @@ import Sticky from './sticky';
 import Tooltip from './tooltip';
 import Utils from './utils';
 
+Accordion.init();
 Expandable.init();
 FixedNav.init();
 Modal.init();

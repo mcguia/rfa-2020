@@ -5428,3 +5428,26 @@ promising:
   - Economic Mobility
   year: '2020'
   status: Updated from 2019
+- sys:
+    id: 4GuPHAPFZjEwr4t1iHA58f
+    created_at: !ruby/object:DateTime 2020-07-31 00:42:59.936000000 Z
+    updated_at: !ruby/object:DateTime 2020-07-31 00:42:59.936000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Connecticut
+  state_abbreviation: CT
+  type: Statewide
+  long_description: In 2019, the Governor of Connecticut announced a Performance and
+    Results Agenda, which included linking data to generate cost-savings, cross-agency
+    collaboration, and streamlining digital services. In addition, the Department
+    of Public Health has a performance management system, which tracks the state’s
+    COVID-19 indicators as well as measures for the Healthy Connecticut 2020 State
+    Health Improvement Plan.
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - COVID-19
+  - Economic Mobility
+  - Health
+  year: '2020'
+  status: New
