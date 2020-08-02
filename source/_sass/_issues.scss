@@ -16,7 +16,7 @@
     @extend .u-material-icons;
     content: 'gavel';
   }
-  &--economic-opportunity::before {
+  &--economic-mobility::before {
     @extend .u-material-icons;
     content: 'trending_up';
   }
@@ -24,13 +24,17 @@
     @extend .u-material-icons;
     content: 'school';
   }
-  &--health::before {
+  &--health::before, &--covid-19::before {
     @extend .u-material-icons;
     content: 'local_hospital';
   }
   &--workforce::before {
     @extend .u-material-icons;
     content: 'people_alt';
+  }
+  &--statewide-evidence-building-capacity::before {
+    @extend .u-material-icons;
+    content: 'insights';
   }
 }
 

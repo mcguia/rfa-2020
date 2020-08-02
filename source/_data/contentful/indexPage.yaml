@@ -1036,9 +1036,9 @@ indexPage:
 - sys:
     id: 6Ap1JlR5RqMa1PSh9Kqrue
     created_at: !ruby/object:DateTime 2020-07-30 10:11:40.983000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-01 23:08:16.530000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-02 18:33:21.957000000 Z
     content_type_id: indexPage
-    revision: 5
+    revision: 7
   year: '2020'
   short_description: "The Invest in What Works State Standard of Excellence sets a
     national benchmark—a “north star”—for how state governments can consistently and
@@ -1058,9 +1058,9 @@ indexPage:
     governments, policymakers, and the public about the effectiveness of using evidence
     and data to invest taxpayer dollars in what works. To further help states meet
     the State Standard of Excellence’s national benchmarks, the recently released
-    Blueprint for Delivering Results in State Government provides state leaders with
-    implementation strategies and actions for consistently and effectively using evidence
-    and data to improve residents’ lives."
+    *[Blueprint for Delivering Results in State Government](https://blueprint.results4america.org/)*
+    provides state leaders with implementation strategies and actions for consistently
+    and effectively using evidence and data to improve residents’ lives."
   blueprint_url: https://blueprint.results4america.org/
   criteria:
   - sys:
@@ -1476,29 +1476,7 @@ indexPage:
     states to tailor their response activities in equity-informed ways. States are
     also encouraging community engagement and civic innovation by publicly posting
     open data daily on state websites in Massachusetts, Washington, Connecticut, and
-    more. \n\n__States Leverage Data to Support Pandemic Response Efforts__\n\nAll
-    50 states publicly posted coronavirus data, but states with the ability to link,
-    share, and integrate data are well-positioned to incorporate data insights into
-    response efforts. For example, InnovateOhio's statewide data-sharing and integration
-    platform (see Ohio example in Criteria 4), gave Ohio a head start on providing
-    actionable COVID-related data to decision-makers. By using an existing infrastructure,
-    the state obtains vital information, such as hospital capacity, more quickly by
-    turning quarterly data deadlines into daily data reports.\n\nConnecticut’s statewide
-    data-sharing infrastructure helped the state leverage existing data-sharing agreements
-    to match student and SNAP data, enabling students to directly receive SNAP Pandemic
-    EBT food benefits with no application necessary (see Connecticut example in Criteria
-    5). Similarly, in administering the federal COVID-19 Pandemic Unemployment Assistance
-    program, Rhode Island’s Department of Labor and Training launched an improved
-    cloud-based system to manage the surge in unemployment claims. This system enabled
-    Rhode Island to be among the first states in the nation to allocate Pandemic Unemployment
-    Assistance benefits in the face of record-high unemployment claims (see Rhode
-    Island example in Criteria 4). Virginia’s Chief Data Officer spearheaded the creation
-    of a roadmap for more integrated data usage that allowed an existing cross-agency
-    data platform, initially launched to coordinate opioid crisis data, to be used
-    to for  data-driven decision-making in response to COVID-19 (see Virginia examples
-    in Criteria 3, 4, and 5). These efforts demonstrate how states were able to use
-    existing data infrastructure to more rapidly provide or expand services and benefits
-    in response to the COVID-19 pandemic.\n"
+    more.\n"
   evidence_in_state_budgets_accordion: "States have also positioned themselves to
     leverage evidence and data infrastructure as part of the budget process. This
     approach to using evidence in fiscal decision-making can foster innovation, build
@@ -1525,4 +1503,27 @@ indexPage:
     to demonstrate program effectiveness and improvement of outcomes, rather than
     simply counting activities and outputs (see Rhode Island example in Criteria 9).
     Collectively these actions by states signal a growing commitment to using evidence
-    in fiscal decisions to fund programs that have proven results."
+    in fiscal decisions to fund programs that have proven results.\n\n__States Leverage
+    Data to Support Pandemic Response Efforts__\n\nAll 50 states publicly posted coronavirus
+    data, but states with the ability to link, share, and integrate data are well-positioned
+    to incorporate data insights into response efforts. For example, InnovateOhio's
+    statewide data-sharing and integration platform (see Ohio example in Criteria
+    4), gave Ohio a head start on providing actionable COVID-related data to decision-makers.
+    By using an existing infrastructure, the state obtains vital information, such
+    as hospital capacity, more quickly by turning quarterly data deadlines into daily
+    data reports.\n\nConnecticut’s statewide data-sharing infrastructure helped the
+    state leverage existing data-sharing agreements to match student and SNAP data,
+    enabling students to directly receive SNAP Pandemic EBT food benefits with no
+    application necessary (see Connecticut example in Criteria 5). Similarly, in administering
+    the federal COVID-19 Pandemic Unemployment Assistance program, Rhode Island’s
+    Department of Labor and Training launched an improved cloud-based system to manage
+    the surge in unemployment claims. This system enabled Rhode Island to be among
+    the first states in the nation to allocate Pandemic Unemployment Assistance benefits
+    in the face of record-high unemployment claims (see Rhode Island example in Criteria
+    4). Virginia’s Chief Data Officer spearheaded the creation of a roadmap for more
+    integrated data usage that allowed an existing cross-agency data platform, initially
+    launched to coordinate opioid crisis data, to be used to for  data-driven decision-making
+    in response to COVID-19 (see Virginia examples in Criteria 3, 4, and 5). These
+    efforts demonstrate how states were able to use existing data infrastructure to
+    more rapidly provide or expand services and benefits in response to the COVID-19
+    pandemic."
