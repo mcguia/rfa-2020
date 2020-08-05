@@ -41,6 +41,34 @@
       color: white;
     }
   }
+  .button--blueprint {
+    position: fixed;
+    right: 0;
+    display: none;
+    border-right: 0 !important;
+    @media only screen and (min-width: 1220px) {
+      display: block;
+    }
+    span {
+      text-align: left;
+      float: left;
+      margin: 0;
+      position: relative;
+      font-size: 1.3rem;
+      line-height: 125%;
+      font-weight: 600;
+    }
+
+    background-color: $dark-blue;
+    color: white;
+    margin: 0;
+    padding: 1.3rem;
+    text-transform: none;
+    &:hover {
+      background-color: white;
+      color: $dark-blue;
+    }
+  }
 }
 
 .mobile-controls {

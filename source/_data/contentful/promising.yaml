@@ -4510,19 +4510,21 @@ promising:
 - sys:
     id: 4l0rBknOgLBoJ45Dlzh7ur
     created_at: !ruby/object:DateTime 2020-07-30 09:42:58.651000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 09:42:58.651000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:12:15.183000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Arizona
   state_abbreviation: AZ
   type: Statewide
-  long_description: Since 2017, the Arizona Governor’s Office has developed and updated
-    the Governor's Fundamentals Map, which lists goals under six statewide priority
-    areas. All cabinet agencies are required to complete an annual strategic plan
+  long_description: 'Since 2017, the Arizona Governor’s Office has developed and updated
+    the [Governor''s Fundamentals Map](https://ams.az.gov/sites/default/files/Fundamentals-Map-vFINAL-U02.pdf),
+    which lists goals under six statewide [priority areas](https://azgovernor.gov/governor/priorities).
+    All cabinet agencies are required to complete an [annual strategic plan](http://www.ospb.state.az.us/strategic-plans.aspx)
     that includes annual objectives, metrics, and initiatives, which are captured
-    in My Agency Scorecards. In 2020, the Governor’s Office of Strategic Planning
-    and Budgeting hired a statewide Strategic Planner to further support the multi-year
-    strategic planning processes.
+    in [My Agency Scorecards](https://ams.az.gov/my_agency_scorecard). In 2020, the
+    Governor’s [Office of Strategic Planning and Budgeting](http://www.ospb.state.az.us)
+    hired a statewide Strategic Planner to further support the multi-year strategic
+    planning processes.  '
   criteria: Strategic Goals
   issue:
   - Child Welfare
@@ -4569,18 +4571,20 @@ promising:
 - sys:
     id: 6nHldAoSiwnzPvmjam50jj
     created_at: !ruby/object:DateTime 2020-07-30 09:51:08.814000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 09:51:08.814000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:16:38.269000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Kentucky
   state_abbreviation: KY
   type: Statewide
-  long_description: The Kentucky Governor has statewide priorities focused on wages,
-    health care, education, retirement, and transparency. State agencies are required
-    to align their activities to the Governor’s priorities and establish, maintain,
-    and publish strategic plans. In March 2020, the Governor took actions to elevate
-    Kentucky’s COVID-19 crisis response as the state’s highest priority and publicly
-    committed to a statewide, data-driven response.
+  long_description: The Kentucky Governor has statewide priorities focused on [wages](https://governor.ky.gov/Priority/Pages/Wages.aspx),
+    [health care](https://governor.ky.gov/Priority/Pages/Health-Care.aspx), [education](https://governor.ky.gov/Priority/Pages/Education.aspx),
+    [retirement](https://governor.ky.gov/Priority/Pages/Retirement.aspx), and [transparency](https://governor.ky.gov/Priority/Pages/Example.aspx).
+    State agencies are required to align their activities to the Governor’s priorities
+    and establish, maintain, and publish strategic plans. In March 2020, the Governor
+    [took actions to elevate](https://governor.ky.gov/covid-19) Kentucky’s COVID-19
+    crisis response as the state’s highest priority and [publicly committed](https://www.rev.com/blog/transcripts/gov-andy-beshear-kentucky-covid-19-transcript-april-5)
+    to a statewide, data-driven response.
   criteria: Strategic Goals
   issue:
   - Economic Mobility
@@ -4593,16 +4597,17 @@ promising:
 - sys:
     id: 1Rcvl0VRStF9JCmGSvQzqR
     created_at: !ruby/object:DateTime 2020-07-30 09:52:25.115000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 09:52:33.824000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:14:28.137000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Pennsylvania
   state_abbreviation: PA
   type: Statewide
-  long_description: 'The Pennsylvania Governor has three statewide goals: Jobs that
-    Pay, Schools that Teach, and Government that Works. For each goal, the governor’s
-    office developed subgoals with key performance measures sourced from the state’s
-    open data platform to track the progress in all three strategic areas.'
+  long_description: 'The Pennsylvania Governor has [three statewide goals](https://data.pa.gov/stories/s/kcju-zzfu):
+    Jobs that Pay, Schools that Teach, and Government that Works. For each goal, the
+    governor’s office developed subgoals with key [performance measures](https://data.pa.gov/stories/s/kcju-zzfu)
+    sourced from the state’s [open data platform](https://data.pa.gov/browse) to track
+    the progress in all three strategic areas. '
   criteria: Strategic Goals
   issue:
   - Education
@@ -4614,17 +4619,20 @@ promising:
 - sys:
     id: 4NAeLbaVWU7JjwxwkLEh7c
     created_at: !ruby/object:DateTime 2020-07-30 09:53:20.897000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 09:53:20.897000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:11:07.737000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Tennessee
   state_abbreviation: TN
   type: Statewide
-  long_description: 'The Tennessee Governor has five priorities: Education and Workforce
-    Development, Jobs and Rural Economic Development, Transparent and Efficient Government,
-    Healthier Tennessee, and Public Safety and Criminal Justice Reform. Specific metrics
-    tied to the success of each priority area are publicly displayed on the state’s
-    Transparent TN website.'
+  long_description: 'The Tennessee Governor has [five priorities](https://www.tn.gov/transparenttn/governors-priorities.html):
+    [Education and Workforce Development](https://www.tn.gov/transparenttn/governors-priorities/education-workforce-development.html),
+    [Jobs and Rural Economic Development](https://www.tn.gov/transparenttn/governors-priorities/jobs-economic-development.html),
+    [Transparent and Efficient Government](https://www.tn.gov/transparenttn/governors-priorities/fiscal-strength-efficient-government.html),
+    [Healthier Tennessee](https://www.tn.gov/transparenttn/governors-priorities/health-welfare.html),
+    and [Public Safety and Criminal Justice Reform](https://www.tn.gov/transparenttn/governors-priorities/public-safety.html).
+    Specific metrics tied to the success of each priority area are publicly displayed
+    on the state’s [Transparent TN website](https://www.tn.gov/transparenttn.html).'
   criteria: Strategic Goals
   issue:
   - Education
@@ -4636,16 +4644,19 @@ promising:
 - sys:
     id: 2t8qjyPGFi0URfM6TUzlla
     created_at: !ruby/object:DateTime 2020-07-30 09:55:28.595000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 09:55:28.595000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:08:41.542000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Utah
   state_abbreviation: UT
   type: Statewide
-  long_description: 'In 2018, the Utah Governor’s Office released the Utah Life Elevated
-    2020 Initiative, which includes four statewide goals: effective and efficient
-    government, thriving communities, qualified workforce, and equitable and competitive
-    revenue.'
+  long_description: 'In 2018, the Utah Governor’s Office released the [Utah Life Elevated
+    2020 Initiative](https://gomb.utah.gov/life-elevated-2020-initiative/), which
+    includes four statewide goals: effective and efficient government, thriving communities,
+    qualified workforce, and equitable and competitive revenue. Statewide goals were
+    joined by high priority [COVID-19 response goals](https://coronavirus-download.utah.gov/Governor/Utah-Leads-Together-Plan-Summary%20(1).pdf)
+    and strategies that were elevated in March 2020 to help Utah recover from the
+    pandemic.'
   criteria: Strategic Goals
   issue:
   - Economic Mobility
@@ -4656,20 +4667,25 @@ promising:
 - sys:
     id: 37HK8LeIDZiXacSMCWXRTj
     created_at: !ruby/object:DateTime 2020-07-30 09:57:07.831000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 09:57:59.491000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:06:14.162000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 4
   state: Vermont
   state_abbreviation: VT
   type: Statewide
-  long_description: 'Vermont''s 2018-2023 Strategic Plan included four statewide goals:
-    the economy, affordability, vulnerability, and modernization. These priority areas
-    were established by a 2017 Vermont executive order which required all agencies
-    “to establish the following cornerstones as their strategic and operational goals:
-    growing the Vermont economy; making Vermont an affordable place to live, work,
-    and do business; and protecting vulnerable Vermonters.” As required by a 2014
-    law and a related executive order, the state’s Chief Performance Officer annually
-    reports data related to the state’s goals and fiscal transparency.'
+  long_description: 'Vermont''s [2018-2023 Strategic Plan](https://strategicplan.vermont.gov/sites/strategicplan/files/documents/Theme-plans/Strategic%20Plans%20All%20Agencies%20by%20Theme%20v1.3new_wCover.pdf)
+    included four statewide goals: the [economy](https://strategicplan.vermont.gov/economy),
+    [affordability](https://strategicplan.vermont.gov/affordability), [vulnerability](https://strategicplan.vermont.gov/vulnerability),
+    and [modernization](https://strategicplan.vermont.gov/modernization). These priority
+    areas were established by a [2017 Vermont executive order](https://governor.vermont.gov/sites/scott/files/documents/EO1Strategic%20Goals.FINALpdf2.pdf),
+    which required all agencies “to establish the following cornerstones as their
+    strategic and operational goals: growing the Vermont economy; making Vermont an
+    affordable place to live, work, and do business; and protecting vulnerable Vermonters.”
+    As required by a [2014 law](http://www.leg.state.vt.us/DOCS/2014/ACTS/ACT186.PDF)
+    and a related [executive order](https://governor.vermont.gov/sites/scott/files/documents/EO4PIVOT%20EO%20Final.pdf),
+    the state’s [Chief Performance Officer](https://aoa.vermont.gov/secretary/divisions#CPO)
+    annually [reports](https://spotlight.vermont.gov/sites/spotlight/files/Performance/2019%20OUTCOMES%20REPORT_Scorecard.pdf)
+    data related to the state’s goals and [fiscal transparency](https://spotlight.vermont.gov/).'
   criteria: Strategic Goals
   issue:
   - Economic Mobility
@@ -4683,16 +4699,19 @@ promising:
 - sys:
     id: 3ydd84RN5q4tfLnNVwQq2p
     created_at: !ruby/object:DateTime 2020-07-30 09:58:49.178000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 09:58:49.178000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:58:34.833000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Washington
   state_abbreviation: WA
   type: Statewide
-  long_description: 'In 2017, the Washington Governor’s Office issued five overarching
-    goals with aligned outcome measures: world-class education; prosperous economy;
-    sustainable energy and clean environment; healthy and safe communities; and effective,
-    efficient, and accountable government.'
+  long_description: 'In 2017, the Washington Governor’s Office issued [five overarching
+    goals](https://results.wa.gov/measuring-progress) with aligned outcome measures:
+    [world-class education](https://results.wa.gov/measuring-progress/outcome-measures/world-class-education);
+    [prosperous economy](https://results.wa.gov/measuring-progress/outcome-measures/prosperous-economy);
+    [sustainable energy and clean environment](https://results.wa.gov/measuring-progress/outcome-measures/sustainable-energy-and-clean-environment);
+    [healthy and safe communities](https://results.wa.gov/measuring-progress/outcome-measures/healthy-and-safe-communities);
+    and [effective, efficient, and accountable government](https://results.wa.gov/measuring-progress/outcome-measures/efficient-effective-and-accountable-government).'
   criteria: Strategic Goals
   issue:
   - Economic Mobility
@@ -4705,22 +4724,24 @@ promising:
 - sys:
     id: 6Y2nmvtx89Kd1OlaSNGhNL
     created_at: !ruby/object:DateTime 2020-07-30 10:06:47.447000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:06:47.447000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:18:48.065000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: California
   state_abbreviation: CA
   type: Multiple agencies
-  long_description: 'California’s Department of Health Care Services has a performance
-    dashboard initiative that aggregates enrollment, client demographic, access, and
-    coverage data. The information is also available on the California Health and
-    Human Services Open Data Portal. The state’s Department of Social Services uses
-    the Cal-OAR system to continuously improve county-based CalWORKs programs by collecting,
-    analyzing, and disseminating outcomes and best practices. The California Department
-    of Education’s California School Dashboard documents state and local education
-    performance. The state indicators include: academic information, English learner
-    progress, chronic absenteeism, graduation rate, suspension rate, and college/career
-    readiness.'
+  long_description: 'California’s Department of Health Care Services has a [performance
+    dashboard initiative](https://www.dhcs.ca.gov/provgovpart/Pages/DHCSDashboardInitiative.aspx)
+    that aggregates enrollment, client demographic, access, and coverage data. The
+    information is also available on the [California Health and Human Services Open
+    Data Portal](https://data.chhs.ca.gov). The state’s Department of Social Services
+    uses the [Cal-OAR](https://www.cdss.ca.gov/inforesources/CalWORKs/Cal-OAR) system
+    to continuously improve county-based CalWORKs programs by collecting, analyzing,
+    and disseminating outcomes and best practices. The California Department of Education’s
+    [California School Dashboard](https://www.caschooldashboard.org/) documents state
+    and local education performance. The [state indicators](https://www.caschooldashboard.org/about/faq)
+    include: academic information, English learner progress, chronic absenteeism,
+    graduation rate, suspension rate, and college/career readiness. '
   criteria: Performance Management / Continuous Improvement
   issue:
   - Health
@@ -4730,22 +4751,23 @@ promising:
 - sys:
     id: 3IkjjOqBqYkJPO9egvxewz
     created_at: !ruby/object:DateTime 2020-07-30 10:08:29.327000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:08:29.327000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:47:49.148000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Statewide
-  long_description: 'A 2013 Colorado law required all state agencies to submit annual
-    performance reports to the Colorado state legislature, which must include: (1)
-    performance measures for the major functions of the department; (2) performance
-    goals for at least the subsequent three years; (3) a description of the strategies
-    necessary to achieve those goals; and (4) a summary of the department’s most recent
-    performance evaluation. In 2019, the Governor asked agencies to identify Wildly
-    Important Goals that roll-up to the statewide Bold Four goals and to align their
-    operations to achieve those goals. Reported monthly on the Governor''s dashboard,
-    these goals are aligned to the state’s budget and are coordinated by inter-agency
-    working groups.'
+  long_description: 'A [2013 Colorado law](https://operations.colorado.gov/performance-management)
+    required all state agencies to submit [annual performance reports](https://www.colorado.gov/performancemanagement/department-performance-plans)
+    to the Colorado state legislature, which must include: (1) performance measures
+    for the major functions of the department; (2) performance goals for at least
+    the subsequent three years; (3) a description of the strategies necessary to achieve
+    those goals; and (4) a summary of the department’s most recent performance evaluation.
+    In 2019, the Governor asked agencies to identify [Wildly Important Goals](https://dashboard.state.co.us/default.htm)
+    that roll-up to the statewide Bold Four goals and to [align their operations](https://operations.colorado.gov/department-performance-plans)
+    to achieve those goals. Reported monthly on the Governor''s [dashboard](https://dashboard.state.co.us/departments.htm),
+    these goals are aligned to the state’s budget and are coordinated by [inter-agency
+    working groups](https://dashboard.state.co.us/learn-more.htm).'
   criteria: Performance Management / Continuous Improvement
   issue:
   - Child Welfare
@@ -4759,20 +4781,24 @@ promising:
 - sys:
     id: 6vM7XhybeFTN3rGIT1OuX6
     created_at: !ruby/object:DateTime 2020-07-30 10:09:06.107000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:09:06.107000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 16:13:45.936000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Florida
   state_abbreviation: FL
   type: Single agency
-  long_description: 'A 2014 Florida law created the Florida Department of Children
-    and Families’ results-oriented accountability program. This program monitors data
-    from service providers and other entities to report progress via a public child
-    welfare performance dashboard. In addition, the Department publishes interactive
-    scorecards with detailed information on program performance for: community based
-    care, federal child welfare indicators, child protective investigations, and adult
-    protective services. Pursuant to the law, the Office of Child Welfare publishes
-    an annual performance report.'
+  long_description: 'A [2014 Florida law](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0400-0499/0409/Sections/0409.997.html)
+    created the Florida Department of Children and Families’ [results-oriented accountability
+    program](http://www.cwicenter.org/ResultsOrientedAccountablility.shtml). This
+    program monitors data from service providers and other entities to report progress
+    via a public child welfare [performance dashboard](http://www.dcf.state.fl.us/programs/childwelfare/dashboard/index.shtml).
+    In addition, the Department publishes interactive [scorecards](https://www.myflfamilies.com/programs/childwelfare/dashboard/)
+    with detailed information on program performance for: [community-based care](https://www.myflfamilies.com/programs/childwelfare/dashboard/overview.shtml?Select%20Measures%20to%20Display=CBC%20Scorecard),
+    [federal child welfare indicators](http://www.centerforchildwelfare.org/qa/cwkeyindicator/KI_Monthly_Report_May2020.pdf),
+    [child protective investigations](https://www.myflfamilies.com/programs/childwelfare/dashboard/overview.shtml?Select%20Measures%20to%20Display=CPI%20Scorecard),
+    and [adult protective services](https://www.myflfamilies.com/general-information/planning-performance-measures/aps/APS%20-%20April%202020%20Performance.pdf).
+    Pursuant to the law, the Office of Child Welfare publishes an [annual performance
+    report](https://www.myflfamilies.com/service-programs/child-welfare/docs/2019LMRs/2018-19%20ROA%20Annual%20Performance%20Report.pdf).'
   criteria: Performance Management / Continuous Improvement
   issue:
   - Child Welfare
@@ -4782,15 +4808,16 @@ promising:
 - sys:
     id: 1jrlPC5speVzSGlcRRuHbc
     created_at: !ruby/object:DateTime 2020-07-30 10:46:50.679000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:46:50.679000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:13:07.463000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Arkansas
   state_abbreviation: AR
   type: Statewide
-  long_description: In 2020, Arkansas named the state’s new Chief Data Officer. The
-    Chief Data Officer position, created by a 2017 law, leads the state's efforts
-    to improve data use, infrastructure, and security.
+  long_description: In 2020, Arkansas [named](https://www.transform.ar.gov/news/state-of-arkansas-names-chief-data-officer/)
+    the state’s new Chief Data Officer. The Chief Data Officer position, created by
+    a [2017 law](https://legiscan.com/AR/text/HB1793/id/1587732), leads the state's
+    efforts to improve data use, infrastructure, and security.
   criteria: Data Leadership
   issue:
   - Statewide Evidence-Building Capacity
@@ -4799,13 +4826,15 @@ promising:
 - sys:
     id: 6oaDuZyVRYszqebTkJHXlD
     created_at: !ruby/object:DateTime 2020-07-30 10:47:24.826000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:47:24.826000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:17:20.011000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: California
   state_abbreviation: CA
   type: Statewide
-  long_description: In 2020, California appointed a new Chief Data Officer. This position
+  long_description: In 2020, California [appointed](https://www.gov.ca.gov/2020/01/30/governor-newsom-announces-appointments-1-30-20/)
+    a new [Chief Data Officer](https://www.govops.ca.gov/departments/executive-staff/).
+    This [position](https://jobs.codeforamerica.org/job-postings/1391-chief-data-officer)
     is responsible for creating data strategies that improve programs statewide and
     lead to better outcomes, with a particular focus on connecting traditionally siloed
     data.
@@ -4817,19 +4846,21 @@ promising:
 - sys:
     id: 3GEvB9g189pvkHLp8lCDmq
     created_at: !ruby/object:DateTime 2020-07-30 10:49:07.785000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:49:07.785000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:46:19.538000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Statewide
   long_description: 'Colorado’s Chief Data Officer position determines the state’s
     data strategy, policies, standards, and management with the support of the state’s
-    Government Data Advisory Board, which was created by a 2009 state statute. The
-    Board utilizes subcommittees that focus on policy areas, such as: education, early
-    childhood development, and privacy. Within state agencies, data officers, analysts,
-    and researchers also support data collection, analysis and use, with a total of
-    70% of state agencies in Colorado reporting dedicated data leadership entities. '
+    [Government Data Advisory Board](http://oit.state.co.us/cto/cim/government-data-advisory-board),
+    which was created by a [2009 state statute](http://www.statebillinfo.com/bills/bills/09/1285_enr.pdf).
+    The Board utilizes [subcommittees](http://oit.state.co.us/cto/cim/data-management)
+    that focus on policy areas, such as: education, early childhood development, and
+    privacy. Within state agencies, data officers, analysts, and researchers also
+    support data collection, analysis and use, with a total of 70% of state agencies
+    in Colorado reporting dedicated data leadership entities. '
   criteria: Data Leadership
   issue:
   - Statewide Evidence-Building Capacity
@@ -4838,17 +4869,19 @@ promising:
 - sys:
     id: 2tVFw37nLOugHHxxFyB7q3
     created_at: !ruby/object:DateTime 2020-07-30 10:54:14.468000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:54:14.468000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:07:07.416000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Arizona
   state_abbreviation: AZ
   type: Multiple agencies
-  long_description: In 2019, Arizona’s Department of Administration implemented an
-    enterprise memorandum of understanding (eMOU) for data-sharing, which has been
-    signed by 28 state agencies. The eMOU sets forth governance standards for data
-    sharing according to the statewide data policy and has a presumption of data sharing
-    between agencies, unless specifically prohibited by law.
+  long_description: 'In 2019, Arizona’s Department of Administration implemented an
+    enterprise [memorandum of understanding](https://aset.az.gov/sites/default/files/Arizona%20Interagency%20Data%20Sharing%20Memorandum%20of%20Understanding%20v2-1.pdf)
+    (eMOU) for data sharing, which has been signed by 28 state agencies. The eMOU
+    sets forth governance standards for data sharing according to the statewide [data
+    policy](https://aset.az.gov/sites/default/files/P4440%20Data%20Governance%20Data%20Interoperability%20Policy%20-%20signed.pdf)
+    and has a presumption of data sharing between agencies, unless specifically prohibited
+    by law. '
   criteria: Data Policies / Agreements
   issue:
   - Statewide Evidence-Building Capacity
@@ -4857,19 +4890,21 @@ promising:
 - sys:
     id: 4SjW0tonAYDFSZ1OGt1Ung
     created_at: !ruby/object:DateTime 2020-07-30 10:54:59.386000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:54:59.386000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:22:48.131000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: California
   state_abbreviation: CA
   type: Statewide
-  long_description: California’s statewide Open Data Policy encourages departments
-    to share data in standard and accessible formats through the California Open Data
-    Portal. As outlined in the California Open Data Handbook, the state’s open data
-    efforts are designed to improve collaboration, expand transparency, encourage
-    innovation, and increase effectiveness. In addition, the state hosts CalData,
-    a professional network for government officials and partners to promote the best
-    uses of open data.
+  long_description: 'California’s statewide [Open Data Policy](https://cdt.ca.gov/wp-content/uploads/2019/03/TL-19-01.pdf)
+    encourages departments to [share data](https://www.dgsapps.dgs.ca.gov/documents/sam/SamPrint/NEW/SAM_Master/SAM_Master_File/Chap5100/5160.1.pdf)
+    in standard and accessible formats through the California Open Data Portal. As
+    outlined in the [California Open Data Handbook](https://data.ca.gov/), the state’s
+    open data efforts are designed to improve collaboration, expand transparency,
+    encourage innovation, and increase effectiveness. In addition, the state hosts
+    [CalData](https://www.govops.ca.gov/eureka-institute/ca-open-data/), a professional
+    network for government officials and partners to promote the best uses of open
+    data. '
   criteria: Data Policies / Agreements
   issue:
   - Statewide Evidence-Building Capacity
@@ -4878,27 +4913,15 @@ promising:
 - sys:
     id: 15FcLeT4AxBMCayYWMmA6a
     created_at: !ruby/object:DateTime 2020-07-30 10:55:38.435000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 10:55:38.435000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:45:08.740000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Multiple agencies
-  long_description: 'In 2019, the Colorado Governor’s Office and the Colorado Evaluation
-    and Action Lab co-designed the Linked Information Network of Colorado (LINC) to
-    facilitate data sharing for research and analytics. The Network is designed to
-    share data across state agencies and provide de-identified data to perform robust,
-    academically rigorous research to inform policy. LINC has a three-tier legal structure,
-    which includes: (1) an enterprise memorandum of understanding (eMOU) signed by
-    all data providers; (2) data-sharing agreements to secure, handle, and anonymize
-    data for all LINC projects; and (3) data licenses with roles and responsibilities
-    for users of LINC project data. In addition, the Colorado Department of Higher
-    Education was the first state agency in the nation to partner on a pilot project
-    with the U.S. Census Bureau to match federal unemployment insurance data with
-    postsecondary degree completion data. At the state and county level, the Colorado
-    Department of Human Services’ C-Stat performance management system facilitates
-    data sharing among its 64 counties by providing dashboards to track key metrics
-    and Performance and Partnerships Exchanges to facilitate sharing of best practices.'
+  long_description: |-
+    Education, Health, Workforce; Statewide Evidence-Building Capacity,)
+    In 2019, the Colorado Governor’s Office and the Colorado Evaluation and Action Lab co-designed the [Linked Information Network of Colorado (LINC)](https://coloradolab.org/linc/) to facilitate data sharing for research and analytics. The Network is designed to share data across state agencies and provide de-identified data to perform robust, academically rigorous research to inform policy. LINC has a [three-tier legal structure](https://coloradolab.org/wp-content/uploads/2019/05/LINC-Data-Initiative-Description.pdf#page=2), which includes: (1) an enterprise memorandum of understanding (eMOU) signed by all data providers; (2) data-sharing agreements to secure, handle, and anonymize data for all LINC projects; and (3) data licenses with roles and responsibilities for users of LINC project data. In addition, the Colorado Department of Higher Education was the first state agency in the nation to partner on a [pilot project](https://lehd.ces.census.gov/data/pseo_experimental.html) with the U.S. Census Bureau to match federal unemployment insurance data with postsecondary degree completion data. At the state and county level, the Colorado Department of Human Services’ [C-Stat performance management system](https://www.colorado.gov/pacific/cdhs/c-stat) facilitates [data sharing](https://www.pewtrusts.org/en/research-and-analysis/articles/2020/03/10/colorado-and-its-counties-work-together-to-improve-human-services-programs) among its 64 counties by providing dashboards to track key metrics and [Performance and Partnerships Exchanges](https://www.colorado.gov/pacific/cdhs/performance-partnerships-exchange) to facilitate sharing of best practices.
   criteria: Data Policies / Agreements
   issue:
   - Economic Mobility
@@ -4911,21 +4934,23 @@ promising:
 - sys:
     id: 29WNIRhdmuStxsW0yHm04Y
     created_at: !ruby/object:DateTime 2020-07-30 11:32:15.703000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:32:15.703000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:14:44.151000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Arkansas
   state_abbreviation: AR
   type: Statewide
-  long_description: A 2019 Arkansas law created the Data-Sharing and Data-Driven Decision-Making
-    Task Force “to implement a shared services model for statewide data sharing in
-    order to drive innovation and facilitate efficiency across state agencies, improve
-    the delivery of services, and to better serve the citizens of this state.” In
-    December 2019, the Task Force reported recommendations to create a statewide centralized
-    data hub and analytics center, establish a data-sharing and data-driven decision-making
-    subcommittee in the state legislature, and require agencies to enter into data-sharing
-    agreements to augment data-sharing and integration efforts. A new committee was
-    established to continue the work of the task force through December 2020.
+  long_description: A [2019 Arkansas law](http://www.arkleg.state.ar.us/assembly/2019/2019R/Acts/Act943.pdf)
+    created the [Data-Sharing and Data-Driven Decision-Making Task Force](https://www.arkleg.state.ar.us/Committees/Detail?ddBienniumSession=2019%2F2019R&committeecode=504)
+    “to implement a shared services model for statewide data sharing in order to drive
+    innovation and facilitate efficiency across state agencies, improve the delivery
+    of services, and to better serve the citizens of this state.” In December 2019,
+    the Task Force [reported](https://www.arkleg.state.ar.us/Calendars/Attachment?committee=685&agenda=3195&file=Exhibit%20G%20Data-Sharing%20and%20Data-Driven%20Decision-Making%20Task%20Force%20Report.pdf)
+    recommendations to create a statewide centralized data hub and analytics center,
+    establish a data-sharing and data-driven decision-making subcommittee in the state
+    legislature, and require agencies to enter into data-sharing agreements to augment
+    data-sharing and integration efforts. A [new committee](https://www.arkleg.state.ar.us/Committees/Detail?code=073&ddBienniumSession=2019%2F2020F)
+    was established to continue the work of the task force through December 2020.
   criteria: Data Use
   issue:
   - Criminal Justice
@@ -4935,16 +4960,17 @@ promising:
 - sys:
     id: 1M3D3noz4D1McLFRL68bh5
     created_at: !ruby/object:DateTime 2020-07-30 11:39:15.952000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:39:35.897000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:39:08.820000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Colorado
   state_abbreviation: CO
   type: Multiple agencies
   long_description: |-
-    Colorado’s Department of Public Health and Environment extended their geospatial data and resource library to encompass a wide range of COVID-19-related data, including: hospital data, incidence and epidemic curve data, outbreak data, and surveillance data. Daily state-level data keeps policymakers informed with up-to-date information on COVID-related indicators. The Department’s open data portal also maps operational community testing sites that receive COVID-19 testing resources from the state.
+    Colorado’s Department of Public Health and Environment extended their [geospatial data and resource library](https://data-cdphe.opendata.arcgis.com/) to encompass a wide range of COVID-19-related data, including: [hospital data](https://covid19.colorado.gov/hospital-data), [incidence and epidemic curve data](https://covid19.colorado.gov/data/incidence-epidemic-curve), [outbreak data](https://covid19.colorado.gov/data/outbreak-data), and [surveillance data](https://covid19.colorado.gov/data/surveillance-data). Daily state-level data keeps policymakers informed with up-to-date information on COVID-related indicators. The Department’s open data portal also maps [operational community testing sites](https://cdphe.maps.arcgis.com/apps/PublicInformation/index.html?appid=7da93ffdaf954ef5ab5d74ab22dcbd4e) that receive COVID-19 testing resources from the state.
 
-    In 2019, the Colorado Governor’s Office and the Colorado Evaluation and Action Lab at the University of Denver co-designed the Linked Information Network of Colorado (LINC) to facilitate data sharing for research and analytics purposes as a way to improve state policies and programs. Using this data, the Lab and state agencies have collaborated on projects to improve outcomes in areas such as education, renewable energy, reentry and racial disparities in criminal justice, prenatal health, and the early childhood education workforce.
+
+    In 2019, the Colorado Governor’s Office and the [Colorado Evaluation and Action Lab](https://coloradolab.org) at the University of Denver co-designed the [Linked Information Network of Colorado (LINC)](https://coloradolab.org/linc/) to facilitate data sharing for research and analytics purposes as a way to improve state policies and programs. Using this data, the Lab and state agencies have collaborated on [projects](https://coloradolab.org/projects/2020-projects/) to improve outcomes in areas such as education, renewable energy, reentry and racial disparities in criminal justice, prenatal health, and the early childhood education workforce.
   issue:
   - Child Welfare
   - Criminal Justice
@@ -4957,28 +4983,31 @@ promising:
 - sys:
     id: 1q5ICZSzuhSsHBTrnE5kRm
     created_at: !ruby/object:DateTime 2020-07-30 11:40:17.370000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:40:17.370000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:57:11.500000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Connecticut
   state_abbreviation: CT
   type: Multiple agencies
   long_description: "The Connecticut Departments of Education and Social Services
     leveraged data-sharing agreements by matching student and SNAP benefit data to
-    automatically certify SNAP Pandemic EBT for more than 287,000 Connecticut students
-    who receive free or reduced-price meals. This allowed the state to provide meals
-    to 82,000 students participating in only the National School Lunch Program and
-    School Breakfast Program, but who do not receive food assistance through SNAP,
-    Medicaid, or other food assistance programs. The state also partnered with food
-    retailers to allow SNAP enrollees to use their benefits to purchase eligible food
-    items online.\n\nConnecticut’s statewide longitudinal data system, P20 WIN, brings
-    together workforce, education and supportive servicessecure workforce and education
-    data to inform educational policy and practiceevaluate the state’s education programs.
-    Created by participating agencies, it houses extensive documentation, including
-    data-sharing agreements, a robust data management process, and a data dictionary.
-    In 2020, P20 WIN received an expansion grant through the National Center for Education
-    Statistics to build agency analytical capacity and to expand P20 WIN to to include
-    information from state human service agencies. "
+    automatically certify [SNAP Pandemic EBT](https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP)
+    for more than 287,000 Connecticut students who receive free or reduced-price meals.
+    This allowed the state to provide meals to 82,000 students participating in only
+    the National School Lunch Program and School Breakfast Program, but who do not
+    receive food assistance through SNAP, Medicaid, or other food assistance programs.
+    The state also partnered with food retailers to allow SNAP enrollees to use their
+    benefits to purchase eligible food items online.\n\nConnecticut’s statewide longitudinal
+    data system, [P20 WIN](http://www.ct.edu/p20win), brings together workforce, education
+    and supportive services data to inform educational policy and practice. Created
+    by [participating agencies](http://www.ct.edu/p20win/about#governance), it houses
+    [extensive documentation](http://www.ct.edu/p20win/about), including data-sharing
+    agreements, a robust [data management process](http://www.ct.edu/files/pdfs/P20WIN-DataRequestProcedure-Final_01202015.pdf),
+    and a [data dictionary](https://www.ct.edu/p20win/about). In 2020, P20 WIN received
+    an expansion [grant](https://nces.ed.gov/programs/slds/state.asp?stateabbr=CT)
+    through the National Center for Education Statistics to build agency analytical
+    capacity and to expand P20 WIN to include information from state human service
+    agencies. "
   criteria: Data Use
   issue:
   - COVID-19
@@ -4990,15 +5019,17 @@ promising:
 - sys:
     id: 9ysEPKrMZxLvynzvTsDxy
     created_at: !ruby/object:DateTime 2020-07-30 11:42:52.672000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:42:52.672000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:05:23.238000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Alabama
   state_abbreviation: AL
   type: Statewide
-  long_description: 'A 2019 Alabama law created the Alabama Commission on the Evaluation
-    of Services, which catalogues and evaluates public services statewide. The Commission,
-    comprised of state legislators and governor’s office staff, determines the effectiveness
+  long_description: 'A 2019 Alabama [law](https://trackbill.com/bill/alabama-house-bill-537-commission-on-evaluation-of-services-estab-membership-duties-certain-employees-of-legislative-services-agency-transferred-to-act-2018-578-2018-reg-sess-repealed/1745777/)
+    created the [Alabama Commission on the Evaluation of Services](https://evidence.alabama.gov/commission/),
+    which [catalogues](https://evidence.alabama.gov/catalog-of-services/) and evaluates
+    public services statewide. The Commission, comprised of state legislators and
+    governor’s office staff, [determines the effectiveness](https://www.pewtrusts.org/en/research-and-analysis/articles/2019/12/03/new-commission-will-advise-alabama-leaders-on-effectiveness-of-state-services)
     of public services in order to make informed funding recommendations for state
     leaders. '
   criteria: Evaluation Leadership
@@ -5009,16 +5040,17 @@ promising:
 - sys:
     id: 3GhsETBVfBqYaqcnGnldeA
     created_at: !ruby/object:DateTime 2020-07-30 11:43:56.405000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:43:56.405000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:30:02.617000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Statewide
-  long_description: The Colorado Governor’s Office of State Planning and Budgeting
-    reviews and scores agency budget requests based upon their level of evidence and
-    evaluation to inform priority policy and budget decisions. The office also maintains
-    a $500,000 annual fund for program evaluation and implementation grants.
+  long_description: 'The Colorado Governor’s Office of State Planning and Budgeting
+    reviews and scores agency budget requests based upon their level of [evidence
+    and evaluation](https://drive.google.com/drive/u/0/folders/1KcJT3ZO4CjiFPv1GiFFhQcl04hC5xk37)
+    to inform priority policy and budget decisions. The office also maintains a $500,000
+    annual fund for [program evaluation and implementation grants](https://drive.google.com/file/d/1vYX14I-dmHquwsS6NcSxiP7Zy69kdd3o/view).  '
   criteria: Evaluation Leadership
   issue:
   - Child Welfare
@@ -5035,20 +5067,21 @@ promising:
 - sys:
     id: 1so3mpT2FO6wX5Ki3y5uAD
     created_at: !ruby/object:DateTime 2020-07-30 11:44:50.486000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:44:50.486000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:55:20.134000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Connecticut
   state_abbreviation: CT
   type: Single agency
-  long_description: The Connecticut State Department of Education’s Office of Performance
-    is led by a Chief Performance Officer, who is responsible for using data, evaluation,
-    research, and technology to improve student outcomes. The Chief Performance Officer
-    maintains the department’s data collection, assessment, information technology,
-    reporting, research, and accountability activities, including the management of
-    its performance dashboard, EdSight. The Office also hosts an annual Performance
-    Matters Forum, which focuses on performance, continuous improvement, research,
-    and evaluation topics.
+  long_description: The Connecticut State Department of Education’s [Office of Performance](https://portal.ct.gov/SDE/Performance/Performance-Office-Home-Page)
+    is led by a [Chief Performance Officer](https://portal.ct.gov/-/media/SDE/SDE-Photo-Directories/Performance-Staff-Directory.pdf?la=en),
+    who is responsible for using data, evaluation, research, and technology to improve
+    student outcomes. The Chief Performance Officer maintains the department’s data
+    collection, assessment, information technology, reporting, research, and accountability
+    activities, including the management of its performance dashboard, [EdSight](http://edsight.ct.gov/SASPortal/main.do).
+    The Office also hosts an annual [Performance Matters Forum](https://portal.ct.gov/SDE/Performance/Performance-Matters-Forum),
+    which focuses on performance, continuous improvement, research, and evaluation
+    topics.
   criteria: Evaluation Leadership
   issue:
   - Education
@@ -5057,18 +5090,19 @@ promising:
 - sys:
     id: 7F4ZBPJrW8UmOybNb1INv1
     created_at: !ruby/object:DateTime 2020-07-30 11:47:15.084000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:47:15.084000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:35:55.960000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Single agency
-  long_description: The Colorado Department of Higher Education developed a research
-    agenda to inform education and training policies and programs. Data sharing required
-    by Colorado law between the Departments of Education, Higher Education, Labor,
-    and Economic Development generates research covering the education-to-workforce
-    continuum. In addition, 25% of Colorado State agencies report having created research
-    agendas with publicly available findings.
+  long_description: The Colorado Department of Higher Education developed a [research
+    agenda](https://highered.colorado.gov/research) to inform education and training
+    policies and programs. Data sharing required by [Colorado law](https://law.justia.com/codes/colorado/2016/title-24/other-agencies/article-46.3/part-1/section-24-46.3-103/)
+    between the Departments of Education, Higher Education, Labor, and Economic Development
+    generates research covering the [education-to-workforce continuum](https://cwdc.colorado.gov/colorado-talent-pipeline-report).
+    In addition, 25% of Colorado State agencies report having created research agendas
+    with publicly available findings.
   criteria: Evaluation Policies
   issue:
   - Education
@@ -5077,17 +5111,17 @@ promising:
 - sys:
     id: Ke11ZHqdzzrbzQVmPFd3Y
     created_at: !ruby/object:DateTime 2020-07-30 11:47:54.496000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:47:54.496000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:56:15.433000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Maryland
   state_abbreviation: MD
   type: Multiple agencies
-  long_description: 'The Maryland Longitudinal Data Systems Center brings together
-    education and workforce data from the Maryland Higher Education Commission, the
-    Maryland State Department of Education, and the Maryland Department of Labor,
-    Licensing, and Regulation. The Center’s research agenda is established by its
-    governing board.  '
+  long_description: 'The [Maryland Longitudinal Data Systems Center](https://mldscenter.maryland.gov/Aboutus.html)
+    brings together education and workforce data from the Maryland Higher Education
+    Commission, the Maryland State Department of Education, and the Maryland Department
+    of Labor, Licensing, and Regulation. The Center’s [research agenda](https://mldscenter.maryland.gov/ResearchAgenda.html)
+    is established by its [governing board](https://mldscenter.maryland.gov/Governance.html).    '
   issue:
   - Workforce
   - Education
@@ -5096,15 +5130,17 @@ promising:
 - sys:
     id: 7fGrQE8JvoopxnucAHXojC
     created_at: !ruby/object:DateTime 2020-07-30 11:48:33.429000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 11:48:33.429000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:53:30.594000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Massachusetts
   state_abbreviation: MA
   type: Single agency
   long_description: The Massachusetts Department of Elementary and Secondary Education
-    has published a research agenda and posts publicly available results of all completed
-    evaluations, as well as other research reports, online.
+    has published a [research agenda](http://www.doe.mass.edu/research/agenda.html)
+    and posts publicly available results of all [completed evaluations](http://www.doe.mass.edu/research/reports/category.aspx?section=program),
+    as well as [other research reports](http://www.doe.mass.edu/research/reports/),
+    online.
   criteria: Evaluation Policies
   issue:
   - Education
@@ -5113,15 +5149,17 @@ promising:
 - sys:
     id: 4hJZ6nPzPxm5e3oM8vmMjm
     created_at: !ruby/object:DateTime 2020-07-30 12:04:20.123000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:04:20.123000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:51:51.030000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Maryland
   state_abbreviation: MD
   type: Statewide
-  long_description: 'A 2013 Maryland law requires the Maryland Department of Budget
-    and Management to submit an annual Managing for Results performance report to
-    the state legislature as part of the budget process. This report contains the
+  long_description: 'A [2013 Maryland law](https://law.justia.com/codes/maryland/2005/gsf/3-1002.html)
+    requires the Maryland Department of Budget and Management to submit an annual
+    [Managing for Results](https://dbm.maryland.gov/Pages/ManagingResultsMaryland.aspx)
+    performance [report](https://dbm.maryland.gov/Pages/MFRPerformanceReport.aspx)
+    to the state legislature as part of the budget process. This report contains the
     following information for each state agency: (1) the outcomes or results that
     have been achieved towards annual performance measures; (2) a three-year review
     of performance for each of the indicators; and (3) an estimate of expected program
@@ -5139,19 +5177,21 @@ promising:
 - sys:
     id: 1Lrufe18cBgUp8gNRIXAie
     created_at: !ruby/object:DateTime 2020-07-30 12:05:21.513000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:05:21.513000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:38:02.486000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Minnesota
   state_abbreviation: MN
   type: Statewide
-  long_description: A 2017 Minnesota law required state agencies to include performance
-    data in their biennial budget documents. Minnesota Management and Budget issued
-    guidance on how to report outcome data to help agencies and departments meet this
-    statutory requirement. In the budgeting process, agencies must identify the evidence
-    base for changes to existing activities. Performance data are used to inform funding
-    decisions, and in the FY 2020-2021 budget, the outcome data reporting process
-    resulted in $87 million in new or expanded evidence-based programming.
+  long_description: A [2017 Minnesota law](https://www.revisor.mn.gov/statutes/cite/16a.10)
+    required state agencies to include performance data in their biennial budget documents.
+    Minnesota Management and Budget issued [guidance](https://mn.gov/mmb/assets/RBA-Instructions-Accessible_tcm1059-244343.pdf)
+    on how to report outcome data to help agencies and departments meet this statutory
+    requirement. In the budgeting process, agencies must identify the evidence base
+    for changes to existing activities. In addition, the state used [evidence to inform
+    funding decisions](https://mn.gov/mmb/evidence/proposal/) that resulted in $87
+    million in new or [expanded evidence-based programming](https://mn.gov/mmb-stat/2-gen/enacted-budget-ebp-investments.pdf)
+    in the FY 2020-2021 budget.
   criteria: Outcome Data
   issue:
   - Child Welfare
@@ -5165,23 +5205,26 @@ promising:
 - sys:
     id: 6Q4JGFxBEkjGAkRqFEvCXs
     created_at: !ruby/object:DateTime 2020-07-30 12:06:22.914000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:06:22.914000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:35:11.729000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Mississippi
   state_abbreviation: MS
   type: Statewide
-  long_description: 'A 2019 amendment to Mississippi''s 2014 performance-based budgeting
-    law provided strong, more rigorous evidence definitions for evidence-based programs,
+  long_description: 'A [2019 amendment](https://law.justia.com/codes/mississippi/2019/title-27/chapter-103/mississippi-performance-budget-and-strategic-planning-act-of-1994/section-27-103-159/)
+    to Mississippi''s [2014 performance-based budgeting law](https://applocation.shinyapps.io/PerformanceWebapp/)
+    provided strong, more rigorous evidence definitions for evidence-based programs,
     intervention programs, research-based programs, promising programs. While the
     law continued to require the Mississippi Departments of Corrections, Health, Education,
-    and Transportation to report during the annual budget process on their programs''
-    performance and cost-benefit ratio, the amendment authorized the Joint Legislative
-    Committee on Performance Evaluation and Expenditure Review to designate additional
-    agencies to comply with the law. Additional agency inventories include: Departments
-    of Revenue and Medicaid. Mississippi’s FY 2022 budget formulation process required
-    all state agencies to include the level of evidence, performance measures, and
-    a fidelity plan for any newly proposed programs.'
+    and Transportation to report during the [annual budget process](http://www.lbo.ms.gov/pdfs/obrsforms/2022_strategic_plan_instructions.pdf#page=8)
+    on their programs'' [performance](http://www.lbo.ms.gov/pdfs/perfmeasure_review_june_2019.pdf)
+    and cost-benefit ratio, the amendment authorized the Joint Legislative Committee
+    on Performance Evaluation and Expenditure Review to designate additional agencies
+    to comply with the law. Additional [agency inventories](https://applocation.shinyapps.io/PerformanceWebapp/)
+    include: Departments of Revenue and Medicaid. Mississippi’s FY 2022 budget formulation
+    process required all s[tate agencies](http://www.lbo.ms.gov/pdfs/obrsforms/2022_budget_instructions.pdf#page=15)
+    to include the level of evidence, performance measures, and a fidelity plan for
+    any newly proposed programs.'
   criteria: Outcome Data
   issue:
   - Child Welfare
@@ -5195,21 +5238,24 @@ promising:
 - sys:
     id: 5G6w7sh5VRRtCbGIeDZwJv
     created_at: !ruby/object:DateTime 2020-07-30 12:10:17.705000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:10:17.705000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:16:22.171000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: California
   state_abbreviation: CA
   type: Single agency
-  long_description: The California Department of Social Services created the California
-    Evidence-Based Clearinghouse for Child Welfare, which allows child welfare providers
+  long_description: The California Department of Social Services created the [California
+    Evidence-Based Clearinghouse for Child Welfare](http://www.cebc4cw.org/), which
+    [allows](https://www.cebc4cw.org/home/using-the-cebc/) child welfare providers
     and professionals to “identify, select, and implement evidence-based child welfare
     practices that will improve child safety, increase permanency, increase family
     and community stability, and promote child and family well-being.” This tool helps
-    identify best practices and provides guidance and support for program implementation.
+    [identify best practices](http://www.cebc4cw.org/home/) and provides [guidance
+    and support for program implementation](http://www.cebc4cw.org/implementing-programs/).
     The Clearinghouse’s numerical rating scale categorizes programs into six tiers
-    of evidence and uses a relevance scale as a complement to the scientific rating
-    scale and to demonstrate applicability for client populations.
+    of evidence and uses a [relevance scale](http://www.cebc4cw.org/home/how-are-programs-on-the-cebc-reviewed/child-welfare-relevance-levels/)
+    as a complement to the scientific rating scale and to demonstrate applicability
+    for client populations.
   criteria: Evidence Definition and Program Inventory
   issue:
   - Child Welfare
@@ -5218,19 +5264,21 @@ promising:
 - sys:
     id: 7ClMBywmodkHMMj4tVavGD
     created_at: !ruby/object:DateTime 2020-07-30 12:10:56.921000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:10:56.921000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:34:40.255000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Statewide
   long_description: 'The Colorado Governor’s Office of State Planning and Budgeting,
-    along with the Legislature’s Joint Budget Committee, established a common set
-    of evidence definitions and a five-step evidence continuum that includes actions
-    to increase a program’s level of evidence. The Office also publishes periodic
-    Results First reports that categorize all state-funded prevention programs in
-    the areas of child welfare, criminal justice, and juvenile justice according to
-    three tiers of evidence: evidence-based, promising, and needs additional research. '
+    along with the Legislature’s Joint Budget Committee, [established a common set
+    of evidence definitions](https://drive.google.com/drive/u/0/folders/1KcJT3ZO4CjiFPv1GiFFhQcl04hC5xk37)
+    and a [five-step evidence continuum](https://drive.google.com/file/d/1zvmG4TwV57rViDIYRVWQ_hiVC-T14ARP/view?usp=sharing)
+    that includes actions to increase a program’s level of evidence. The Office also
+    publishes periodic Results First [reports](https://sites.google.com/state.co.us/research-evidence/colorado-results-first?authuser=0)
+    that categorize all state-funded prevention programs in the areas of child welfare,
+    criminal justice, and juvenile justice according to three tiers of evidence: evidence-based,
+    promising, and needs additional research. '
   criteria: Evidence Definition and Program Inventory
   issue:
   - Child Welfare
@@ -5242,25 +5290,30 @@ promising:
 - sys:
     id: 7nP6s7dHFiSM8xQ1MuWhoI
     created_at: !ruby/object:DateTime 2020-07-30 12:11:40.870000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:11:40.870000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:53:48.354000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Connecticut
   state_abbreviation: CT
   type: Multiple agencies
-  long_description: 'A 2015 Connecticut law defines three tiers of evidence for programs
-    operated by the Connecticut Departments of Correction, Children and Families,
-    and Mental Health and Addiction Services, and the Court Support Services Division
-    of the Judicial Branch: evidence-based, research-based, and promising. The law
-    requires these agencies to categorize their programs by the evidence tiers in
-    even-numbered fiscal years. Additionally, the law charges the Institute for Municipal
-    and Regional Policy at Central Connecticut State University with submitting an
-    annual report containing a cost-benefit analysis of the programs, which, in 2019,
-    was entitled Benefit-Cost Analyses of Evidence-Based Programs. The findings showed  that
-    the Judicial Branch’s Court Support Services Division spent 79% of their adult
-    program funding and 86% of juvenile funding on evidence-based programs; the Department
-    of Children and Families spent 20%; and the Department of Corrections spent 98%
-    on such programs.'
+  long_description: 'A [2015 Connecticut law](https://www.cga.ct.gov/2015/act/pa/pdf/2015PA-00005-R00SB-01502SS1-PA.pdf#page=650)
+    defines three tiers of evidence for programs operated by the Connecticut Departments
+    of Correction, Children and Families, and Mental Health and Addiction Services,
+    and the Court Support Services Division of the Judicial Branch: evidence-based,
+    research-based, and promising. The law requires these agencies to categorize their
+    programs by the evidence tiers in even-numbered fiscal years. Additionally, the
+    law charges the Institute for Municipal and Regional Policy at Central Connecticut
+    State University with submitting an annual report containing a cost-benefit analysis
+    of the programs, which, in 2019, was entitled [Benefit-Cost Analyses of Evidence-Based
+    Programs](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf).
+    The findings showed  that the Judicial Branch’s Court Support Services Division
+    spent [79% of their adult program funding](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=24)
+    and [86% of juvenile funding](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=25)
+    on evidence-based programs; the Department of Children and [Families spent 20%](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=26);
+    and the Department of Corrections [spent 98%](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=27)
+    on such programs.
+
+    '
   criteria: Evidence Definition and Program Inventory
   issue:
   - Child Welfare
@@ -5271,16 +5324,17 @@ promising:
 - sys:
     id: I6lhMHv1b2mKDFwKHY8Jx
     created_at: !ruby/object:DateTime 2020-07-30 12:14:02.158000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:14:02.158000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:31:32.884000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Multiple agencies
   long_description: The Colorado Governor’s Office of State Planning and Budgeting
-    proactively publishes periodic Results First cost-benefit reports. The 2018 health
-    findings report built on earlier cost-benefit analyses in the areas of child welfare,
-    criminal justice, and juvenile justice.
+    proactively publishes periodic [Results First cost-benefit reports](https://sites.google.com/state.co.us/research-evidence/colorado-results-first?authuser=0).
+    The [2018 health findings report](https://drive.google.com/file/d/14vLnFcLBKN-VP_bsb90RYUbiMVAulfnC/view)
+    built on [earlier cost-benefit analyses](https://drive.google.com/file/d/0B5_3yhvPtgh-Q0pnZmhLaDl1NHc/view)
+    in the areas of child welfare, criminal justice, and juvenile justice, and health.
   criteria: Cost-Benefit Analysis
   issue:
   - Child Welfare
@@ -5291,24 +5345,27 @@ promising:
 - sys:
     id: 4tqiCUwcLxFa2AgCCiXQmv
     created_at: !ruby/object:DateTime 2020-07-30 12:14:53.164000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:14:53.164000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:51:26.007000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Connecticut
   state_abbreviation: CT
   type: Multiple agencies
-  long_description: A 2015 Connecticut law (pp. 649-651) requires the Institute for
-    Municipal and Regional Policy at Central Connecticut State University to perform
-    cost-benefit analyses of programs operated by the Connecticut Departments of Correction,
-    Children and Families, and Mental Health and Addiction Services, and the Court
-    Support Services Division of the Judicial Branch. The initiative issues regular
-    reports, including the November 2019 report that found 92 evidence-based programs
-    and services implemented in the state, 38 of which were subject to a Connecticut-specific
-    cost-benefit analysis. The report also found that the Judicial Branch’s Court
-    Support Services Division spent 79% of their adult program funding and 86% of
-    juvenile funding on evidence-based programs; the Department of Children and Families
-    spent 20%; and the Department of Corrections spent 98% on such evidence-based
-    programs.
+  long_description: A [2015 Connecticut law](https://www.cga.ct.gov/2015/act/pa/pdf/2015PA-00005-R00SB-01502SS1-PA.pdf)
+    (pp. 649-651) requires the Institute for Municipal and Regional Policy at Central
+    Connecticut State University to perform cost-benefit analyses of programs operated
+    by the Connecticut Departments of Correction, Children and Families, and Mental
+    Health and Addiction Services, and the Court Support Services Division of the
+    Judicial Branch. The initiative [issues regular reports](http://resultsfirstct.org/research-policy-and-reports/reports),
+    including the [November 2019 report](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf)
+    that found 92 evidence-based programs and services implemented in the state, 38
+    of which were subject to a Connecticut-specific cost-benefit analysis. The report
+    also found that the Judicial Branch’s Court Support Services Division spent [79%
+    of their adult program funding](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=24)
+    and [86% of juvenile funding](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=25)
+    on evidence-based programs; the Department of Children and Families [spent 20%](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=26);
+    and the Department of Corrections spent [98%](http://resultsfirstct.org/wp-content/uploads/2019/11/Benefit-Cost-Analyses-November-2019.pdf#page=27)
+    on such evidence-based programs.
   criteria: Cost-Benefit Analysis
   issue:
   - Criminal Justice
@@ -5319,19 +5376,24 @@ promising:
 - sys:
     id: 5NPlUrAxqP0aPVlnRDNnqf
     created_at: !ruby/object:DateTime 2020-07-30 12:15:30.382000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:15:30.382000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:29:41.265000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Minnesota
   state_abbreviation: MN
   type: Single agency
-  long_description: 'A 2015 Minnesota law directed Minnesota Management and Budget
-    to develop a cost-benefit inventory of evidence-based interventions. As a result,
-    the state developed cost-benefit analyses in the areas of criminal justice, adult
-    mental health, children’s mental health, child welfare, probation, and substance
-    use, based on the following four levels of evidence: proven effective, promising,
-    theory-based, or no effect. Minnesota Management and Budget maintains the Minnesota
-    Inventory, which includes a searchable clearinghouse of more than 500 programs.'
+  long_description: 'A [2015 Minnesota law](https://www.revisor.mn.gov/laws/?id=77&year=2015&type=0)
+    directed Minnesota Management and Budget to develop a [cost-benefit inventory](https://mn.gov/mmb/results-first/reports/)
+    of evidence-based interventions. As a result, the state developed cost-benefit
+    analyses in the areas of [criminal justice](https://mn.gov/mmb/results-first/adult-criminal-justice/prison.jsp),
+    [adult mental health](https://mn.gov/mmb-stat/results-first/adult-mental-health-report.pdf),
+    [children’s mental health](https://mn.gov/mmb-stat/results-first/cmh-report.pdf),
+    [child welfare](https://mn.gov/mmb/results-first/child-welfare/), [probation](https://mn.gov/mmb/results-first/adult-criminal-justice/supervision.jsp),
+    and [substance use](https://mn.gov/mmb-stat/results-first/substance-use-report.pdf),
+    based on the following [four levels of evidence](https://mn.gov/mmb/results-first/inventory-of-services/):
+    proven effective, promising, theory-based, or no effect. Minnesota Management
+    and Budget maintains the [Minnesota Inventory](https://mn.gov/mmb/results-first/inventory/),
+    which includes a searchable clearinghouse of more than 500 programs.'
   criteria: Cost-Benefit Analysis
   issue:
   - Child Welfare
@@ -5345,23 +5407,26 @@ promising:
 - sys:
     id: 2hPKBJqJSp6WSC8WPKarrn
     created_at: !ruby/object:DateTime 2020-07-30 12:22:32.844000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:22:32.844000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:33:22.602000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Colorado
   state_abbreviation: CO
   type: Single agency
   long_description: In 2018, the Colorado Department of Education grant program for
-    school improvement, Empowering Action for School Improvement, required schools
-    to use evidence-based practices as defined by the federal Every Student Succeeds
-    Act (ESSA). The application gives points for the use of evidence-based strategies,
-    as well as past performance to applicants who are seeking to expand existing initiatives.
-    Further, the Colorado Reading to Ensure Academic Development (READ) Act, amended
-    in 2019, emphasizes the use of evidence-based instructional practices to support
-    early literacy. It required use of program funds for external program evaluation;
-    created a science-based early literacy block grant program of $2.5 million annually;
-    and required districts receiving funds in the school year 2021-2022 to have K-3
-    teachers complete evidence-based training in teaching reading.
+    school improvement, [Empowering Action for School Improvement](https://www.cde.state.co.us/fedprograms/easiapplication),
+    required schools to use [evidence-based practices](https://www.cde.state.co.us/fedprograms/easiapplicationplanningdocument#page=8)
+    as defined by the federal Every Student Succeeds Act (ESSA). The application gives
+    points for [the use of evidence-based strategies](https://www.cde.state.co.us/fedprograms/easiapplicationplanningdocument#page=8),
+    as well as [past performance](https://www.cde.state.co.us/fedprograms/easiapplicationplanningdocument#page=30)
+    to applicants who are seeking to expand existing initiatives. Further, the [Colorado
+    Reading to Ensure Academic Development (READ) Act](http://www.cde.state.co.us/coloradoliteracy/readactupdatessb19199),
+    amended in [2019](https://leg.colorado.gov/sites/default/files/2019a_199_signed.pdf),
+    emphasizes the use of evidence-based instructional practices to support early
+    literacy. It required use of program funds for external program evaluation; created
+    a science-based early literacy block grant program of $2.5 million annually; and
+    required districts receiving funds in the school year 2021-2022 to have K-3 teachers
+    complete evidence-based training in teaching reading.
   criteria: Use of Evidence in Grant Programs
   issue:
   - Education
@@ -5370,18 +5435,17 @@ promising:
 - sys:
     id: 3yI00mW8TrdFxCW0NTxhGB
     created_at: !ruby/object:DateTime 2020-07-30 12:24:13.124000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:24:13.124000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:10:26.569000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Arizona
   state_abbreviation: AZ
   type: Statewide
-  long_description: The Arizona Government Transformation Office’s Lean Foundations
-    workshops provide training to state staff as part of the state’s Arizona Management
-    System, which is designed to implement innovative solutions to improve service
-    delivery. Further, the Arizona Innovation Lab, launched in 2018 within the Department
-    of Administration, focuses on developing innovative solutions that support the
-    efficiency and accountability goals described in the Governor’s Fundamental Map.
+  long_description: 'The Arizona Government Transformation Office’s [Lean Foundations
+    workshops](https://ams.az.gov/resources/lean-foundations-workshop) provide training
+    to state staff as part of the state’s [Arizona Management System](https://ams.az.gov/resources/ams-standard-work),
+    which is designed to implement [innovative solutions](https://ams.az.gov/resources/ams-standard-work)
+    to improve service delivery. '
   issue:
   - Statewide Evidence-Building Capacity
   year: '2020'
@@ -5389,20 +5453,20 @@ promising:
 - sys:
     id: 4KlVpUsmUtq9jGL7nicNwZ
     created_at: !ruby/object:DateTime 2020-07-30 12:26:40.583000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:26:40.583000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:08:46.959000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Arizona
   state_abbreviation: AZ
   type: Single agency
   long_description: 'In 2019, the Arizona Department of Child Safety partnered with
-    the Harvard Kennedy School Government Performance Lab to improve upon the existing
-    rate of nearly one in five families receiving supportive in-home preservation
-    services that were re-reported for maltreatment, which resulted in the removal
-    of a child from that home. Through active contract management, implementing uniform
-    performance measures for providers, and establishing a unit to oversee child and
-    family service contracts, the Department was able to reduce the number of families
-    re-reported by 40% and the number child removals by 50%. '
+    the Harvard Kennedy School Government Performance Lab to [improve](https://govlab.hks.harvard.edu/arizona-child-welfare-performance-improvement)
+    upon the existing rate of nearly one in five families receiving supportive in-home
+    preservation services that were re-reported for maltreatment, which resulted in
+    the removal of a child from that home. Through active contract management, implementing
+    uniform performance measures for providers, and establishing a unit to oversee
+    child and family service contracts, the Department was able to [reduce](https://govlab.hks.harvard.edu/files/govlabs/files/AZ_DCS_project_feature.pdf#page=2)
+    the number of families re-reported by 40% and the number child removals by 50%. '
   criteria: Contracting for Outcomes
   issue:
   - Child Welfare
@@ -5411,17 +5475,16 @@ promising:
 - sys:
     id: 4ZIwPHPt7t1QKKHPmrAAso
     created_at: !ruby/object:DateTime 2020-07-30 12:28:45.485000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-30 12:28:45.485000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 17:21:43.192000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Minnesota
   state_abbreviation: MN
   type: Multiple agencies
   long_description: |-
-    A 2014 Minnesota law (subdivision 7) requires the Minnesota Department of Human Services to use the Self-Support Index to monitor each county’s performance in assisting clients to become self-sufficient. Counties that meet performance targets receive a 2.5% bonus payment from the state, and counties that perform below the expected target must submit a performance improvement plan. In counties where “no improvement is shown by the end of the multi-year plan, the county’s or tribe’s allocation must be decreased by 2.5 percent” (Section 256J.626(7)(a)(2)).
+    A [2014 Minnesota law](https://www.revisor.mn.gov/statutes/cite/256J.626) (subdivision 7) requires the Minnesota Department of Human Services to use the [Self-Support Index](https://www.leg.state.mn.us/docs/2016/other/160886.pdf) to monitor each county’s performance in assisting clients to become self-sufficient. Counties that meet performance targets receive a 2.5% bonus payment from the state, and counties that perform below the expected target must submit a performance improvement plan. In counties where “no improvement is shown by the end of the multi-year plan, the county’s or tribe’s allocation must be decreased by 2.5 percent” (Section [256J.626(7)(a)(2)](https://www.revisor.mn.gov/statutes/cite/256J.626)).
 
-    A 2016 Minnesota law (section 14, line 15.21) allows the state to use the savings achieved from reducing the sentences of minor drug offenders for evidence-based drug and mental health treatments for offenders still in prison or under supervised release. The evidence to support this law comes from the Department of Corrections’ own research, which found that providing offenders drug treatment reduces recidivism rates.
-    Appendix A: Grant Applications, AmeriCorps Allocations by State
+    A [2016 Minnesota law](https://www.revisor.mn.gov/bills/text.php?version=latest&session=ls89&number=SF3481&session_year=2016&session_number=0) (section 14, line 15.21) allows the state to use the savings achieved from reducing the sentences of minor drug offenders for evidence-based drug and mental health treatments for offenders still in prison or under supervised release. The evidence to support this law comes from the Department of Corrections’ [own research](https://mn.gov/doc/data-publications/research/), which [found](https://mn.gov/doc/assets/03-10CDTXEvaluationReport_Revised_tcm1089-275973.pdf#page=29) that providing offenders drug treatment reduces recidivism rates.
   criteria: Repurpose for Results
   issue:
   - Criminal Justice
@@ -5431,18 +5494,20 @@ promising:
 - sys:
     id: 4GuPHAPFZjEwr4t1iHA58f
     created_at: !ruby/object:DateTime 2020-07-31 00:42:59.936000000 Z
-    updated_at: !ruby/object:DateTime 2020-07-31 00:42:59.936000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 15:49:37.907000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Connecticut
   state_abbreviation: CT
   type: Statewide
-  long_description: In 2019, the Governor of Connecticut announced a Performance and
-    Results Agenda, which included linking data to generate cost-savings, cross-agency
-    collaboration, and streamlining digital services. In addition, the Department
-    of Public Health has a performance management system, which tracks the state’s
-    COVID-19 indicators as well as measures for the Healthy Connecticut 2020 State
-    Health Improvement Plan.
+  long_description: 'In 2019, the Governor of Connecticut announced a [Performance
+    and Results Agenda](https://portal.ct.gov/Office-of-the-Governor/News/Press-Releases/2019/04-2019/Governor-Lamont-Launches-Statewide-Performance-and-Results-Agenda),
+    which included linking data to generate cost-savings, cross-agency collaboration,
+    and streamlining digital services. In addition, the Department of Public Health
+    has a [performance management system](https://stateofhealth.ct.gov/HCT2020/HCT2020Index),
+    which tracks the state’s COVID-19 [indicators](https://stateofhealth.ct.gov/COVID/CovidHome)
+    as well as [measures](https://portal.ct.gov/DPH/State-Health-Planning/Healthy-CT-2020-Dashboards/19-CHRON-Tobacco)
+    for the [Healthy Connecticut 2020 State Health Improvement Plan](https://portal.ct.gov/-/media/Departments-and-Agencies/DPH/dph/state_health_planning/SHA-SHIP/hct2020/hct2020statehlthimpv032514pdf.pdf?la=en). '
   criteria: Performance Management / Continuous Improvement
   issue:
   - Child Welfare
@@ -5451,3 +5516,115 @@ promising:
   - Health
   year: '2020'
   status: New
+- sys:
+    id: 7fwA4aka8WUMWb1mGsoGKs
+    created_at: !ruby/object:DateTime 2020-08-05 18:15:59.853000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:24:17.704000000 Z
+    content_type_id: promising
+    revision: 3
+  state: Illinois
+  state_abbreviation: IL
+  type: Statewide
+  long_description: 'The Illinois Budgeting for Results Commission is the state’s
+    performance-based budgeting initiative. The Commission’s annual report summarizes
+    the state’s performance improvement efforts across seven statewide results areas:
+    education, economic development, public safety, human services, healthcare, environment
+    and culture, and government services.'
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - Criminal Justice
+  - Economic Mobility
+  - Education
+  - Health
+  - Workforce
+  - Statewide Evidence-Building Capacity
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 3kEXu8EU1ixlKjOXezBI1x
+    created_at: !ruby/object:DateTime 2020-08-05 18:18:49.033000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:20:41.355000000 Z
+    content_type_id: promising
+    revision: 2
+  state: Maryland
+  state_abbreviation: MD
+  type: Statewide
+  long_description: 'As required by a 2013 Maryland law, the Maryland Department of
+    Budget and Management’s Managing for Results initiative publishes annual performance
+    reports as part of the state’s budget process. These reports track agencies’ key
+    goals, objectives, and performance measures. The Maryland Governor’s Office of
+    Performance Improvement, established by a 2015 executive order, assists “agencies
+    with measuring and managing performance information” to support the state’s efforts.
+    Further, the Maryland Children’s Cabinet maintains a Child Welfare Scorecard,
+    which tracks indicators for eight statewide child welfare goals.
+
+    '
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - Criminal Justice
+  - Economic Mobility
+  - Education
+  - Health
+  - Workforce
+  - Statewide Evidence-Building Capacity
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 5xm1Wa9BHf4F7d9s2jIdu4
+    created_at: !ruby/object:DateTime 2020-08-05 18:22:53.390000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:22:53.391000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Massachusetts
+  state_abbreviation: MA
+  type: Statewide
+  long_description: Massachusetts’ data-driven performance initiative is designed
+    to improve constituent-facing services by publicly posting annual performance
+    reports with specific targets and progress metrics. Additionally, the state’s
+    COVID-19 Response Reporting platform provides daily and cumulative updates on
+    cases, testing, hospitalizations, weekly reports on care capacity, and cases by
+    city and town. The dashboard’s raw data is downloadable and has been used to inform
+    state decision-making.
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - COVID-19
+  - Criminal Justice
+  - Economic Mobility
+  - Health
+  - Workforce
+  - Statewide Evidence-Building Capacity
+  year: '2020'
+  status: New
+- sys:
+    id: 1oNpEv59svw6zcpE6P7803
+    created_at: !ruby/object:DateTime 2020-08-05 18:27:07.127000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 18:27:07.127000000 Z
+    content_type_id: promising
+    revision: 1
+  state: Missouri
+  state_abbreviation: MO
+  type: Statewide
+  long_description: 'The Missouri Chief Operating Officer, a position established
+    in 2017, works with all state departments to define strategic priorities and achieve
+    results. Departments represent their priorities and main strategic initiatives
+    on “placemats” that are shared throughout the organization and with the public.
+    All Missouri departments publish annual performance data on core programs as part
+    of the annual budget process. Missouri also established in 2019 a cross-department
+    Operational Excellence community to build a network of Lean Six Sigma practitioners
+    to drive improvements across 16 executive departments.
+
+    '
+  criteria: Performance Management / Continuous Improvement
+  issue:
+  - Child Welfare
+  - Criminal Justice
+  - Economic Mobility
+  - Education
+  - Health
+  - Workforce
+  - Statewide Evidence-Building Capacity
+  year: '2020'
+  status: Updated from 2019
