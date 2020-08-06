@@ -5519,15 +5519,17 @@ promising:
 - sys:
     id: 7fwA4aka8WUMWb1mGsoGKs
     created_at: !ruby/object:DateTime 2020-08-05 18:15:59.853000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 18:24:17.704000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:35:33.152000000 Z
     content_type_id: promising
-    revision: 3
+    revision: 4
   state: Illinois
   state_abbreviation: IL
   type: Statewide
-  long_description: 'The Illinois Budgeting for Results Commission is the state’s
-    performance-based budgeting initiative. The Commission’s annual report summarizes
-    the state’s performance improvement efforts across seven statewide results areas:
+  long_description: 'The Illinois [Budgeting for Results Commission](https://www2.illinois.gov/sites/budget/Pages/results.aspx)
+    is the state’s [performance-based budgeting initiative](https://www2.illinois.gov/sites/budget/Documents/Budgeting%20for%20Results/Public%20Meetings/BFR-Commission-Public-Hearing-Presentation-2019.pdf).
+    The Commission’s [annual report](https://www2.illinois.gov/sites/budget/Documents/Budgeting%20for%20Results/2019-BFR-Annual-Commission-Report-Final.pdf)
+    summarizes the state’s performance improvement efforts across s[even statewide
+    results areas](https://www2.illinois.gov/sites/budget/Documents/Budgeting%20for%20Results/2019-BFR-Annual-Commission-Report-Final.pdf#page=9):
     education, economic development, public safety, human services, healthcare, environment
     and culture, and government services.'
   criteria: Performance Management / Continuous Improvement
@@ -5544,20 +5546,23 @@ promising:
 - sys:
     id: 3kEXu8EU1ixlKjOXezBI1x
     created_at: !ruby/object:DateTime 2020-08-05 18:18:49.033000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 18:20:41.355000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:37:12.769000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Maryland
   state_abbreviation: MD
   type: Statewide
-  long_description: 'As required by a 2013 Maryland law, the Maryland Department of
-    Budget and Management’s Managing for Results initiative publishes annual performance
-    reports as part of the state’s budget process. These reports track agencies’ key
-    goals, objectives, and performance measures. The Maryland Governor’s Office of
-    Performance Improvement, established by a 2015 executive order, assists “agencies
-    with measuring and managing performance information” to support the state’s efforts.
-    Further, the Maryland Children’s Cabinet maintains a Child Welfare Scorecard,
-    which tracks indicators for eight statewide child welfare goals.
+  long_description: 'As required by a [2013 Maryland law](https://law.justia.com/codes/maryland/2005/gsf/3-1002.html),
+    the Maryland Department of Budget and Management’s [Managing for Results](http://dbm.maryland.gov/Pages/ManagingResultsMaryland.aspx)
+    initiative publishes [annual performance reports](http://dbm.maryland.gov/Pages/MFRPerformanceReport.aspx)
+    as part of the state’s budget process. These reports track agencies’ key goals,
+    objectives, and performance measures. The Maryland Governor’s Office of Performance
+    Improvement, established by a [2015 executive order](https://gopi.maryland.gov/wp-content/uploads/sites/25/2015/10/EO-01.01.2015.26gopi.pdf),
+    assists “agencies with measuring and managing performance information” to support
+    the state’s efforts. Further, the Maryland Children’s Cabinet maintains a [Child
+    Welfare Scorecard](http://goc.maryland.gov/wellbeingscorecard/), which tracks
+    [indicators](https://goc.maryland.gov/wellbeingscorecard/) for eight statewide
+    child welfare goals.
 
     '
   criteria: Performance Management / Continuous Improvement
@@ -5574,18 +5579,20 @@ promising:
 - sys:
     id: 5xm1Wa9BHf4F7d9s2jIdu4
     created_at: !ruby/object:DateTime 2020-08-05 18:22:53.390000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 18:22:53.391000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:38:28.429000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Massachusetts
   state_abbreviation: MA
   type: Statewide
-  long_description: Massachusetts’ data-driven performance initiative is designed
-    to improve constituent-facing services by publicly posting annual performance
-    reports with specific targets and progress metrics. Additionally, the state’s
-    COVID-19 Response Reporting platform provides daily and cumulative updates on
-    cases, testing, hospitalizations, weekly reports on care capacity, and cases by
-    city and town. The dashboard’s raw data is downloadable and has been used to inform
+  long_description: Massachusetts’ [data-driven performance](https://www.mass.gov/lists/data-driven-performance)
+    initiative is designed to improve constituent-facing services by publicly posting
+    [annual performance reports](https://www.mass.gov/service-details/executive-office-of-health-and-human-services-eohhs-fy20-data-driven-performance)
+    with specific targets and progress metrics. Additionally, the state’s [COVID-19
+    Response Reporting](https://www.mass.gov/info-details/covid-19-response-reporting#covid-19-daily-dashboard-)
+    platform provides daily and cumulative updates on cases, testing, hospitalizations,
+    weekly reports on care capacity, and cases by city and town. The dashboard’s raw
+    data is downloadable and has been used to [inform](https://mbtabackontrack.com/blog/111-covid-19-and-mbta-ridership)
     state decision-making.
   criteria: Performance Management / Continuous Improvement
   issue:
@@ -5601,18 +5608,19 @@ promising:
 - sys:
     id: 1oNpEv59svw6zcpE6P7803
     created_at: !ruby/object:DateTime 2020-08-05 18:27:07.127000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 18:27:07.127000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:39:26.469000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Missouri
   state_abbreviation: MO
   type: Statewide
-  long_description: 'The Missouri Chief Operating Officer, a position established
+  long_description: 'The Missouri Chief Operating Officer, a position [established](https://www.sos.mo.gov/library/reference/orders/2017/eo4)
     in 2017, works with all state departments to define strategic priorities and achieve
     results. Departments represent their priorities and main strategic initiatives
-    on “placemats” that are shared throughout the organization and with the public.
-    All Missouri departments publish annual performance data on core programs as part
-    of the annual budget process. Missouri also established in 2019 a cross-department
+    on “[placemats](https://strategicchange.mo.gov/)” that are shared throughout the
+    organization and with the public. All Missouri departments publish annual [performance
+    data on core programs](https://oa.mo.gov/budget-explorer/program-descriptions-forms)
+    as part of the annual budget process. Missouri also established in 2019 a cross-department
     Operational Excellence community to build a network of Lean Six Sigma practitioners
     to drive improvements across 16 executive departments.
 
@@ -7020,20 +7028,21 @@ promising:
 - sys:
     id: 6kq95rz846hg27pYu4e9fD
     created_at: !ruby/object:DateTime 2020-08-05 20:22:17.290000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:22:17.290000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:29:17.940000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Ohio
   state_abbreviation: OH
   type: Multiple agencies
-  long_description: The Director of the Ohio Department of Education’s Office of Research,
-    Evaluation and Advanced Analytics enables educational leaders across the state
-    to recognize, gather, analyze, evaluate, and leverage data in problem solving
-    to improve student outcomes. Initiatives such as Empowered by Evidence and Ohio’s
-    Evidence-Based Clearinghouse are designed to foster “a culture of continuous learning…
-    [and to] create the framework and processes needed for actionable research.” The
-    Department has partnered with the Ohio Education Research Center to share education
-    data across the state.
+  long_description: The Director of the Ohio Department of Education’s [Office of
+    Research, Evaluation and Advanced Analytics](http://education.ohio.gov/Topics/Research-Evaluation-and-Advanced-Analytics)
+    enables educational leaders across the state to recognize, gather, analyze, evaluate,
+    and leverage data in problem solving to improve student outcomes. Initiatives
+    such as [Empowered by Evidence](http://education.ohio.gov/Topics/Research-Evaluation-and-Advanced-Analytics/5-Steps-to-Being-Empowered-by-Evidence)
+    and Ohio’s Evidence-Based Clearinghouse are designed to foster “a culture of continuous
+    learning… [and to] create the framework and processes needed for actionable research.”
+    The Department has partnered with the [Ohio Education Research Center](https://oerc.osu.edu/home)
+    to share education data across the state.
   criteria: Evaluation Leadership
   issue:
   - Education
@@ -7249,17 +7258,18 @@ promising:
 - sys:
     id: 5cCkIJtYl6mh4i4wOpQjo7
     created_at: !ruby/object:DateTime 2020-08-05 20:22:18.766000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:22:18.766000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:27:05.340000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Mississippi
   state_abbreviation: MS
   type: Single agency
-  long_description: 'The Mississippi Department of Education’s Office of Research
-    and Development is led by a Director charged with using data and research to improve
-    student outcomes across the state. Guided by a Dynamic Research Framework, the
-    Office of Research and Development, the Office uses a longitudinal data system
-    to evaluate the effectiveness of programs in areas such as Early Learning. '
+  long_description: 'The Mississippi Department of Education’s [Office of Research
+    and Development ](https://mdek12.org/OTSS/ORD)is led by a Director charged with
+    using data and research to improve student outcomes across the state. Guided by
+    a [Dynamic Research Framework](http://education.ohio.gov/Topics/Research-Evaluation-and-Advanced-Analytics/5-Steps-to-Being-Empowered-by-Evidence),
+    the Office of Research and Development, the Office uses a [longitudinal data system](https://nces.ed.gov/programs/slds/state.asp?stateabbr=MS)
+    to evaluate the effectiveness of programs in areas such as [Early Learning](https://mdek12.org/sites/default/files/Offices/MDE/OTSS/ORD/statsdc2018.pdf). '
   criteria: Evaluation Leadership
   issue:
   - Education
@@ -8271,18 +8281,21 @@ promising:
 - sys:
     id: 5qmK6zUTOVSJDtsJODqv6r
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.937000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:03.937000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:50:45.250000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: New Mexico
   state_abbreviation: NM
   type: Statewide
-  long_description: 'Since 1999, a New Mexico law required all state agencies to submit
-    annual performance-based budget requests, which include: (1) the outputs and outcomes
-    for each program; (2) performance measures and targets for each program; and (3)
-    an evaluation of each program’s performance. This information is released annually
-    in the state’s policy and fiscal analysis, which shares individual agency performance
-    reports and information on the cost effectiveness of different programs. '
+  long_description: 'Since 1999, a [New Mexico law](https://www.nmlegis.gov/Entity/LFC/Documents/Accountability_In_Goverment_Act/Accountability%20in%20Government%20Act%20Statute.pdf#page=5)
+    required all state agencies to submit annual performance-based budget requests,
+    which include: (1) the outputs and outcomes for each program; (2) performance
+    measures and targets for each program; and (3) an evaluation of each program’s
+    performance. This information is released annually in the state’s [policy and
+    fiscal analysis](https://www.nmlegis.gov/Entity/LFC/Documents/Session_Publications/Budget_Recommendations/2021RecommendVolI.pdf),
+    which shares individual agency [performance reports](https://www.nmlegis.gov/Entity/LFC/Documents/Session_Publications/Budget_Recommendations/2021RecommendVolI.pdf#page=99)
+    and information on the [cost effectiveness](https://www.nmlegis.gov/Entity/LFC/Documents/Session_Publications/Budget_Recommendations/2021RecommendVolI.pdf#page=26)
+    of different programs. '
   criteria: Performance Management / Continuous Improvement
   issue:
   - Child Welfare
@@ -8296,25 +8309,28 @@ promising:
 - sys:
     id: 4yK7j0c8N8BuFFNpGlCPEs
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.941000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:03.941000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:52:36.638000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Oregon
   state_abbreviation: OR
   type: Statewide
-  long_description: "A 2016 Oregon law required all state agencies to develop and
-    use performance measures. Each state agency submits an Annual Performance Progress
-    Report to the Oregon Legislative Fiscal Office detailing agencies programmatic
-    outcomes and performance measures, which are reviewed during the state’s budget
-    process.\n\nThe Oregon Department of Education has established a continuous improvement
-    program for school districts to monitor program success and evaluate current services
-    to ensure students are receiving the best possible education. The framework ties
-    together strategic planning, needs assessments, and monitoring and feedback loops
-    to “support ambitious, priority-driven action plans where routine collaboration
+  long_description: "A [2016 Oregon law](https://www.oregonlaws.org/ors/291.110) required
+    all state agencies to develop and use performance measures. Each state agency
+    submits an [Annual Performance Progress Report](https://www.oregonlegislature.gov/lfo/Pages/KPM.aspx)
+    to the [Oregon Legislative Fiscal Office](https://www.oregonlegislature.gov/lfo/Documents/LFO%20Agency%20Overview.pdf)
+    detailing agencies programmatic outcomes and performance measures, which are reviewed
+    during the state’s budget process.\n\nThe Oregon Department of Education has established
+    a [continuous improvement program](https://www.oregon.gov/ode/schools-and-districts/Pages/CIP.aspx)
+    for school districts to monitor program success and evaluate current services
+    to ensure students are receiving the best possible education. The [framework](https://www.oregon.gov/ode/schools-and-districts/grants/ESEA/IA/Documents/CIP%20Timeline%20Processes%20and%20Supports%20Graphic(mb).pdf)
+    ties together strategic planning, needs assessments, and monitoring and feedback
+    loops to “support ambitious, priority-driven action plans where routine collaboration
     and decision-making among district leaders is reflected throughout implementation.”
-    The continuous improvement processes relate the Department’s broader Oregon Integrated
-    Systems Framework to support inclusive policy and practice, including the use
-    of evidence-based education programs. "
+    The continuous improvement processes relate the Department’s broader [Oregon Integrated
+    Systems Framework](https://www.oregon.gov/ode/schools-and-districts/grants/ESEA/IA/Documents/1-Page%20Oregon%20Integrated%20Systems%20Framework%20Domains.pdf)
+    to support inclusive policy and practice, including the use of evidence-based
+    education programs. "
   criteria: Performance Management / Continuous Improvement
   issue:
   - Child Welfare
@@ -8329,17 +8345,18 @@ promising:
 - sys:
     id: 6Ojz5arZUmwuU3AjTF6Mio
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.947000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:03.947000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:55:02.603000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Rhode Island
   state_abbreviation: RI
   type: Multiple agencies
-  long_description: In 2016, Rhode Island’s Governor launched the state’s Overdose
-    Prevention and Intervention Task Force Action Plan, which was updated in 2019,
-    and set statewide goals to save lives by preventing drug abuse and overdose. The
-    Task Force publishes dashboards tracking progress on the state’s overdose prevention
-    goals.
+  long_description: In 2016, Rhode Island’s Governor launched the state’s [Overdose
+    Prevention and Intervention Task Force Action Plan](https://preventoverdoseri.org/wp-content/uploads/2016/05/Governors-OD-Strategic-Plan-Presentation.pdf),
+    which was [updated](https://preventoverdoseri.org/wp-content/uploads/2019/03/TF-Strategic-Plan-Update_Final.pdf)
+    in 2019, and set statewide goals to save lives by preventing drug abuse and overdose.
+    The [Task Force](https://preventoverdoseri.org/the-task-force/) publishes [dashboards](https://preventoverdoseri.org/track-our-action-plan/)
+    tracking progress on the state’s overdose prevention goals.
   criteria: Performance Management / Continuous Improvement
   issue:
   - Health
@@ -8403,14 +8420,15 @@ promising:
 - sys:
     id: ZgUwxYUSpWuYlKWttMbIB
     created_at: !ruby/object:DateTime 2020-08-05 20:23:04.903000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:04.903000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:49:38.447000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: New Jersey
   state_abbreviation: NJ
   type: Statewide
-  long_description: 'The New Jersey Governor’s Performance Center publicly posts key
-    performance indicators for each department and tracks department operations.
+  long_description: 'The New Jersey [Governor’s Performance Center](https://nj.gov/transparency/performance/)
+    publicly posts key performance indicators for each department and tracks department
+    operations.
 
     '
   criteria: Performance Management / Continuous Improvement

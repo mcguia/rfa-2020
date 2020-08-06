@@ -1333,14 +1333,11 @@ indexPage:
   - sys:
       id: 4qypE3R59Kuog5TnSQWpDY
       created_at: !ruby/object:DateTime 2020-07-30 11:44:59.690000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:26:31.951000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:29:33.427000000 Z
       content_type_id: criteria
-      revision: 5
+      revision: 6
     title: Evaluation Leadership
     order: 6
-    blueprint_theme:
-      sys:
-        id: 1Ng1WlZ2xLVgrsra4J45uF
     description: 'Did the governor’s office or any state agency have a senior staff
       member(s) with the authority, staff, and budget to evaluate its major programs
       and inform policy decisions affecting them? (Example: Chief Evaluation Officer)'
