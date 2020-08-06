@@ -42,6 +42,9 @@
     {% if example.issue %}
     <div class="criteria-issues row align-center">
       {% for issue in example.issue %}
+        {% if issue == "Statewide Evidence-Building Capacity" %}
+          {% continue %}
+        {% endif %}
       <div class="issue issue--{{issue | slugify}} issue--{{exampleType}}"><span>{{issue}}</span></div>
       {% endfor %}
     </div>

@@ -1066,11 +1066,14 @@ indexPage:
   - sys:
       id: 8KO6YMb34nOxY6hbrQTb3
       created_at: !ruby/object:DateTime 2020-07-30 09:59:25.424000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 09:59:25.424000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:20:26.752000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 2
     title: Strategic Goals
     order: 1
+    blueprint_theme:
+      sys:
+        id: 4z0HAgTrEpjkfkOf1IhOPj
     description: Did the Governor have public statewide strategic goals?
     explanation: The creation of statewide strategic goals is an important first step
       in aligning state government budgets, policies, and programs to improve outcomes
@@ -1099,11 +1102,14 @@ indexPage:
   - sys:
       id: 2n4KjkR7qMKMPwjAh1yq3T
       created_at: !ruby/object:DateTime 2020-07-30 10:09:54.201000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 10:44:20.504000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:20:45.851000000 Z
       content_type_id: criteria
-      revision: 2
+      revision: 4
     title: Performance Management / Continuous Improvement
     order: 2
+    blueprint_theme:
+      sys:
+        id: 4z0HAgTrEpjkfkOf1IhOPj
     description: Did the state or any of its agencies implement a performance management
       system aligned with its statewide strategic goals, with clear and prioritized
       outcome-focused goals, program objectives, and measures; and did it consistently
@@ -1121,15 +1127,44 @@ indexPage:
         id: 3IkjjOqBqYkJPO9egvxewz
     - sys:
         id: 6vM7XhybeFTN3rGIT1OuX6
+    - sys:
+        id: 4GuPHAPFZjEwr4t1iHA58f
+    - sys:
+        id: 7fwA4aka8WUMWb1mGsoGKs
+    - sys:
+        id: 3kEXu8EU1ixlKjOXezBI1x
+    - sys:
+        id: 5xm1Wa9BHf4F7d9s2jIdu4
+    - sys:
+        id: 1oNpEv59svw6zcpE6P7803
+    - sys:
+        id: ZgUwxYUSpWuYlKWttMbIB
+    - sys:
+        id: 5qmK6zUTOVSJDtsJODqv6r
+    - sys:
+        id: 4yK7j0c8N8BuFFNpGlCPEs
+    - sys:
+        id: 6Ojz5arZUmwuU3AjTF6Mio
+    - sys:
+        id: 17XpBLeX7dGcfAFpTYDNHz
+    - sys:
+        id: 4LVSCgbsq6v8u7QS4ogJbt
+    - sys:
+        id: 4E0ZI8dAfNj8zsAjwFsBpm
+    - sys:
+        id: 1duIHE8WsqM4OKQZv3vl4k
     year: '2020'
   - sys:
       id: 1clxq29eSWNfzjZfP3oOKy
       created_at: !ruby/object:DateTime 2020-07-30 10:49:19.629000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 10:49:19.629000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:21:09.459000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Data Leadership
     order: 3
+    blueprint_theme:
+      sys:
+        id: 3x1XxBOhGbRziMUG4PFPCy
     description: 'Did the governor’s office or any state agency have a senior staff
       member(s) with the authority, staff, and budget to collect, analyze, share,
       and use high-quality administrative and survey data—consistent with strong privacy
@@ -1149,15 +1184,40 @@ indexPage:
         id: 6oaDuZyVRYszqebTkJHXlD
     - sys:
         id: 3GEvB9g189pvkHLp8lCDmq
+    - sys:
+        id: 7Huvz0ylcmyIagR7yMg5gy
+    - sys:
+        id: 7m96dZbzXGWMKeaCYiv7uK
+    - sys:
+        id: 2fOLIfkPd8vXdt1pRPS0IV
+    - sys:
+        id: KyRoLHPPnFsofmV46ZBXk
+    - sys:
+        id: 5yqnvZVqhfdM1jRlhKdHM5
+    - sys:
+        id: 4XEbxu71W0cLvNsYDtSJPo
+    - sys:
+        id: bVSEZyGQRuSA4BYnB6mqc
+    - sys:
+        id: 1hF0kG5QvmLGcgnwXUTkdr
+    - sys:
+        id: 6sY3F1umExsdWPsEh5ofXs
+    - sys:
+        id: 60mpv4XF5svtXcYF02STRf
+    - sys:
+        id: 11wYZhYJKypaUbmwqfIo3S
     year: '2020'
   - sys:
       id: 15ompFfy76aGPA6Cu5Iowc
       created_at: !ruby/object:DateTime 2020-07-30 10:55:55.004000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 10:55:55.004000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:21:40.063000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Data Policies / Agreements
     order: 4
+    blueprint_theme:
+      sys:
+        id: 3x1XxBOhGbRziMUG4PFPCy
     description: 'Did the state or any of its agencies have data-sharing policies
       and data-sharing agreements—consistent with strong privacy protections—with
       any nonprofit organizations, academic institutions, local government agencies,
@@ -1177,15 +1237,46 @@ indexPage:
         id: 4SjW0tonAYDFSZ1OGt1Ung
     - sys:
         id: 15FcLeT4AxBMCayYWMmA6a
+    - sys:
+        id: PHqHxxCVetDk22YOJGOrr
+    - sys:
+        id: 4uwGbYqII4dKpRT5R4QWqK
+    - sys:
+        id: 2tla66zJoC0z6qs4tvK3Zp
+    - sys:
+        id: 3Jep3g47gfJnrWOkOs5h7D
+    - sys:
+        id: 5ebeMzrSM06Etc0ngZJJIK
+    - sys:
+        id: 20OvnrpYOQjfllO0VwudJI
+    - sys:
+        id: 3y2U7UccuxkWGfRmPU74ox
+    - sys:
+        id: 2VaPRngI7qLj5TkwhDpaKb
+    - sys:
+        id: 15oIU9eQLgGtyZClntyXkz
+    - sys:
+        id: 5DcXHdvgHLhiJNORD3IZ5L
+    - sys:
+        id: 6AXnbA1eO4TqsesaNwj3D5
+    - sys:
+        id: 4rlkooqJV2W3YQTPGQnvEG
+    - sys:
+        id: 75KcsUacwiTZfHzlcksMzc
+    - sys:
+        id: aW4irpTlMNBZlFxRtzems
     year: '2020'
   - sys:
       id: 1q9F1XqXgI5QSbK8w6dXOi
       created_at: !ruby/object:DateTime 2020-07-30 11:40:28.220000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:17:07.629000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:21:56.768000000 Z
       content_type_id: criteria
-      revision: 2
+      revision: 4
     title: Data Use
     order: 5
+    blueprint_theme:
+      sys:
+        id: 3x1XxBOhGbRziMUG4PFPCy
     description: Did the state or any of its agencies have data systems consistent
       with strong privacy protections that linked multiple administrative data sets
       across state agencies, and did it use those systems to improve federal, state,
@@ -1202,15 +1293,54 @@ indexPage:
         id: 1M3D3noz4D1McLFRL68bh5
     - sys:
         id: 1q5ICZSzuhSsHBTrnE5kRm
+    - sys:
+        id: 4Q3gN59ExVKx3KZt9FExlq
+    - sys:
+        id: R3yLXiNf2Jwl2ImRv0VIT
+    - sys:
+        id: 3WZ6JCUJjKxSB72KRPtWvL
+    - sys:
+        id: 1u5bNXUlGNVjRD9A9xt9U4
+    - sys:
+        id: 41arVDhTOO1FkAeMqiL4Lz
+    - sys:
+        id: 1pzA01mK9zNDitFMOn2H0L
+    - sys:
+        id: 6cQoQcZoVFslleV9m2QIlL
+    - sys:
+        id: Df8NKmRz2QQS3m2jd6Tci
+    - sys:
+        id: 2Q0C3ErblcaXwIarT4ee06
+    - sys:
+        id: 1V7bdf4YBPqwtD6xNVc5Gn
+    - sys:
+        id: 4yPvHPhKzhNpMwPIqXS8ci
+    - sys:
+        id: 5s519RTT32JvuSzoy3KOh7
+    - sys:
+        id: fvo7A2ZKPdtHETfZPzMtO
+    - sys:
+        id: 6wCEutJvrQXU8aGZ3K1G2y
+    - sys:
+        id: 3MiIV0Ol8cQlII1D2XfNh5
+    - sys:
+        id: 1OKxQQN8qwbg72fQQf3ay0
+    - sys:
+        id: 3vNYgF3i0plYGvxiGoE5cq
+    - sys:
+        id: 52MvqwCFyIoKm1EfUmSS66
     year: '2020'
   - sys:
       id: 4qypE3R59Kuog5TnSQWpDY
       created_at: !ruby/object:DateTime 2020-07-30 11:44:59.690000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 11:44:59.690000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:26:31.951000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 5
     title: Evaluation Leadership
     order: 6
+    blueprint_theme:
+      sys:
+        id: 1Ng1WlZ2xLVgrsra4J45uF
     description: 'Did the governor’s office or any state agency have a senior staff
       member(s) with the authority, staff, and budget to evaluate its major programs
       and inform policy decisions affecting them? (Example: Chief Evaluation Officer)'
@@ -1227,15 +1357,26 @@ indexPage:
         id: 3GhsETBVfBqYaqcnGnldeA
     - sys:
         id: 1so3mpT2FO6wX5Ki3y5uAD
+    - sys:
+        id: 77QuOHhjDWn8KFTGlnb6tM
+    - sys:
+        id: 1XI20HGfZ8E3bYUBIx25On
+    - sys:
+        id: 5cCkIJtYl6mh4i4wOpQjo7
+    - sys:
+        id: 6kq95rz846hg27pYu4e9fD
     year: '2020'
   - sys:
       id: 4GDfTU6R4XeCLYkapnYgJA
       created_at: !ruby/object:DateTime 2020-07-30 11:49:58.318000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 11:49:58.318000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:22:49.106000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Evaluation Policies
     order: 7
+    blueprint_theme:
+      sys:
+        id: 1Ng1WlZ2xLVgrsra4J45uF
     description: Did the state or any of its agencies have an evaluation policy, evaluation
       plan, and research/learning agenda(s), and did it publicly release the findings
       of all completed evaluations?
@@ -1253,15 +1394,26 @@ indexPage:
         id: Ke11ZHqdzzrbzQVmPFd3Y
     - sys:
         id: 7fGrQE8JvoopxnucAHXojC
+    - sys:
+        id: 7fA4csFwmRnOVsaMT8fCQA
+    - sys:
+        id: 5VgVEToLm60Of75VO8PeLh
+    - sys:
+        id: 6izSAFcifyeJiNVj4aQlbm
+    - sys:
+        id: 1nNynmlZLyrFS61E4aVKlF
     year: '2020'
   - sys:
       id: NtGooUSun0kLnyUL4dOf5
       created_at: !ruby/object:DateTime 2020-07-30 12:01:28.406000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:01:28.406000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:25:19.162000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 2
     title: Evaluation Resources
     order: 8
+    blueprint_theme:
+      sys:
+        id: 1Ng1WlZ2xLVgrsra4J45uF
     description: Did the state or any of its agencies invest at least 1% of program
       funds in evaluations?
     explanation: Making specific funding commitments to evaluation is critical and
@@ -1277,11 +1429,14 @@ indexPage:
   - sys:
       id: pz8nJm4kjvFdk2zDEhnhK
       created_at: !ruby/object:DateTime 2020-07-30 12:06:32.394000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:06:32.394000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:23:05.325000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Outcome Data
     order: 9
+    blueprint_theme:
+      sys:
+        id: 1Ng1WlZ2xLVgrsra4J45uF
     description: Did the state or any of its agencies report or require outcome data
       for its state-funded programs during their budget process?
     explanation: "*Using data and evidence as part of the budget process helps state
@@ -1300,15 +1455,32 @@ indexPage:
         id: 1Lrufe18cBgUp8gNRIXAie
     - sys:
         id: 6Q4JGFxBEkjGAkRqFEvCXs
+    - sys:
+        id: 7DF8Fpt9FyLmyEtdnJfWag
+    - sys:
+        id: 7CB4BUDVfljiUnGYFTGQlt
+    - sys:
+        id: 2SBa9L71FDCTtn6agT2KLG
+    - sys:
+        id: Qfm21304xWnjSZXD2qktI
+    - sys:
+        id: 6hBqjBVLzjTmVfPwG24Hx9
+    - sys:
+        id: 6Hxp0o5hFxiKaCeFUO7IzI
+    - sys:
+        id: 2pGQmQ1X1M1sx4XWTVywjB
     year: '2020'
   - sys:
       id: 1xN53rV6IPjFBnFcUSyfYo
       created_at: !ruby/object:DateTime 2020-07-30 12:12:01.389000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:12:01.389000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:23:43.139000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Evidence Definition and Program Inventory
     order: 10
+    blueprint_theme:
+      sys:
+        id: 1Ng1WlZ2xLVgrsra4J45uF
     description: Did the state or any of its agencies release a common evidence framework,
       guidelines, or standards to inform its research and funding decisions and make
       publicly available an inventory of state-funded programs categorized based on
@@ -1327,15 +1499,40 @@ indexPage:
         id: 7ClMBywmodkHMMj4tVavGD
     - sys:
         id: 7nP6s7dHFiSM8xQ1MuWhoI
+    - sys:
+        id: 9tKCpbqhlOjRRvKaCrApe
+    - sys:
+        id: 1Q9vQYkSrN63CJzByFGBeN
+    - sys:
+        id: 5UEjxKmUbToMTyvkqSTuDK
+    - sys:
+        id: 5HM4xuPc54Sz4phkUM9sNr
+    - sys:
+        id: 7K3Izz0gxoh0CyulZK1FU1
+    - sys:
+        id: 75XLlVWK68YkZqCaLdgWgc
+    - sys:
+        id: 6oHXsKfg47BuqSmJa08IHW
+    - sys:
+        id: 1OwwXLxqal5y9yhMzJDUTy
+    - sys:
+        id: 5Q63b9Ps05yI2cmQyxuPdG
+    - sys:
+        id: 7tAj9GosDgTTZwTZEzheLM
+    - sys:
+        id: 2cOtK4EOLEMrzaRnG9kGoY
     year: '2020'
   - sys:
       id: 1H32qwq0h9l1DgiNQ80had
       created_at: !ruby/object:DateTime 2020-07-30 12:15:38.221000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:15:38.221000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:23:55.555000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Cost-Benefit Analysis
     order: 11
+    blueprint_theme:
+      sys:
+        id: 6oQUaS9Pqgwvq4RkUsSvDr
     description: Did the state or any of its agencies assess and make publicly available
       the costs and benefits of public programs?
     explanation: Cost-benefit analysis helps state governments quantify outcomes and
@@ -1351,15 +1548,28 @@ indexPage:
         id: 4tqiCUwcLxFa2AgCCiXQmv
     - sys:
         id: 5NPlUrAxqP0aPVlnRDNnqf
+    - sys:
+        id: 6SJlyKfvkLSFhHxbQCUwBq
+    - sys:
+        id: 10ov4tinnZwT4cwK8lUDo2
+    - sys:
+        id: 5WqTRdnfnoosVxC6RZiM0v
+    - sys:
+        id: 3PuqWxO0I7UiS2FrfMwM3s
+    - sys:
+        id: 4Cdat5MW7mZyCIoIXTEKpj
     year: '2020'
   - sys:
       id: 1KBhX3hdQfhRQG4TQZwXhP
       created_at: !ruby/object:DateTime 2020-07-30 12:22:44.605000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:22:44.605000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:24:10.307000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Use of Evidence in Grant Programs
     order: 12
+    blueprint_theme:
+      sys:
+        id: 6oQUaS9Pqgwvq4RkUsSvDr
     description: Did the state or any of its agencies (1) invest at least 50% of program
       funds in evidence-based solutions or (2) use evidence of effectiveness when
       allocating funds to eligible grantees (including local governments) from its
@@ -1373,15 +1583,36 @@ indexPage:
     promising_list:
     - sys:
         id: 2hPKBJqJSp6WSC8WPKarrn
+    - sys:
+        id: 36Nz08FSqTvhmseIbPGm5G
+    - sys:
+        id: 2vVa58ncvN3UPqULVgDRda
+    - sys:
+        id: 2885ogIp49340qr0mHYLZf
+    - sys:
+        id: 6dC5qRjrptt9RddAUnOvbW
+    - sys:
+        id: 4QLMIm62zFsW0VkqNIHOlg
+    - sys:
+        id: 6tsLyMLMCBmAHkP5ptxoGT
+    - sys:
+        id: 4loS58MRGcAr85oAUsHE3B
+    - sys:
+        id: 1OGdUBMTNHbT36Wb7QdrKz
+    - sys:
+        id: 4KkiKsIRQX0cL2iL0yE4wv
     year: '2020'
   - sys:
       id: 6mv7ZrxoZg7l87KSdtOD2E
       created_at: !ruby/object:DateTime 2020-07-30 12:24:20.781000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:24:20.781000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:24:23.364000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 3
     title: Innovation
     order: 13
+    blueprint_theme:
+      sys:
+        id: 6oQUaS9Pqgwvq4RkUsSvDr
     description: Did the state or any of its agencies have staff, policies, and processes
       in place that encouraged innovation to improve outcomes?
     explanation: "*Encouraging innovation allows state governments to implement new
@@ -1392,15 +1623,48 @@ indexPage:
     promising_list:
     - sys:
         id: 3yI00mW8TrdFxCW0NTxhGB
+    - sys:
+        id: 32k1VySfWsPffTOHiDADHf
+    - sys:
+        id: 6cWwXRQWGajHNziWs1WmeJ
+    - sys:
+        id: 3vrCsEfWbOWzXjIOP58Zzk
+    - sys:
+        id: 2bkzptGF8aBWIsUW1ahkNh
+    - sys:
+        id: 5HBOjuOQtcqlsLpegalJ5a
+    - sys:
+        id: 7BJU8yYnWavdyNMlQ80gXB
+    - sys:
+        id: 1ocB2dZ3WKpvau8UiB67g5
+    - sys:
+        id: 7uLpSkoxQFUsCLTTYnRxca
+    - sys:
+        id: 7oO1wUE5uOf7G9kKCvmrK2
+    - sys:
+        id: 67n8APsRPu4otq53en7X0B
+    - sys:
+        id: 3wOsSDCgjhGaN76vLS81tr
+    - sys:
+        id: cltmtZ5zNb42ONC5VdtFg
+    - sys:
+        id: 5AUezpByJWSg2e3nFVf4c6
+    - sys:
+        id: 4XpkuEYpuAnRANcyWB74fR
+    - sys:
+        id: 6MDLIIXscCAHTYNbA8a3G4
     year: '2020'
   - sys:
       id: 6qwQttDp5TvwnHKezT7Il1
       created_at: !ruby/object:DateTime 2020-07-30 12:27:02.229000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:29:58.732000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:24:34.891000000 Z
       content_type_id: criteria
-      revision: 2
+      revision: 4
     title: Contracting for Outcomes
     order: 14
+    blueprint_theme:
+      sys:
+        id: 6oQUaS9Pqgwvq4RkUsSvDr
     description: Did the state or any of its agencies enter into performance-based
       contracts and/or use active contract management (frequent use of data and regular
       communication with providers to monitor implementation and progress) to improve
@@ -1413,15 +1677,30 @@ indexPage:
     promising_list:
     - sys:
         id: 4KlVpUsmUtq9jGL7nicNwZ
+    - sys:
+        id: 2VQQMgaKh5G7ZHYNmwZ5Oj
+    - sys:
+        id: CNSPqpWfNg3Qo2xxOXh3U
+    - sys:
+        id: 6RKHWmvH8zmek4xIRElv2
+    - sys:
+        id: 7L9d9EcWohBMhUBAU0HMV8
+    - sys:
+        id: 2hDxdLIHulzg6hmZ7ISNC8
+    - sys:
+        id: 6EoD936nMvkiGLNyNBc1GY
     year: '2020'
   - sys:
       id: 1MQMPbgIHiHuvjDurdED3l
       created_at: !ruby/object:DateTime 2020-07-30 12:28:53.752000000 Z
-      updated_at: !ruby/object:DateTime 2020-07-30 12:28:53.752000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 02:24:47.948000000 Z
       content_type_id: criteria
-      revision: 1
+      revision: 2
     title: Repurpose for Results
     order: 15
+    blueprint_theme:
+      sys:
+        id: 6oQUaS9Pqgwvq4RkUsSvDr
     description: Did the state or any of its agencies shift funds away from any practice,
       policy, or program that consistently failed to achieve desired outcomes?
     explanation: "*Repurposing funds from programs that fail to consistently achieve

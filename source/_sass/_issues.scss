@@ -24,17 +24,13 @@
     @extend .u-material-icons;
     content: 'school';
   }
-  &--health::before, &--covid-19::before {
+  &--health::before {
     @extend .u-material-icons;
     content: 'local_hospital';
   }
   &--workforce::before {
     @extend .u-material-icons;
     content: 'people_alt';
-  }
-  &--statewide-evidence-building-capacity::before {
-    @extend .u-material-icons;
-    content: 'insights';
   }
 }
 
@@ -72,6 +68,14 @@
       font-size: 1.5rem;
       vertical-align: bottom;
     }
+    &--covid-19 {
+      background: url(/rfa-2020/images/COVID-yellow.png) center no-repeat;
+      background-size: 20px;
+      padding-left: 32px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      background-position-x: 8px;
+    }
   }
   .issue--leading {
     color: $primary-green;
@@ -86,5 +90,25 @@
   &::before {
     margin-right: 1rem;
     font-size: 1.2rem;
+  }
+}
+
+.state__issues {
+  .issue {
+    &--covid-19 {
+      background: url(/rfa-2020/images/COVID-brown.png) center no-repeat;
+      background-size: 12px;
+      padding-left: 14px;
+      padding-top: 10px;
+    }
+  }
+}
+
+.issues-container {
+  .issue--covid-19 {
+    background: url(/rfa-2020/images/COVID-green.png) center no-repeat;
+    background-size: 28px;
+    padding-left: 32px;
+    padding-top: 25px;
   }
 }

@@ -36,6 +36,9 @@
           <select aria-label="issues dropdown filter" class="issues-dropdown-filter__select">
             <option class="issues-dropdown-filter__option" value="all">All Issues</option>
             {% for issue in all_issues %}
+              {% if issue == "Statewide Evidence-Building Capacity" %}
+                {% continue %}
+              {% endif %}
             <option class="issues-dropdown-filter__option" value="{{issue | slugify }}"
               data-page="{{ issue | slugify }}">{{issue}}</option>
             {% endfor %}
@@ -77,6 +80,9 @@
         <!-- Leading issues -->
         {% assign leading_issues = "" | split: "" %}
         {% for issue in item.leading_list.issue %}
+        {% if issue == "Statewide Evidence-Building Capacity" %}
+          {% continue %}
+        {% endif %}
         {% assign issue_slug = issue | slugify %}
         {% assign leading_issues = leading_issues | push: issue_slug %}
         {% endfor %}
@@ -90,12 +96,15 @@
               </span>
             </div>
             <div class="description column large-12">
-              {{item.leading_list.short_description}}
+              {{item.leading_list.short_description | markdownify}}
             </div>
           </div>
           <div class="link row">
             <div class="column large-7 issues-container">
               {% for issue in item.leading_list.issue %}
+                {% if issue == "Statewide Evidence-Building Capacity" %}
+                  {% continue %}
+                {% endif %}
               <span class="issue issue--leading issue--{{ issue | slugify }}"></span>
               {% endfor %}
             </div>
@@ -120,6 +129,9 @@
             <!-- Promsing issues -->
             {% assign promising_issues = "" | split: "" %}
             {% for issue in issues %}
+              {% if issue == "Statewide Evidence-Building Capacity" %}
+                {% continue %}
+              {% endif %}
               {% assign issue_slug = issue | slugify %}
               {% assign promising_issues = promising_issues | push: issue_slug %}
             {% endfor %}
@@ -133,6 +145,9 @@
 
                   {% if issues %}
                   {% for issue in issues %}
+                    {% if issue == "Statewide Evidence-Building Capacity" %}
+                      {% continue %}
+                    {% endif %}
                   <span class="issue issue--{{ issue | slugify }}"></span>
                   {% endfor %}
                   {% endif %}
