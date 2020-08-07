@@ -1110,12 +1110,15 @@ leadingPage:
   - sys:
       id: 6lr40ckJd96mOiBtJrJxI3
       created_at: !ruby/object:DateTime 2020-07-30 09:30:35.325000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:36:20.604000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.694000000 Z
       content_type_id: leading
-      revision: 3
+      revision: 4
     state: Colorado
     state_abbreviation: CO
     type: Statewide
+    short_description: 'Launched in 2019, Colorado’s Governor’s Dashboard outlines
+      four high-priority strategic goals: tax reform and economic development, energy
+      and renewables, health, and education and the workforce.'
     long_description: 'Launched in 2019, Colorado’s [Governor’s Dashboard](https://dashboard.state.co.us/default.htm)
       outlines four high-priority strategic goals: [tax reform and economic development](https://dashboard.state.co.us/bold4-tax-reform-economic-dev.htm),
       [energy and renewables](https://dashboard.state.co.us/bold4-energy-renewables.htm),
@@ -1145,12 +1148,15 @@ leadingPage:
   - sys:
       id: 5jwzZ7x2jhn3I1hIBnD1fQ
       created_at: !ruby/object:DateTime 2020-07-30 10:05:13.841000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:35:50.200000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.768000000 Z
       content_type_id: leading
-      revision: 3
+      revision: 4
     state: Minnesota
     state_abbreviation: MN
     type: Statewide
+    short_description: In response to COVID-19, the state built a comprehensive public
+      data dashboard that tracks health and economic data, including response data
+      on hospital capacity, critical care supplies, child care, and funding.
     long_description: 'In response to COVID-19, the state built a comprehensive [public
       data dashboard](https://mn.gov/covid19/data/covid-dashboard/index.jsp) that
       tracks health and economic data, including [response data](https://mn.gov/covid19/data/response-prep/response-capacity.jsp)
@@ -1184,12 +1190,15 @@ leadingPage:
   - sys:
       id: 2amWHgyUslQOaSJXdlZVqs
       created_at: !ruby/object:DateTime 2020-07-30 10:46:15.764000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:35:01.988000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:18.480000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Connecticut
     state_abbreviation: CT
     type: Statewide
+    short_description: 'A 2018 Connecticut law formalized the position of Chief Data
+      Officer within the Office of Policy and Management and created the Connecticut
+      Data Analysis Technology Advisory Board. '
     long_description: A [2018 Connecticut law](https://www.cga.ct.gov/2018/ACT/pa/2018PA-00175-R00HB-05517-PA.htm)
       formalized the position of [Chief Data Officer](https://portal.ct.gov/OPM/Secr-General/Data-and-Analytics-Policy/Chief-Data-Officer)
       within the [Office of Policy and Management](https://portal.ct.gov/OPM/Root/About-OPM/OPM-Background)
@@ -1221,12 +1230,16 @@ leadingPage:
   - sys:
       id: ijon75u8HYXWNlE7BPY5l
       created_at: !ruby/object:DateTime 2020-07-30 10:51:02.268000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:38:00.942000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.545000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Ohio
     state_abbreviation: OH
     type: Multiple agencies
+    short_description: In April 2019, Ohio’s Governor signed an executive order consolidating
+      state data systems into the InnovateOhio Platform, which uses data as “a shared
+      strategic asset” whose “value is multiplied when data sets are linked across
+      programs and organizations” through data integration and management tools.
     long_description: In April 2019, Ohio’s Governor signed an [executive order](https://gcc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgovernor.ohio.gov%2Fwps%2Fportal%2Fgov%2Fgovernor%2Fmedia%2Fexecutive-orders%2F2019-15d&data=02%7C01%7CLaura.Pietenpol%40innovate.ohio.gov%7C2fbbdde921624514429208d72cb5dadd%7C50f8fcc494d84f0784eb36ed57c7c8a2%7C0%7C1%7C637027031886320122&sdata=rHaOC19CArNGbiHkkKpgJbxL%2B1WRHW0Gr5q3ds3kUtw%3D&reserved=0)
       consolidating state data systems into the [InnovateOhio Platform](https://innovateohio.gov/wps/portal/gov/innovate/platform),
       which uses data as “a shared strategic asset” whose “value is multiplied when
@@ -1261,12 +1274,18 @@ leadingPage:
   - sys:
       id: 7AGpMFi6FYuolyUMOX2tmg
       created_at: !ruby/object:DateTime 2020-07-30 11:31:30.240000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:39:42.722000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.524000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Indiana
     state_abbreviation: IN
     type: Statewide
+    short_description: 'The Indiana Management Performance Hub (MPH), overseen by
+      the state’s Chief Data Officer, houses the integrated Education and Workforce
+      Development database, which brings together data from 12 state agencies, including:
+      the Commission for Higher Education, Department of Education, Department of
+      Health, Department of Corrections, Department of Workforce Development, and
+      Family and Social Services Administration.'
     long_description: 'The [Indiana Management Performance Hub](https://www.in.gov/mph/index.htm)
       (MPH), overseen by the state’s [Chief Data Officer](https://www.in.gov/omb/2345.htm),
       houses the integrated [Education and Workforce Development database](https://www.in.gov/mph/917.htm),
@@ -1299,12 +1318,17 @@ leadingPage:
   - sys:
       id: 6wDH0LInhavULZOFUBP6Dc
       created_at: !ruby/object:DateTime 2020-07-30 11:42:14.106000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:40:47.315000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.567000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Tennessee
     state_abbreviation: TN
     type: Statewide
+    short_description: 'Founded in 2019, Tennessee’s Office of Evidence and Impact
+      is led by the state’s Director of Evidence and Impact. To propagate Tennessee’s
+      evidence-based budgeting efforts, the Office defined four tiers of evidence,
+      conducted program inventories, developed evidence reviews, and provided evidence-building
+      technical assistance. '
     long_description: 'Founded in 2019, Tennessee’s [Office of Evidence and Impact](https://www.tn.gov/transparenttn/tennessee-program-inventory/about.html)
       is led by the state’s Director of Evidence and Impact. To propagate Tennessee’s
       [evidence-based budgeting](https://www.tn.gov/transparenttn/tennessee-program-inventory/evidence-based-budgeting.html)
@@ -1327,12 +1351,19 @@ leadingPage:
   - sys:
       id: 3p9kCx92PLJAfrLkdVh0zH
       created_at: !ruby/object:DateTime 2020-07-30 11:46:39.458000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:41:43.041000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.518000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Kentucky
     state_abbreviation: KY
     type: Multiple agencies
+    short_description: 'The Kentucky Center for Statistics (KYSTATS) has a 2020-22
+      Research Agenda, which details four primary research areas to identify barriers
+      to education and workforce opportunities: (1) expand data access and data use
+      to inform equity issues; (2) evaluate outcomes and barriers for education and
+      workforce programs over time; (3) connect supply and demand of the state’s future
+      workforce; and (4) measure the impact of out-of-state education and workforce
+      migration.'
     long_description: 'The [Kentucky Center for Statistics](https://kystats.ky.gov)
       (KYSTATS) has a [2020-22 Research Agenda](https://kystats.ky.gov/Content/BoardDocs/Research%20Agenda%2020-22%20Final.pdf?v=20200406050900),
       which details four primary research areas to identify barriers to education
@@ -1359,12 +1390,17 @@ leadingPage:
   - sys:
       id: SpLyNqgu9F24as56hTejk
       created_at: !ruby/object:DateTime 2020-07-30 11:51:11.322000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:42:57.278000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.521000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Minnesota
     state_abbreviation: MN
     type: Single agency
+    short_description: 'A 2017 law created Minnesota’s Opiate Epidemic Response grant
+      program. The FY 2021 budget includes $300,000 for Minnesota Management and Budget
+      to conduct experimental and quasi-experimental design impact evaluations for
+      opiate epidemic response grant activities, which is slightly more than 1.1%
+      of the agency’s $27 million general fund budget. '
     long_description: 'A [2017 law](https://www.revisor.mn.gov/laws/2019/0/Session+Law/Chapter/63/)
       created Minnesota’s Opiate Epidemic Response grant program. The FY 2021 [budget](https://mn.gov/mmb-stat/documents/budget/2020-21-biennial-budget-books/enacted-budget/minnesota-management-and-budget.pdf#page=8)
       includes $300,000 for Minnesota Management and Budget to [conduct](https://mn.gov/mmb/results-first/opioid-epidemic-response-evaluations/)
@@ -1388,12 +1424,16 @@ leadingPage:
   - sys:
       id: 4kDJUEJqRYx1Og2V4jQMp5
       created_at: !ruby/object:DateTime 2020-07-30 12:03:17.667000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:43:56.304000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:16.765000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Colorado
     state_abbreviation: CO
     type: Statewide
+    short_description: The 2013 Colorado State Measurement for Accountable, Responsive
+      and Transparent Government (SMART) Act required all Colorado state agencies
+      to submit annual performance reports to the state legislature as part of the
+      state’s budget process.
     long_description: 'The 2013 [Colorado State Measurement for Accountable, Responsive
       and Transparent Government](https://leg.colorado.gov/sites/default/files/thesmartgovernmentact_ib_2013.pdf)
       (SMART) Act required all Colorado state agencies to submit annual performance
@@ -1429,12 +1469,15 @@ leadingPage:
   - sys:
       id: 6i1zDkp6ejO2luidBXWpv7
       created_at: !ruby/object:DateTime 2020-07-30 12:09:10.289000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:45:53.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:16.764000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: New Mexico
     state_abbreviation: NM
     type: Multiple agencies
+    short_description: A 1999 New Mexico law required all state agencies to submit
+      annual performance-based budget requests that include outputs, outcomes, performance,
+      and evaluation data.
     long_description: 'A [1999 New Mexico law](https://www.nmlegis.gov/Entity/LFC/Documents/Accountability_In_Goverment_Act/Accountability%20in%20Government%20Act%20Statute.pdf#page=5)
       required all state agencies to submit annual performance-based budget requests
       that include outputs, outcomes, performance, and evaluation data. The 2019 [Evidence
@@ -1472,12 +1515,18 @@ leadingPage:
   - sys:
       id: 3k8cCtSdeHjbjR6dfUOgH4
       created_at: !ruby/object:DateTime 2020-07-30 12:13:28.552000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 20:47:00.048000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.015000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Washington
     state_abbreviation: WA
     type: Multiple agencies
+    short_description: 'A 2013 Washington State law directed the Department of Corrections,
+      in consultation with the Washington State Institute for Public Policy (WSIPP),
+      to: (1) compile an inventory of existing programs; (2) determine whether its
+      programs were evidence-based; (3) assess the effectiveness of its programs,
+      including conducting a cost-benefit analysis; and (4) phase out ineffective
+      programs and implement evidence-based programs.'
     long_description: 'A [2013 Washington State law](http://apps.leg.wa.gov/documents/billdocs/2013-14/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf)
       (pp. 105-106) directed the Department of Corrections, in consultation with the
       Washington State Institute for Public Policy (WSIPP), to: (1) compile an inventory
@@ -1507,12 +1556,17 @@ leadingPage:
   - sys:
       id: 28Am24K5LiMvhAqzh9cHbJ
       created_at: !ruby/object:DateTime 2020-07-30 12:21:51.892000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 21:20:59.044000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:16.748000000 Z
       content_type_id: leading
-      revision: 4
+      revision: 5
     state: Nevada
     state_abbreviation: NV
     type: Single agency
+    short_description: Since 2017, the Nevada Department of Education has allocated
+      100% of the state’s $9.5 million in federal Title I school improvement funds
+      to districts and schools for interventions backed by strong, moderate, or promising
+      evidence (using the top three tiers of evidence as defined by the federal Every
+      Student Succeeds Act (ESSA)).
     long_description: "Since 2017, the Nevada Department of Education has [allocated](http://www.doe.nv.gov/uploadedFiles/ndedoenvgov/content/TitleI/1003aapplication2017.pdf)
       100% of the state’s $9.5 million in federal Title I school improvement funds
       to districts and schools for interventions backed by strong, moderate, or promising
@@ -1577,12 +1631,15 @@ leadingPage:
   - sys:
       id: 3Q7ruy9Pw17mKoZ0o84c1z
       created_at: !ruby/object:DateTime 2020-07-30 12:23:48.622000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 21:14:25.005000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:16.762000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: California
     state_abbreviation: CA
     type: Statewide
+    short_description: In 2020, California launched the California COVID Assessment
+      Tool to identify potential COVID-19 hotspots, predict which hospitals might
+      reach capacity, and proactively allocate resources to such hotspots.
     long_description: "In 2020, California launched the [California COVID Assessment
       Tool](https://calcat.covid19.ca.gov/cacovidmodels/) to identify potential COVID-19
       hotspots, predict which hospitals might reach capacity, and proactively allocate
@@ -1623,12 +1680,14 @@ leadingPage:
   - sys:
       id: PakgTgnncwntvI0Wkf87J
       created_at: !ruby/object:DateTime 2020-07-30 12:25:51.751000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 21:16:31.845000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:16.751000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Rhode Island
     state_abbreviation: RI
     type: Multiple agencies
+    short_description: Since 2015, Rhode Island’s Department of Children, Youth, and
+      Families has worked to reform and restructure the department’s procurement.
     long_description: "Since 2015, Rhode Island’s Department of Children, Youth, and
       Families has worked to [reform and restructure](https://govlab.hks.harvard.edu/rhode-island-department-children-youth-and-families-performance-improvement)
       the department’s procurement. As part of this initiative, the department executed
@@ -1676,12 +1735,15 @@ leadingPage:
   - sys:
       id: 5tvreX1oTmTUy7QIzlXdBb
       created_at: !ruby/object:DateTime 2020-07-30 12:27:59.012000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 21:18:36.294000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:16:16.758000000 Z
       content_type_id: leading
-      revision: 2
+      revision: 3
     state: Pennsylvania
     state_abbreviation: PA
     type: Single agency
+    short_description: 'Since 2013, the Pennsylvania Department of Corrections has
+      set performance targets for its community corrections program through performance-based
+      contracts. '
     long_description: Since 2013, the Pennsylvania Department of Corrections has [set
       performance targets for its community corrections program](http://www.media.pa.gov/pages/corrections_details.aspx?newsid=225)
       through [performance-based contracts](https://www.cor.pa.gov/Initiatives/Documents/Justice%20Reinvestment%20Initiative/JRI%20-%20Phase%202%202016/Report%20-%20Justice%20Reinvestment%20in%20Pennsylvania%20-%20June%202017.pdf).

@@ -9,6 +9,9 @@
     <div class="key-header">Issues</div>
     <ul>
       {% for issue in include.issues %}
+        {% if issue == "Statewide Evidence-Building Capacity" %}
+          {% continue %}
+        {% endif %}
       <li class="issue issue--{{issue|slugify}} issue--key">{{issue}}</li>
       {% endfor %}
     </ul>

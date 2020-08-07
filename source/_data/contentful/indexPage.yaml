@@ -1102,9 +1102,9 @@ indexPage:
   - sys:
       id: 2n4KjkR7qMKMPwjAh1yq3T
       created_at: !ruby/object:DateTime 2020-07-30 10:09:54.201000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:20:45.851000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 15:26:33.796000000 Z
       content_type_id: criteria
-      revision: 4
+      revision: 5
     title: Performance Management / Continuous Improvement
     order: 2
     blueprint_theme:
@@ -1126,9 +1126,9 @@ indexPage:
     - sys:
         id: 3IkjjOqBqYkJPO9egvxewz
     - sys:
-        id: 6vM7XhybeFTN3rGIT1OuX6
-    - sys:
         id: 4GuPHAPFZjEwr4t1iHA58f
+    - sys:
+        id: 6vM7XhybeFTN3rGIT1OuX6
     - sys:
         id: 7fwA4aka8WUMWb1mGsoGKs
     - sys:
@@ -1333,11 +1333,14 @@ indexPage:
   - sys:
       id: 4qypE3R59Kuog5TnSQWpDY
       created_at: !ruby/object:DateTime 2020-07-30 11:44:59.690000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:29:33.427000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 03:24:17.450000000 Z
       content_type_id: criteria
-      revision: 6
+      revision: 7
     title: Evaluation Leadership
     order: 6
+    blueprint_theme:
+      sys:
+        id: 1Ng1WlZ2xLVgrsra4J45uF
     description: 'Did the governor’s office or any state agency have a senior staff
       member(s) with the authority, staff, and budget to evaluate its major programs
       and inform policy decisions affecting them? (Example: Chief Evaluation Officer)'
@@ -1559,9 +1562,9 @@ indexPage:
   - sys:
       id: 1KBhX3hdQfhRQG4TQZwXhP
       created_at: !ruby/object:DateTime 2020-07-30 12:22:44.605000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:24:10.307000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-06 15:34:43.110000000 Z
       content_type_id: criteria
-      revision: 3
+      revision: 4
     title: Use of Evidence in Grant Programs
     order: 12
     blueprint_theme:
@@ -1581,6 +1584,8 @@ indexPage:
     - sys:
         id: 2hPKBJqJSp6WSC8WPKarrn
     - sys:
+        id: 4QLMIm62zFsW0VkqNIHOlg
+    - sys:
         id: 36Nz08FSqTvhmseIbPGm5G
     - sys:
         id: 2vVa58ncvN3UPqULVgDRda
@@ -1588,8 +1593,6 @@ indexPage:
         id: 2885ogIp49340qr0mHYLZf
     - sys:
         id: 6dC5qRjrptt9RddAUnOvbW
-    - sys:
-        id: 4QLMIm62zFsW0VkqNIHOlg
     - sys:
         id: 6tsLyMLMCBmAHkP5ptxoGT
     - sys:

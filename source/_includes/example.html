@@ -40,12 +40,17 @@
       <p class="example__type">{{example.type}}</p>
     {% endif %}
     {% if example.issue %}
-    <div class="criteria-issues row align-center">
+      {% assign issues = "" | split: "" %}
       {% for issue in example.issue %}
         {% if issue == "Statewide Evidence-Building Capacity" %}
           {% continue %}
         {% endif %}
-      <div class="issue issue--{{issue | slugify}} issue--{{exampleType}}"><span>{{issue}}</span></div>
+        {% assign issues = issues | push: issue %}
+      {% endfor %}
+    {% assign issues = issues | sort %}
+    <div class="criteria-issues row align-center">
+      {% for issue in issues %}
+        <div class="issue issue--{{issue | slugify}} issue--{{exampleType}}"><span>{{issue}}</span></div>
       {% endfor %}
     </div>
     {% endif %}

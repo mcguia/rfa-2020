@@ -5040,9 +5040,9 @@ promising:
 - sys:
     id: 3GhsETBVfBqYaqcnGnldeA
     created_at: !ruby/object:DateTime 2020-07-30 11:43:56.405000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 15:30:02.617000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:23:51.005000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Colorado
   state_abbreviation: CO
   type: Statewide
@@ -5055,7 +5055,6 @@ promising:
   issue:
   - Child Welfare
   - Criminal Justice
-  - Economic Opportunity
   - Education
   - Health
   - Workforce
@@ -5887,6 +5886,28 @@ promising:
   year: '2020'
   status: New
 - sys:
+    id: 2bkzptGF8aBWIsUW1ahkNh
+    created_at: !ruby/object:DateTime 2020-08-05 20:21:53.121000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 15:36:23.698000000 Z
+    content_type_id: promising
+    revision: 3
+  state: Massachusetts
+  state_abbreviation: MA
+  type: Single agency
+  long_description: 'The [Massachusetts Department of Housing and Community Development](https://www.mass.gov/orgs/housing-and-community-development)
+    dedicated up to $2 million in its [family shelter procurement](https://www.commbuys.com/bso/external/bidDetail.sdo?docId=BD-20-1076-OCDDE-OCD01-42627&external=true&parentUrl=bid)
+    for provider-defined innovative proposals. The grant allocated 60 points to applicants
+    who proposed interventions that would produce evidence of success based on existing
+    research or providers’ past performance. Interventions were focused on [three
+    outcomes](https://www.commbuys.com/bso/external/bidDetail.sdo?docId=BD-20-1076-OCDDE-OCD01-42627&external=true&parentUrl=bid):
+    promoting shorter shelter stays to transition families into stable housing; improving
+    housing stability to reduce repeated homelessness; and improving family well-being.'
+  criteria: Innovation
+  issue:
+  - Economic Mobility
+  year: '2020'
+  status: New
+- sys:
     id: 5HBOjuOQtcqlsLpegalJ5a
     created_at: !ruby/object:DateTime 2020-08-05 20:21:53.121000000 Z
     updated_at: !ruby/object:DateTime 2020-08-05 22:12:37.383000000 Z
@@ -5930,28 +5951,6 @@ promising:
   - COVID-19
   year: '2020'
   status: Updated from 2019
-- sys:
-    id: 2bkzptGF8aBWIsUW1ahkNh
-    created_at: !ruby/object:DateTime 2020-08-05 20:21:53.121000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 22:07:16.181000000 Z
-    content_type_id: promising
-    revision: 2
-  state: Massachusetts
-  state_abbreviation: MS
-  type: Single agency
-  long_description: 'The [Massachusetts Department of Housing and Community Development](https://www.mass.gov/orgs/housing-and-community-development)
-    dedicated up to $2 million in its [family shelter procurement](https://www.commbuys.com/bso/external/bidDetail.sdo?docId=BD-20-1076-OCDDE-OCD01-42627&external=true&parentUrl=bid)
-    for provider-defined innovative proposals. The grant allocated 60 points to applicants
-    who proposed interventions that would produce evidence of success based on existing
-    research or providers’ past performance. Interventions were focused on [three
-    outcomes](https://www.commbuys.com/bso/external/bidDetail.sdo?docId=BD-20-1076-OCDDE-OCD01-42627&external=true&parentUrl=bid):
-    promoting shorter shelter stays to transition families into stable housing; improving
-    housing stability to reduce repeated homelessness; and improving family well-being.'
-  criteria: Innovation
-  issue:
-  - Economic Mobility
-  year: '2020'
-  status: New
 - sys:
     id: 3vrCsEfWbOWzXjIOP58Zzk
     created_at: !ruby/object:DateTime 2020-08-05 20:21:53.128000000 Z
@@ -6164,11 +6163,11 @@ promising:
 - sys:
     id: 36Nz08FSqTvhmseIbPGm5G
     created_at: !ruby/object:DateTime 2020-08-05 20:21:54.949000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 21:03:09.258000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 15:34:27.091000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Massachusetts
-  state_abbreviation: MS
+  state_abbreviation: MA
   type: Single agency
   long_description: The Massachusetts Department of Elementary and Secondary Education
     distributes competitive federal funds through the [School Redesign Grant](http://www.doe.mass.edu/turnaround/redesign/)
@@ -7053,18 +7052,20 @@ promising:
 - sys:
     id: 7fA4csFwmRnOVsaMT8fCQA
     created_at: !ruby/object:DateTime 2020-08-05 20:22:17.297000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:22:17.297000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:53:09.828000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Minnesota
   state_abbreviation: MN
   type: Statewide
-  long_description: 'In 2018, Minnesota Management and Budget adopted an evaluation
-    policy, which governs its use of evaluations and requires the release of all completed
-    evaluations, regardless of findings. The policy outlines key principles for evaluation,
-    including: rigor, relevance, independence, transparency, and ethics. Minnesota
-    Management produced an evaluation guide and also defines evidence for statewide
-    research, evaluation, and funding purposes.'
+  long_description: 'In 2018, Minnesota Management and Budget adopted an [evaluation
+    policy](https://mn.gov/mmb-stat/results-first/evaluation-policy.pdf), which governs
+    its use of evaluations and requires the release of all completed evaluations,
+    regardless of findings. The policy outlines key principles for evaluation, including:
+    rigor, relevance, independence, transparency, and ethics. Minnesota Management
+    produced an [evaluation guide](https://mn.gov/mmb-stat/results-first/evaluation-guide.pdf)
+    and also [defines evidence](https://mn.gov/mmb/results-first/definitions-of-evidence/)
+    for statewide research, evaluation, and funding purposes.'
   criteria: Evaluation Policies
   issue:
   - Child Welfare
@@ -7486,21 +7487,22 @@ promising:
 - sys:
     id: 6izSAFcifyeJiNVj4aQlbm
     created_at: !ruby/object:DateTime 2020-08-05 20:22:20.151000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:22:20.151000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:55:40.702000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Tennessee
   state_abbreviation: TN
   type: Single agency
-  long_description: The Tennessee Education Research Alliance is a formal research
-    partnership between the Tennessee Department of Education and Vanderbilt University’s
-    Peabody College of Education. Led by seven full-time staff and guided by a steering
-    committee and advisory council, the Department and the University have co-created
-    a research agenda that builds a body of knowledge to better position the state
-    to make data-driven and evidence-based decisions. The Alliance conducts independent
-    studies and directs external research to provide relevant and timely information
-    to state policymakers across a variety of topic areas, including early reading,
-    professional learning, and school improvement.
+  long_description: The [Tennessee Education Research Alliance](https://peabody.vanderbilt.edu/research/tnedresearchalliance/index.php)
+    is a formal research partnership between the Tennessee Department of Education
+    and Vanderbilt University’s Peabody College of Education. Led by seven full-time
+    staff and guided by a steering committee and advisory council, the Department
+    and the University have co-created a [research agenda](https://peabody.vanderbilt.edu/TERA/research-agenda.php)
+    that builds a body of knowledge to better position the state to make data-driven
+    and evidence-based decisions. The Alliance [conducts independent studies](https://peabody.vanderbilt.edu/TERA/professional_learning.php)
+    and directs external research to provide relevant and timely information to state
+    policymakers across a variety of topic areas, including early reading, professional
+    learning, and school improvement.
   criteria: Evaluation Policies
   issue:
   - Education
@@ -7530,16 +7532,19 @@ promising:
 - sys:
     id: 1nNynmlZLyrFS61E4aVKlF
     created_at: !ruby/object:DateTime 2020-08-05 20:22:20.664000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:22:20.664000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:57:09.720000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Utah
   state_abbreviation: UT
   type: Multiple agencies
-  long_description: The Utah Data Research Center’s research agenda investigates themes
-    related to the state’s education and workforce policies and programs. The Center’s
-    work is guided by a governance structure that calls for staff engagement, an advisory
-    board, an institutional review board, and a peer review process.
+  long_description: The [Utah Data Research Center](https://udrc.utah.gov/)’s [research
+    agenda](https://udrc.utah.gov/research.html) investigates themes related to the
+    state’s education and workforce policies and programs. The Center’s work is guided
+    by a [governance structure](https://udrc.utah.gov/governance_May2020.pdf) that
+    calls for [staff](https://udrc.utah.gov/team.html) engagement, an [advisory board](https://www.utah.gov/pmn/sitemap/publicbody/6073.html),
+    an [institutional review board](https://udrc.utah.gov/USBE-IRB-Policy-v2.pdf),
+    and a [peer review](https://udrc.utah.gov/peerreviewprocess.pdf) process.
   criteria: Evaluation Policies
   issue:
   - Education
@@ -7604,16 +7609,16 @@ promising:
 - sys:
     id: aW4irpTlMNBZlFxRtzems
     created_at: !ruby/object:DateTime 2020-08-05 20:22:21.064000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:22:21.064000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:47:59.047000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Washington
   state_abbreviation: WA
   type: Multiple agencies
   long_description: |-
-    The Washington Education Research and Data Center’s memorandum of understanding describes how data will be collected and shared among partners. It has a strong focus on protecting individual privacy. The Center gathers 11 partners, including state workforce, education, and child welfare agencies, to compile education and workforce data to improve student achievement and workforce outcomes.
+    The [Washington Education Research and Data Center](https://erdc.wa.gov/)’s [memorandum of understanding](https://erdc.wa.gov/research-partners/our-partners/memorandum-understanding) describes how data will be collected and shared among partners. It has a strong [focus on protecting individual privacy](https://erdc.wa.gov/research-partners/privacy-considerations). The Center gathers 11 [partners](https://erdc.wa.gov/research-partners/our-partners), including state workforce, education, and child welfare agencies, to compile education and workforce data to improve student achievement and workforce outcomes.
 
-    The Washington State Department of Social and Health Services maintains an integrated client database with data from 10 state agencies, 40 separate data systems, and millions of individuals receiving services through publicly funded health and human services programs in Washington State. This data is used for rapid-cycle policy analysis, program evaluation, predictive modeling, and performance measurement to help agencies understand how health services and other factors are related to outcomes for persons served by public assistance programs. Predictive modeling and clinical decision support tools developed and maintained in the Research and Data Analysis’s integrated data environment have been used by the state’s Health Home Program, which provides intensive care management services to high-risk Medicaid beneficiaries, to improve beneficiary health outcomes and lower costs. These lower costs have resulted in tens of millions in dollars in shared savings payments from the federal Centers for Medicare and Medicaid Services.
+    The Washington State Department of Social and Health Services maintains an [integrated client database](http://www.aisp.upenn.edu/wp-content/uploads/2015/08/WAState_CaseStudy.pdf) with data from 10 state agencies, 40 separate data systems, and millions of individuals receiving services through publicly funded health and human services programs in Washington State. This data is used for rapid-cycle policy analysis, program evaluation, [predictive modeling](https://ocio-website-files.s3-us-west-2.amazonaws.com/Digital-States-Survey-PRISM-Predictive-Risk-App.pdf), and performance measurement to help agencies understand how health services and other factors are related to outcomes for persons served by public assistance programs. Predictive modeling and clinical decision support tools developed and maintained in the [Research and Data Analysis](https://www.dshs.wa.gov/ffa/research-and-data-analysis)’s integrated data environment have been used by the state’s [Health Home Program](https://www.dshs.wa.gov/altsa/washington-health-home-program), which provides intensive care management services to high-risk Medicaid beneficiaries, to [improve beneficiary health outcomes and lower costs](https://www.hca.wa.gov/about-hca/health-home-program-saves-more-100-million-medicare-program-over-three-years). These lower costs have resulted in tens of millions in dollars in shared savings payments from the federal Centers for Medicare and Medicaid Services.
   criteria: Data Policies / Agreements
   issue:
   - Child Welfare
@@ -7626,17 +7631,18 @@ promising:
 - sys:
     id: 5VgVEToLm60Of75VO8PeLh
     created_at: !ruby/object:DateTime 2020-08-05 20:22:21.308000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:22:21.308000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:54:37.635000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Mississippi
   state_abbreviation: MS
   type: Single agency
-  long_description: The Mississippi Department of Education has a research agenda
-    informed by the State Board of Education’s strategic plan and a focus group of
-    department staff members. The agenda’s associated questions and a dynamic framework
-    shape the activities of the Office of Research and Development, which uses data
-    to drive the Department’s evidence-based decision-making.
+  long_description: The Mississippi Department of Education has a [research agenda](https://mdek12.org/OTSS/ORD/Research-Agenda)
+    informed by the State Board of Education’s strategic plan and a [focus group](https://mdek12.org/OTSS/ORD/RAFG)
+    of department staff members. The agenda’s [associated questions](https://mdek12.org/OTSS/ORD/Associated-Questions)
+    and a [dynamic framework](https://mdek12.org/OTSS/ORD/Dynamic-Framework) shape
+    the activities of the [Office of Research and Development](https://mdek12.org/OTSS/ORD),
+    which uses data to drive the Department’s evidence-based decision-making.
   criteria: Evaluation Policies
   issue:
   - Education
@@ -7713,19 +7719,21 @@ promising:
 - sys:
     id: 6AXnbA1eO4TqsesaNwj3D5
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.323000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:00.323000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:41:06.359000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Texas
   state_abbreviation: TX
   type: Multiple agencies
-  long_description: 'The Texas Education Agency administers the Texas Student Data
-    System, a statewide platform for collecting, managing, sharing, and reporting
-    state education data. The system has a data standards and data governance process.
-    Additionally, the Workforce Information System of Texas (TWIST) links data across
-    workforce funding streams for intake, eligibility determination, and reporting
-    on programs such as the Supplemental Nutrition Assistance Program, Employment
-    and Training, and the Workforce Innovation and Opportunity Act.
+  long_description: 'The Texas Education Agency administers the [Texas Student Data
+    System](https://www.texasstudentdatasystem.org/), a statewide platform for collecting,
+    managing, sharing, and reporting state education data. The system has a [data
+    standards](https://tealprod.tea.state.tx.us/TWEDS/83/0/0/0/Introduction/List/545)
+    and [data governance](https://www.texasstudentdatasystem.org/TSDS/About/Data_Governance/User_Involvement_and_Data_Governance/)
+    process. Additionally, the [Workforce Information System of Texas](https://www.borderplexjobs.com/files/10-18-2018-revised-wsb-policy-manual.pdf#page=22)
+    (TWIST) links data across workforce funding streams for intake, eligibility determination,
+    and reporting on programs such as the Supplemental Nutrition Assistance Program,
+    Employment and Training, and the Workforce Innovation and Opportunity Act.
 
     '
   criteria: Data Policies / Agreements
@@ -7737,19 +7745,21 @@ promising:
 - sys:
     id: 2VaPRngI7qLj5TkwhDpaKb
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.328000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:00.328000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:37:20.910000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: North Carolina
   state_abbreviation: NC
   type: Statewide
-  long_description: The North Carolina Data Analytics Center serves as the centralized
-    data office for the state. As authorized by law, the Center has developed a data
-    governance program for utilizing standardized memorandums of agreement consistent
-    with strong privacy protections to share data with local, state, and federal agencies.
-    It also coordinates the state’s education longitudinal system, which includes
-    data sharing among the Departments of Education, Labor, Revenue, Health and Human
-    Services, and the state’s university system.
+  long_description: The [North Carolina Data Analytics Center](https://it.nc.gov/services/nc-gdac)
+    serves as the centralized data office for the state. As authorized by [law](https://www.ncleg.net/EnactedLegislation/Statutes/PDF/BySection/Chapter_143B/GS_143B-1385.pdf),
+    the Center has developed a [data governance](https://it.nc.gov/services/nc-government-data-analytics-center/data-asset-catalog-service-dacs)
+    program for utilizing standardized memorandums of agreement consistent with strong
+    privacy protections to share data with local, state, and federal agencies. It
+    also [coordinates](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_116E.pdf)
+    the state’s education longitudinal system, which includes data sharing among the
+    Departments of Education, Labor, Revenue, Health and Human Services, and the state’s
+    university system.
   criteria: Data Policies / Agreements
   issue:
   - Education
@@ -7762,17 +7772,17 @@ promising:
 - sys:
     id: 3y2U7UccuxkWGfRmPU74ox
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.338000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:00.338000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:36:27.989000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: New Jersey
   state_abbreviation: NJ
   type: Multiple agencies
   long_description: 'New Jersey partners with Rutgers, The State University of New
-    Jersey, to operate the New Jersey Education to Earnings Data System (NJEEDS),
-    which uses a data-sharing agreement to link data from the Departments of Education
-    and Labor, the Office of the Secretary of Higher Education, and the Higher Education
-    Student Assistance Authority. '
+    Jersey, to operate the [New Jersey Education to Earnings Data System](http://njed2earndata.org/)
+    (NJEEDS), which uses [a data-sharing agreement](http://njed2earndata.org/wp-content/uploads/2018/01/NJ_FEDSA_MOA.pdf)
+    to link data from the Departments of Education and Labor, the Office of the Secretary
+    of Higher Education, and the Higher Education Student Assistance Authority. '
   criteria: Data Policies / Agreements
   issue:
   - Education
@@ -7782,23 +7792,27 @@ promising:
 - sys:
     id: 15oIU9eQLgGtyZClntyXkz
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.376000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:00.376000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:39:06.387000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Oregon
   state_abbreviation: OR
   type: Multiple agencies
-  long_description: 'A 2017 Oregon law requires the Chief Data Officer to create an
-    enterprise Memorandum of Understanding to facilitate data sharing across state
-    agencies. This approach has been used for the Statewide Longitudinal Data System,
-    launched in 2018, to bring together education and workforce data, the Sustainable
-    Solutions for Accelerated Learning (SSAL) Work Group, and Trauma-Informed Pilot
-    Project to identify areas of inequities for increased funding. In 2019, the state
-    also partnered with the Oregon Health and Sciences’ University Center for Evidence
-    Based Policy, state agencies, nonprofit leaders, and the state legislature to
-    create the Child Well-Being Dashboard, which uses data from the Oregon Departments
-    of Education, Early Learning, Health and Human Services, and Youth to measure
-    the outcomes of early childhood intervention programs. '
+  long_description: 'A [2017 Oregon law](https://olis.leg.state.or.us/liz/2017R1/Downloads/MeasureDocument/HB3361/Enrolled)
+    requires the Chief Data Officer to create an enterprise Memorandum of Understanding
+    to facilitate data sharing across state agencies. This approach has been used
+    for the [Statewide Longitudinal Data System](https://www.oregon.gov/cedo/SLDS/Pages/index.aspx),
+    launched in 2018, to bring together education and workforce data, the [Sustainable
+    Solutions for Accelerated Learning (SSAL) Work Group](https://www.oregon.gov/cedo/Documents/Final%20SSAL%20White%20Paper%20July%202018.pdf),
+    and [Trauma-Informed Pilot Project](https://www.oregon.gov/cedo/Pages/Trauma-informed-pilot.aspx)
+    to identify areas of inequities for increased funding. In 2019, the state also
+    [partnered](https://www.ocid-cebp.org/about-ocid/ocid-governance/) with the [Oregon
+    Health and Sciences’ University Center for Evidence Based Policy](https://centerforevidencebasedpolicy.org/),
+    state agencies, nonprofit leaders, and the state legislature to create the [Child
+    Well-Being Dashboard](https://www.ocid-cebp.org/child-well-being-dashboard/),
+    which uses data from the Oregon Departments of Education, Early Learning, Health
+    and Human Services, and Youth to measure the outcomes of early childhood intervention
+    programs. '
   issue:
   - Child Welfare
   - Education
@@ -7809,17 +7823,20 @@ promising:
 - sys:
     id: 4rlkooqJV2W3YQTPGQnvEG
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.380000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:00.380000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:43:20.599000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Utah
   state_abbreviation: UT
   type: Multiple agencies
-  long_description: 'Utah’s Chief Data Officer is using data sharing and a Memorandum
-    of Understanding to support the Blueprint Solution, which is designed to improve
-    service delivery through enhanced case management coordination among state social
-    services agencies. Utah also has an open data catalog supported by the State Open
-    Data Coordinator, a position created by a 2014 law. '
+  long_description: 'Utah’s [Chief Data Officer](https://gomb.utah.gov/rachel-stone/)
+    is using [data sharing](https://docs.google.com/document/d/1ER4usmCMhSpitRGJGx_tPJmdVyLhbnDXKh5jkA9MYaw/edit?usp=sharing)
+    and a [Memorandum of Understanding](https://drive.google.com/file/d/15jYjfwQtBGML-Bp-5Dboo7pXLERUAoVY/view)
+    to support the [Blueprint Solution](https://gomb.utah.gov/transforming-social-services/),
+    which is designed to improve service delivery through enhanced case management
+    coordination among state social services agencies. Utah also has an [open data
+    catalog](https://www.utah.gov/data/) supported by the State Open Data Coordinator,
+    a position created by a 2014 [law](https://le.utah.gov/~2014/bills/static/SB0070.html). '
   criteria: Data Policies / Agreements
   issue:
   - Child Welfare
@@ -7831,18 +7848,20 @@ promising:
 - sys:
     id: 75KcsUacwiTZfHzlcksMzc
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.389000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:00.389000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:44:54.865000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Virginia
   state_abbreviation: VA
   type: Statewide
-  long_description: In 2020, a Virginia executive order established data governance
-    bodies to improve data sharing between state agencies and localities. The Executive
-    Order implements the recommendations from the 2019 publication Data Sharing and
-    Analytics Governance Structure for the Commonwealth of Virginia Report. The Virginia
-    open data portal also features resources on data use, a data dictionary, and an
-    open data catalog.
+  long_description: In 2020, a Virginia [executive order](https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-48-Establishment-of-the-Virginia-Data-Commission,-the-Virginia-Executive-Data-Board,-and-the-Virginia-Data-Governance-Council.pdf)
+    established [data governance bodies](https://www.cdo.virginia.gov/data-governance/)
+    to improve data sharing between state agencies and localities. The Executive Order
+    implements the recommendations from the 2019 publication [Data Sharing and Analytics
+    Governance Structure for the Commonwealth of Virginia Report](https://www.administration.virginia.gov/media/governorvirginiagov/secretary-of-administration/DSAAC-Data-Governance-Framework-Report-v1.pdf).
+    The Virginia [open data portal](https://data.virginia.gov/) also features resources
+    on [data use](https://data.virginia.gov/stories/s/8yny-f2mg), a [data dictionary](http://metadata.cdo.virginia.gov/SAGE/DataDictionary),
+    and an [open data catalog](https://data.virginia.gov/browse).
   criteria: Data Policies / Agreements
   issue:
   - Statewide Evidence-Building Capacity
@@ -7851,17 +7870,18 @@ promising:
 - sys:
     id: 5DcXHdvgHLhiJNORD3IZ5L
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.578000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:00.578000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:39:59.729000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Rhode Island
   state_abbreviation: RI
   type: Single agency
   long_description: 'In response to the federal COVID-19 Pandemic Unemployment Assistance
     program, Rhode Island’s Department of Labor and Training partnered with the nonprofit
-    Research Improving People’s Lives and Amazon Web Services to develop a cloud-based
-    system to share data and improve management of unemployment claims. This enabled
-    Rhode Island to be among the first states in the nation to provide Pandemic Unemployment
+    [Research Improving People’s Lives](https://www.ripl.org/) and Amazon Web Services
+    to develop a [cloud-based system](https://results4america.org/wp-content/uploads/2020/04/Pandemic-Unemployment-Assistance-Benefits-System-1-1.pdf)
+    to share data and improve management of unemployment claims. This enabled Rhode
+    Island to be among the first states in the nation to provide Pandemic Unemployment
     Assistance benefits in the face of record-high employment claims during the COVID-19
     crisis. '
   criteria: Data Policies / Agreements
@@ -7873,26 +7893,29 @@ promising:
 - sys:
     id: PHqHxxCVetDk22YOJGOrr
     created_at: !ruby/object:DateTime 2020-08-05 20:23:01.091000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:01.091000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:18:27.825000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Connecticut
   state_abbreviation: CT
   type: Statewide
-  long_description: "A 2018 Connecticut law required each state agency to designate
-    an agency data officer to manage high-value data sets and coordinate data-related
-    activities with the state Chief Data Officer. The Chief Data Officer, along with
-    individual agency data officers, is required to biannually update the state data
-    plan, which covers open data and creates data standards for agencies. The plan
-    also contains 11 principles and accompanying practices that all agencies should
-    adopt to improve their management, use, sharing, and analysis of data. In addition,
-    a 2019 law required a report on the legal issues surrounding interagency data
-    sharing. Based on analysis of 17 state agencies and 224 data sharing agreements,
-    the report recommends: 1) establishing a coordinated governance structure for
-    cross-agency data sharing, and 2) implementing cross-agency data-sharing agreements
-    that are more flexible and durable. Building on this report, Connecticut released
-    a Data-Sharing Playbook in 2020 to help agencies share data safely, securely,
-    and ethically. \n"
+  long_description: "A [2018 Connecticut law](https://www.cga.ct.gov/2018/ACT/pa/2018PA-00175-R00HB-05517-PA.htm)
+    required each state agency to designate an [agency data officer](https://data.ct.gov/Government/Agency-Data-Officers/ti3z-strx)
+    to manage high-value data sets and coordinate data-related activities with the
+    state Chief Data Officer. The Chief Data Officer, along with individual agency
+    data officers, is required to biannually update the [state data plan](https://portal.ct.gov/-/media/CT-Data/Connecticut-State-Data-Plan-Final-pdf.pdf?la=en),
+    which covers [open data and creates data standards for agencies](https://portal.ct.gov/CTData/Content/Agency-Guidance).
+    The plan also contains 11 principles and accompanying practices that all agencies
+    should adopt to improve their management, use, sharing, and analysis of data.
+    In addition, a [2](https://www.cga.ct.gov/2019/ACT/pa/pdf/2019PA-00153-R00SB-01103-PA.pdf)[019
+    law](https://www.cga.ct.gov/2019/ACT/pa/pdf/2019PA-00153-R00SB-01103-PA.pdf) required
+    a [report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf?la=en)
+    on the legal issues surrounding interagency data sharing. Based on analysis of
+    17 state agencies and 224 data sharing agreements, the report recommends: 1) establishing
+    a coordinated governance structure for cross-agency data sharing, and 2) implementing
+    cross-agency data-sharing agreements that are more flexible and durable. Building
+    on this report, Connecticut released a [Data-Sharing Playbook](https://ctopendata.github.io/data-sharing-playbook/)
+    in 2020 to help agencies share data safely, securely, and ethically. \n"
   criteria: Data Policies / Agreements
   issue:
   - Statewide Evidence-Building Capacity
@@ -7901,15 +7924,17 @@ promising:
 - sys:
     id: 60mpv4XF5svtXcYF02STRf
     created_at: !ruby/object:DateTime 2020-08-05 20:23:01.967000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:01.967000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:14:34.520000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Virginia
   state_abbreviation: VA
   type: Statewide
-  long_description: A 2018 Virginia law established a Chief Data Officer role to coordinate
-    data sharing among state, regional, and local entities. The Chief Data Officer
-    coordinates the state’s Data-Sharing and Analytics Advisory Committee and is responsible
+  long_description: A [2018 Virginia law](https://law.lis.virginia.gov/vacode/title2.2/chapter2/section2.2-203.2:4/)
+    established a [Chief Data Officer](https://www.administration.virginia.gov/about-us/)
+    role to coordinate data sharing among state, regional, and local entities. The
+    Chief Data Officer coordinates the state’s [Data-Sharing and Analytics Advisory
+    Committee](https://studies.virginiageneralassembly.gov/studies/470) and is responsible
     for data governance, including policies related to open data, data sharing, and
     data privacy.
   criteria: Data Leadership
@@ -7927,20 +7952,23 @@ promising:
 - sys:
     id: 4uwGbYqII4dKpRT5R4QWqK
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.040000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.040000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:20:19.182000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Indiana
   state_abbreviation: IN
   type: Multiple agencies
-  long_description: 'The Indiana Data Partnership, launched in 2019, brings together
-    government, nonprofit, and private sector entities to share data, talent, and
-    technology to solve key challenges impacting Indiana residents. The Partnership
-    was formed as an extension of the Indiana Management Performance Hub to create
-    a secure, replicable, and sustainable framework  to help partner organizations
-    use shared data in coordinating efforts and  maximizing holistic solutions. Initial
-    projects included combating the opioid epidemic, improving education and workforce
-    development, mapping local health delivery, and a networking analysis.
+  long_description: 'The [Indiana Data Partnership](https://www.in.gov/idp), launched
+    in 2019, brings together government, nonprofit, and private sector entities to
+    share data, talent, and technology to solve key challenges impacting Indiana residents.
+    The Partnership was formed as an extension of the Indiana [Management Performance
+    Hub](https://www.in.gov/mph/) to create a secure, replicable, and sustainable
+    framework  to help [partner organizations](https://www.in.gov/idp/2347.htm) use
+    shared data in coordinating efforts and  maximizing holistic solutions. Initial
+    projects included combating the [opioid epidemic](https://www.in.gov/idp/2451.htm),
+    improving [education and workforce development](https://www.in.gov/idp/2349.htm),
+    [mapping local health delivery](https://www.in.gov/idp/2463.htm), and a [networking
+    analysis](https://www.in.gov/idp/2439.htm).
 
     '
   criteria: Data Policies / Agreements
@@ -7954,18 +7982,19 @@ promising:
 - sys:
     id: 6sY3F1umExsdWPsEh5ofXs
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.048000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.048000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:13:40.795000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Utah
   state_abbreviation: UT
   type: Statewide
-  long_description: 'In 2019, Utah appointed a Chief Data Officer to increase interagency
-    data integration. The Chief Data Officer administers an integrated client database
+  long_description: 'In 2019, Utah appointed a [Chief Data Officer](https://gomb.utah.gov/rachel-stone/)
+    to increase interagency data integration. The Chief Data Officer administers an
+    i[ntegrated client database](https://drive.google.com/file/d/15jYjfwQtBGML-Bp-5Dboo7pXLERUAoVY/view?usp=sharing)
     to facilitate secure sharing of administrative data and improve service delivery
-    outcomes. A 2014 law created a State Open Data Coordinator  to oversee the state’s
-    open-data catalog, interoperability projects, and support the Office of the State
-    Auditor. '
+    outcomes. A 2014 [law](https://le.utah.gov/~2014/bills/static/SB0070.html) created
+    a State Open Data Coordinator  to oversee the state’s [open-data catalog](https://www.utah.gov/data/),
+    interoperability projects, and support the Office of the State Auditor. '
   criteria: Data Leadership
   issue:
   - Statewide Evidence-Building Capacity
@@ -7974,18 +8003,19 @@ promising:
 - sys:
     id: 1hF0kG5QvmLGcgnwXUTkdr
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.050000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.050000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:12:38.334000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Rhode Island
   state_abbreviation: RI
   type: Multiple agencies
-  long_description: Rhode Island’s Data Ecosystem, managed by the Executive Office
-    of Health and Human Services, uses state data from more than 15 sources, including
-    health, child welfare, and human services. The Ecosystem is led by a Director
-    of Data and Analytics and a team of analysts who use integrated data to improve
-    state programs. The Ecosystem produces regular dashboards that are used for internal
-    performance management meetings.
+  long_description: Rhode Island’s [Data Ecosystem](http://www.eohhs.ri.gov/Portals/0/Uploads/Documents/SIM/StateDataEcosystemProjectSummary-Final.pdf),
+    managed by the [Executive Office of Health and Human Services](http://www.eohhs.ri.gov/Home/AboutEOHSS.aspx),
+    uses state data from more than 15 sources, including health, child welfare, and
+    human services. The Ecosystem is led by a Director of Data and Analytics and a
+    team of analysts who use [integrated data](https://www.aisp.upenn.edu/network-site/rhode-island/)
+    to improve state programs. The Ecosystem produces regular dashboards that are
+    used for internal performance management meetings.
   criteria: Data Leadership
   issue:
   - COVID-19
@@ -7996,19 +8026,20 @@ promising:
 - sys:
     id: 4XEbxu71W0cLvNsYDtSJPo
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.092000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.092000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:11:03.606000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Ohio
   state_abbreviation: OH
   type: Statewide
   long_description: 'In 2019, the Ohio Governor’s Office established the Chief Data
-    Advocate role as a senior staff member with the authority to collect, analyze,
-    share, and use data to improve state government programs. The Chief Data Advocate
-    works under InnovateOhio, which was created in 2019 and is led by the Lieutenant
-    Governor. The executive order that created InnovateOhio states a presumption of
-    data-sharing between state agencies, except where a specific legal prohibition
-    is identified in writing.   '
+    Advocate role as a senior staff member with the authority to [collect, analyze,
+    share, and use](https://innovateohio.gov/wps/portal/gov/innovate/platform/analytics-and-data-sharing)
+    data to improve state government programs. The Chief Data Advocate works under
+    [InnovateOhio](https://innovateohio.gov/wps/portal/gov/innovate/platform/), which
+    was created in 2019 and is led by the Lieutenant Governor. The [executive order](https://governor.ohio.gov/wps/portal/gov/governor/media/executive-orders/2019-15d)
+    that created InnovateOhio states a presumption of data-sharing between state agencies,
+    except where a specific legal prohibition is identified in writing.   '
   criteria: Data Leadership
   issue:
   - Child Welfare
@@ -8024,17 +8055,19 @@ promising:
 - sys:
     id: bVSEZyGQRuSA4BYnB6mqc
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.134000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.134000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:11:49.610000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Oregon
   state_abbreviation: OR
   type: Statewide
-  long_description: A 2018 Oregon law instituted a Chief Data Officer responsible
+  long_description: A 2018 Oregon [law](https://olis.leg.state.or.us/liz/2017R1/Downloads/MeasureDocument/HB3361)
+    instituted a [Chief Data Officer](http://oregonresearch.org/?p=803) responsible
     for the state’s centralized data strategy, including an enterprise open data platform.
-    The Chief Data Officer is charged with creating open data standards, providing
-    privacy guidance for state agencies, identifying opportunities for data sharing,
-    and designing stakeholder engagement strategies, including an advisory committee.
+    The [Chief Data Officer](https://www.youtube.com/watch?v=vWK8y2FuXtc) is charged
+    with creating open data standards, providing privacy guidance for state agencies,
+    identifying opportunities for data sharing, and designing stakeholder engagement
+    strategies, including an advisory committee.
   criteria: Data Leadership
   issue:
   - Statewide Evidence-Building Capacity
@@ -8043,23 +8076,25 @@ promising:
 - sys:
     id: 5yqnvZVqhfdM1jRlhKdHM5
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.265000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.265000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:09:57.542000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Minnesota
   state_abbreviation: MN
   type: Statewide
-  long_description: In 2019, Minnesota established a statewide Chief Data and Evaluation
-    Officer with the authority, staff, and budget to collect, analyze, share, and
-    use data to evaluate and improve the effectiveness of public programs. This Chief
-    Data and Evaluation Officer leads a team of analysts and research scientists who
-    partner with state agencies to integrate useful information into strategic planning,
-    budget formulation, and ongoing management. In the context of the COVID-19 response,
-    this team provides daily data updates to the Governor and other state leaders
-    on hospital surge capacity, economic and food security, and the availability of
-    child care for workers in critical sectors. The Chief Data and Evaluation Officer
-    also assists state agencies in leveraging the expertise and resources of national
-    experts and peer states.
+  long_description: In 2019, Minnesota established a statewide [Chief Data and Evaluation
+    Officer](https://mn.gov/mmb/results-first/about/cdeo.jsp) with the [authority](https://www.revisor.mn.gov/statutes/cite/15.08),
+    staff, and budget to collect, analyze, share, and use data to evaluate and improve
+    the effectiveness of public programs. This Chief Data and Evaluation Officer leads
+    a team of analysts and research scientists who partner with state agencies to
+    integrate useful information into strategic planning, budget formulation, and
+    ongoing management. In the context of the COVID-19 response, this team provides
+    daily data updates to the Governor and other state leaders on [hospital surge
+    capacity](https://mn.gov/covid19/data/response-prep/response-capacity.jsp), [economic
+    and food security](https://mn.gov/covid19/data/response-prep/economic-food-security.jsp),
+    and the [availability of child care for workers in critical sectors](https://mn.gov/mmb/childcare/families/).
+    The Chief Data and Evaluation Officer also assists state agencies in leveraging
+    the expertise and resources of national experts and peer states.
   criteria: Data Leadership
   issue:
   - Child Welfare
@@ -8075,19 +8110,21 @@ promising:
 - sys:
     id: 11wYZhYJKypaUbmwqfIo3S
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.571000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.571000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:15:29.637000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Washington
   state_abbreviation: WA
   type: Single agency
   long_description: The Washington State Department of Social and Health Services
-    Research and Data Analysis Division is led by a Director who is responsible for
-    providing policymakers with data and analyses to improve the effectiveness of
-    services for clients. The Director oversees the Department’s Integrated Client
-    Database, which brings together data from 10 state agencies, 40 separate data
-    systems, and millions of individuals receiving services through publicly-funded
-    health and human services programs in Washington State.
+    R[esearch and Data Analysis Division](https://www.dshs.wa.gov/ffa/research-and-data-analysis/rdas-organization)
+    is led by a Director who is responsible for [providing policymakers with data
+    and analyses](https://www.cep.gov/events/2017-01-13/2017-1-13-mancuso.pdf) to
+    improve the effectiveness of services for clients. The Director oversees the Department’s
+    [Integrated Client Database](https://www.dshs.wa.gov/sites/default/files/rda/reports/research-11-205.pdf),
+    which brings together data from 10 state agencies, 40 separate data systems, and
+    millions of individuals receiving services through publicly-funded health and
+    human services programs in Washington State.
   criteria: Data Leadership
   issue:
   - Economic Mobility
@@ -8098,27 +8135,35 @@ promising:
 - sys:
     id: 5ebeMzrSM06Etc0ngZJJIK
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.688000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.688000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:34:06.242000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Massachusetts
   state_abbreviation: MA
   type: Multiple agencies
-  long_description: "The Massachusetts Department of Public Health maintains a Public
-    Health Data Warehouse that leverages public and private partnerships to provide
-    timely, linked, multi-year data to analyze health priorities through data briefs
-    and data digests. The Department also created a COVID-19 Response Reporting hub
-    that publishes data and cumulative reports on Massachusetts COVID-19 cases, testing,
-    and hospitalizations. \n\nThe Massachusetts Department of Elementary and Secondary
-    Education Researcher’s Guide to Massachusetts State Education Data also contains
-    data-sharing information about “what data is available, how to obtain and interpret
-    it, and, ultimately, [how] to generate better research projects and more accurate
-    and useful results” for improving student outcomes in the state. The guide has
-    links to data sets such as aggregate data at the school and district levels, as
-    well as information on confidential student-level data, nonconfidential student-level
-    data, and educator data. The Department’s data-sharing memorandum of understanding
-    template and corresponding approval process reiterates the confidentiality of
-    student-level data."
+  long_description: "The Massachusetts Department of Public Health maintains a [Public
+    Health Data Warehouse](https://www.mass.gov/public-health-data-warehouse-phd)
+    that [leverages public and private partnerships](https://www.mass.gov/info-details/public-health-data-warehouse-phd-how-to-collaborate-with-us)
+    to provide timely, linked, multi-year data to analyze health priorities through
+    [data briefs](https://www.mass.gov/lists/public-health-data-warehouse-phd-publications#data-briefs-)
+    and [data digests](https://www.mass.gov/lists/current-opioid-statistics). The
+    Department also created a [COVID-19 Response Reporting](https://www.mass.gov/info-details/covid-19-response-reporting)
+    hub that publishes [data](https://www.mass.gov/info-details/covid-19-response-reporting#covid-19-daily-dashboard-)
+    and [cumulative reports](https://www.mass.gov/info-details/covid-19-response-reporting#covid-19-weekly-public-health-report-)
+    on Massachusetts COVID-19 cases, testing, and hospitalizations. \n\nThe Massachusetts
+    Department of Elementary and Secondary Education [Researcher’s Guide to Massachusetts
+    State Education Data](https://www.bidnet.com/bneattachments?/543266814.pdf) also
+    contains data-sharing information about “what data is available, how to obtain
+    and interpret it, and, ultimately, [how] to generate better research projects
+    and more accurate and useful results” for improving student outcomes in the state.
+    The guide has links to data sets such as aggregate data at the [school](http://profiles.doe.mass.edu/)
+    and [district](http://www.doe.mass.edu/dart/) levels, as well as information on
+    confidential student-level [data](http://www.doe.mass.edu/infoservices/data/sims/),
+    nonconfidential student-level [data](http://www.doe.mass.edu/infoservices/research/),
+    and educator [data](http://www.doe.mass.edu/infoservices/data/epims/). The Department’s
+    data-sharing [memorandum of understanding template](https://drive.google.com/open?id=1KmbBK3PuMVZGxDx9jP_IIz6ROMQmnG2X)
+    and corresponding approval process reiterates the confidentiality of student-level
+    data."
   criteria: Data Policies / Agreements
   issue:
   - Economic Mobility
@@ -8130,19 +8175,21 @@ promising:
 - sys:
     id: 3Jep3g47gfJnrWOkOs5h7D
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.713000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.713000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:30:19.803000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Maryland
   state_abbreviation: MD
   type: Statewide
-  long_description: In 2019, Maryland unveiled an updated open data portal with an
-    expanded catalog of data covering education, health, criminal justice, child welfare,
-    workforce, and economic mobility. The state’s Council on Open Data governs the
-    portal and meets on a quarterly basis to coordinate, plan, and promote Maryland’s
-    open data, regularly publishing its agenda and minutes. In addition, the Maryland
-    Transparency Portal provides information about the state's operating budget, state
-    grants, and payments to vendors.
+  long_description: In 2019, Maryland unveiled an [updated open data portal](https://opendata.maryland.gov/)
+    with an expanded catalog of data covering education, health, criminal justice,
+    child welfare, workforce, and economic mobility. The state’s [Council on Open
+    Data](https://opendata.maryland.gov/stories/s/Council-on-Open-Data/vyny-sdaq/)
+    governs the portal and meets on a quarterly basis to coordinate, plan, and promote
+    Maryland’s open data, regularly publishing its [agenda and minutes](https://opendata.maryland.gov/stories/s/4d6b-uhqy).
+    In addition, the [Maryland Transparency Portal](https://mtp.maryland.gov/#!/dashboard)
+    provides information about the state's operating budget, state grants, and payments
+    to vendors.
   criteria: Data Policies / Agreements
   issue:
   - Child Welfare
@@ -8156,19 +8203,21 @@ promising:
 - sys:
     id: KyRoLHPPnFsofmV46ZBXk
     created_at: !ruby/object:DateTime 2020-08-05 20:23:02.969000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:02.969000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:08:41.641000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: North Carolina
   state_abbreviation: NC
   type: Statewide
-  long_description: "North Carolina’s Chief Data Officer maintains the North Carolina
-    Government Data Analytics Center, which manages data sharing, integration, and
-    data analytics to improve service delivery and the efficiency of services. In
-    this role, the Chief Data Officer has the authority, staff, and budget “to transform
-    existing data assets into an information utility for the state’s policy and operational
-    leaders for their use in making program investment decisions; managing resources;
-    and improving financial programs, budgets, and results.”                                                                                    \n"
+  long_description: "North Carolina’s [Chief Data Officer](https://it.nc.gov/about/leadership/john-correllus)
+    maintains the [North Carolina Government Data Analytics Center](https://it.nc.gov/services/nc-gdac),
+    which [manages](https://files.nc.gov/ncdit/documents/files/2017_GDAC_Legislative%20Report.pdf)
+    data sharing, integration, and data analytics to improve service delivery and
+    the efficiency of services. In this role, the Chief Data Officer has the authority,
+    staff, and budget “to transform existing data assets into an information utility
+    for the state’s policy and operational leaders for their use in making program
+    investment decisions; managing resources; and improving financial programs, budgets,
+    and results.”                                                                                    \n"
   criteria: Data Leadership
   issue:
   - Statewide Evidence-Building Capacity
@@ -8177,18 +8226,20 @@ promising:
 - sys:
     id: 20OvnrpYOQjfllO0VwudJI
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.354000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:03.354000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:35:15.830000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Michigan
   state_abbreviation: MI
   type: Statewide
-  long_description: 'Michigan’s Enterprise Information Management program established
-    policies and protocols for data sharing, management, and governance. As part of
-    these efforts, Michigan developed a statewide data-sharing agreement template
+  long_description: 'Michigan’s [Enterprise Information Management program](https://drive.google.com/file/d/1pgz6DzTe-2ek2__Fg9aeN3sxAVABOYkN/view)
+    established policies and [protocols](https://drive.google.com/file/d/1a8ZCDfQoCNiWkoS5tG1q5waobl46Vdan/view)
+    for data sharing, management, and governance. As part of these efforts, Michigan
+    developed a [statewide data-sharing agreement template](https://drive.google.com/file/d/1fzydCPt9-jwoGTKN59tKEJ-JroiikeOd/view)
     to facilitate improved data sharing among agencies and departments. The Open Michigan
-    Portal houses the state’s open data portal, which includes information about the
-    impact of COVID-19 in the state. '
+    Portal houses the state’s [open data portal](https://data.michigan.gov/), which
+    includes [information](https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html)
+    about the impact of COVID-19 in the state. '
   criteria: Data Policies / Agreements
   issue:
   - Statewide Evidence-Building Capacity
@@ -8197,23 +8248,24 @@ promising:
 - sys:
     id: 1duIHE8WsqM4OKQZv3vl4k
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.510000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:03.510000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:03:18.601000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Washington
   state_abbreviation: WA
   type: Statewide
-  long_description: A 2013 Washington State Executive Order established Results Washington
-    to strengthen performance management and continuous improvement throughout Washington
-    state government. From 2014 to early 2020, Results Washington conducted Results
-    Review meetings with the Governor 10 times per year. The meetings, recorded and
-    publicly posted, allowed the Governor and state agency directors to discuss objectives,
-    improvement strategies, and metrics. Results Washington is currently refocusing
-    its efforts toward a new Public Performance Review process. This new process creates
-    the opportunity to better partner with state agencies on complex, cross-enterprise
-    projects. The state’s is to develop an approach that fosters partnership and focuses
-    on the outcomes that matter to state agencies, the Governor, and ultimately the
-    state of Washington.
+  long_description: A [2013 Washington State Executive Order](https://www.governor.wa.gov/sites/default/files/exe_order/eo_13-04.pdf)
+    established [Results Washington](https://results.wa.gov/) to strengthen performance
+    management and continuous improvement throughout Washington state government.
+    From 2014 to early 2020, Results Washington conducted Results Review meetings
+    with the Governor 10 times per year. The meetings, [recorded and publicly posted](https://results.wa.gov/measuring-progress/results-reviews),
+    allowed the Governor and state agency directors to discuss objectives, improvement
+    strategies, and metrics. Results Washington is currently refocusing its efforts
+    toward a new [Public Performance Review](https://results.wa.gov/sites/default/files/Results%20WA%20Public%20Performance%20Reviews.docx)
+    process. This new process creates the opportunity to better partner with state
+    agencies on complex, cross-enterprise projects. The state’s is to develop an approach
+    that fosters partnership and focuses on the outcomes that matter to state agencies,
+    the Governor, and ultimately the state of Washington.
   criteria: Performance Management / Continuous Improvement
   issue:
   - Child Welfare
@@ -8227,19 +8279,23 @@ promising:
 - sys:
     id: 4E0ZI8dAfNj8zsAjwFsBpm
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.839000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:03.839000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:02:02.154000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Vermont
   state_abbreviation: VT
   type: Statewide
-  long_description: 'Vermont measures progress towards the goals of its five-year
-    strategic plan, established by a 2017 Vermont executive order, through dashboards
-    that track progress on the economy, affordability, vulnerability, and modernization.
-    As required by a 2014 law and a related executive order, the Office of the Chief
-    Performance Officer also publishes annual Programmatic Performance Measure Budget
-    Reports and annual Outcomes & Indicators Reports aimed at integrating strategic
-    planning, performance management, and budgeting.  '
+  long_description: 'Vermont measures progress towards the goals of its [five-year
+    strategic pla](https://strategicplan.vermont.gov/sites/strategicplan/files/documents/Theme-plans/Strategic%20Plans%20All%20Agencies%20by%20Theme%20v1.3new_wCover.pdf)n,
+    established by a 2017 Vermont e[xecutive order](https://governor.vermont.gov/sites/scott/files/documents/EO1Strategic%20Goals.FINALpdf2.pdf),
+    through [dashboards](https://strategicplan.vermont.gov/) that track progress on
+    the [economy](https://strategicplan.vermont.gov/economy), [affordability](https://strategicplan.vermont.gov/affordability),
+    [vulnerability](https://strategicplan.vermont.gov/vulnerability), and [modernization](https://strategicplan.vermont.gov/modernization).
+    As required by a 2[014 law](http://www.leg.state.vt.us/DOCS/2014/ACTS/ACT186.PDF)
+    and a related executive order, the Office of the Chief Performance Officer also
+    publishes annual [Programmatic Performance Measure Budget Reports](https://publicservice.vermont.gov/content/budget-performance-measures)
+    and annual [Outcomes & Indicators Reports](https://publicservice.vermont.gov/content/budget-performance-measures)
+    aimed at integrating strategic planning, performance management, and budgeting.  '
   criteria: Performance Management / Continuous Improvement
   issue:
   - Child Welfare
@@ -8252,19 +8308,21 @@ promising:
 - sys:
     id: 17XpBLeX7dGcfAFpTYDNHz
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.921000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:03.921000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:56:54.838000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Tennessee
   state_abbreviation: TN
   type: Statewide
-  long_description: 'Tennessee’s Governmental Accountability Act of 2013 established
-    a statewide performance management system, Transparent Tennessee. The Office of
-    Customer Focused Government and the state’s Chief Operating Officer continuously
-    track and monitor performance data and report publicly available operational performance
-    on Transparent Tennessee’s dashboards, which include specific goals, targets,
-    and performance data for each of the state’s strategic priorities. The site also
-    includes state fiscal data as well as OpenMaps, which showcases key metrics and
+  long_description: 'Tennessee’s [Governmental Accountability Act of 2013](https://law.justia.com/codes/tennessee/2016/title-9/chapter-4/part-56/)
+    established a statewide performance management system, [Transparent Tennessee](https://www.tn.gov/transparenttn.html).
+    The [Office of Customer Focused Government](https://www.tn.gov/cfg) and the state’s
+    Chief Operating Officer continuously track and monitor performance data and report
+    publicly available operational performance on [Transparent Tennessee](https://www.tn.gov/transparenttn.html)’s
+    dashboards, which include specific [goals, targets, and performance data](https://www.tn.gov/transparenttn/governors-priorities/jobs-economic-development.html)
+    for each of the state’s [strategic priorities](https://www.tn.gov/transparenttn/about-transparent-tennessee.html).
+    The site also includes state [fiscal data](https://www.tn.gov/transparenttn/state-financial-overview.html)
+    as well as [OpenMaps](https://openmaps.tn.gov/), which showcases key metrics and
     an interactive budget tool.
 
     '
@@ -8365,15 +8423,17 @@ promising:
 - sys:
     id: 2fOLIfkPd8vXdt1pRPS0IV
     created_at: !ruby/object:DateTime 2020-08-05 20:23:04.496000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:04.496000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:07:53.523000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: New Jersey
   state_abbreviation: NJ
   type: Statewide
-  long_description: "New Jersey’s Chief Data Officer leads statewide data transparency
-    initiatives and open data projects, such as the Open Data Center, Governor’s Transparency
-    Center, and Superstorm Sandy Transparency website. \n"
+  long_description: "New Jersey’s [Chief Data Officer](https://nj.gov/it/about/index.shtml#leadership)
+    leads statewide data transparency initiatives and open data projects, such as
+    the [Open Data Center](https://data.nj.gov/), [Governor’s Transparency Center](https://yourmoney.nj.gov/),
+    and [Superstorm Sandy Transparency](https://nj.gov/comptroller/sandytransparency/funds/)
+    website. \n"
   criteria: Data Leadership
   issue:
   - Child Welfare
@@ -8389,25 +8449,27 @@ promising:
 - sys:
     id: 4LVSCgbsq6v8u7QS4ogJbt
     created_at: !ruby/object:DateTime 2020-08-05 20:23:04.815000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:04.815000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 02:58:53.458000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Utah
   state_abbreviation: UT
   type: Statewide
-  long_description: "In March 2020, Utah’s Governor released Utah Leads Together,
+  long_description: "In March 2020, Utah’s Governor released [Utah Leads Together](https://gomb.utah.gov/wp-content/uploads/2020/03/UtahLeads-FINAL-v3.pdf),
     a dynamic, data-informed, and unified plan for Utah’s health and economic response
     to COVID-19. The plan conveys three phases of response accompanied by specific,
     measurable goals, with strategies and tactics to achieve them. The Utah Governor’s
     Office of Management and Budget oversees the project management structure, creation
-    of a dashboard, and dynamic modeling to monitor daily progress towards the transmission
-    rate goal and other key indicators. \n\nThe Utah Governor’s Office of Management
-    and Budget uses a standard performance management framework across all cabinet
-    agencies, which is also used to inform the state’s performance-budgeting. Agencies
-    have embedded operational excellence specialists who report directly to agency
-    leadership, assist in the routine reporting of performance data, and pursue operational
-    projects to improve outcomes. Training on continuous improvement is offered in
-    workshops and at the annual Utah Ops Conference to state personnel. "
+    of a [dashboard](https://coronavirus-dashboard.utah.gov/), and [dynamic modeling](https://storymaps.arcgis.com/stories/cabf07b39a6046ee992f1630949a7c80)
+    to monitor daily progress towards the transmission rate goal and other key indicators.
+    \n\nThe Utah Governor’s Office of Management and Budget uses a [standard performance
+    management framework](https://gomb.utah.gov/operational-excellence/success-framework-introduction/)
+    across all cabinet agencies, which is also used to inform the state’s performance-budgeting.
+    Agencies have embedded operational excellence specialists who report directly
+    to agency leadership, assist in the routine [reporting of performance data](https://gomb.utah.gov/measures/),
+    and pursue operational projects to improve outcomes. Training on continuous improvement
+    is offered in workshops and at the annual [Utah Ops Conference](https://gomb.utah.gov/2019-utah-ops-conference/)
+    to state personnel. "
   criteria: Performance Management / Continuous Improvement
   issue:
   - COVID-19
@@ -8445,19 +8507,21 @@ promising:
 - sys:
     id: 7m96dZbzXGWMKeaCYiv7uK
     created_at: !ruby/object:DateTime 2020-08-05 20:23:05.214000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:05.214000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:06:54.202000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Kentucky
   state_abbreviation: KY
   type: Statewide
-  long_description: 'A 2017 Indiana law (p. 8) established the position of Chief Data
-    Officer with the budget, staff, and authority to: (1) coordinate data analytics
-    and data transparency for state agencies; (2) advise state agencies regarding
-    best practices for data maintenance, security, and privacy; and (3) oversee the
-    Indiana Management Performance Hub (MPH). MPH uses state data, such as the Education
-    and Workforce Development database, to provide “analytics solutions tailored to
-    address complex management and policy questions enabling improved outcomes.”'
+  long_description: In 2018, Kentucky established a [Chief Data Officer](https://technology.ky.gov/about/Pages/default.aspx)
+    position to “coordinate and oversee the sharing of data” and “implement effective
+    data governance strategies designed to maintain data integrity, confidentiality,
+    availability, security, and to promote access to data.” Kentucky’s statewide Chief
+    Data Officer is the [senior executive responsible](https://technology.ky.gov/policy/Documents/POLICIES/CIO-110%20Enterprise%20Data%20Management%20Policy.pdf)
+    for leading data management with the support of [Agency Data Officers](https://technology.ky.gov/policy/Documents/POLICIES/CIO-110%20Enterprise%20Data%20Management%20Policy.pdf#page=2)
+    who coordinate data management practices within their respective agencies. Agency
+    Data Officers meet monthly to share best practices and support the state’s data
+    initiatives.
   criteria: Data Leadership
   issue:
   - COVID-19
@@ -8465,19 +8529,20 @@ promising:
 - sys:
     id: 7Huvz0ylcmyIagR7yMg5gy
     created_at: !ruby/object:DateTime 2020-08-05 20:23:05.298000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:05.298000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:04:50.997000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Indiana
   state_abbreviation: IN
   type: Statewide
-  long_description: 'A 2017 Indiana law (p. 8) established the position of Chief Data
-    Officer with the budget, staff, and authority to: (1) coordinate data analytics
-    and data transparency for state agencies; (2) advise state agencies regarding
-    best practices for data maintenance, security, and privacy; and (3) oversee the
-    Indiana Management Performance Hub (MPH). MPH uses state data, such as the Education
-    and Workforce Development database, to provide “analytics solutions tailored to
-    address complex management and policy questions enabling improved outcomes.” '
+  long_description: 'A [2017 Indiana law](http://iga.in.gov/legislative/2017/bills/house/1470#document-af23f3bf)
+    (p. 8) established the position of Chief Data Officer with the budget, staff,
+    and authority to: (1) coordinate data analytics and data transparency for state
+    agencies; (2) advise state agencies regarding best practices for data maintenance,
+    security, and privacy; and (3) oversee the [Indiana Management Performance Hub](https://www.in.gov/mph/index.htm)
+    (MPH). MPH uses state data, such as the [Education and Workforce Development database](https://www.in.gov/mph/917.htm),
+    to provide “analytics solutions tailored to address complex management and policy
+    questions enabling improved outcomes.” '
   criteria: Data Leadership
   issue:
   - COVID-19
@@ -8489,21 +8554,24 @@ promising:
 - sys:
     id: 2tla66zJoC0z6qs4tvK3Zp
     created_at: !ruby/object:DateTime 2020-08-05 20:23:06.300000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 20:23:06.300000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-06 03:25:29.228000000 Z
     content_type_id: promising
-    revision: 1
+    revision: 2
   state: Kentucky
   state_abbreviation: KY
   type: Multiple agencies
-  long_description: 'The Kentucky Center for Statistics (KYSTATS) collects and links
-    high-quality, actionable data from 15 state agencies to improve education and
-    workforce programs in the state. KYSTATS has a data request hub, which includes
-    a data access and use policy, data-sharing agreement, and a data dictionary to
-    facilitate the exchange of data with requestors. In 2019, Kentucky released a
-    Master Data Agreement for use by all executive agencies, which are also subject
-    to the state’s Enterprise Privacy Policy. KYSTATS also has a Security Policy that
-    contains procedures for securing the confidentiality of the data maintained by
-    KYSTATS. '
+  long_description: 'The [Kentucky Center for Statistics](https://kystats.ky.gov/)
+    (KYSTATS) collects and links high-quality, actionable data from [15 state agencies](https://kystats.ky.gov/About/Agencies)
+    to improve education and workforce programs in the state. KYSTATS has a [data
+    request hub](https://kystats.ky.gov/Reports/DataRequest), which includes a [data
+    access and use policy](https://kystats.ky.gov/Content/DataAccessAndUsePolicy.pdf),
+    data-sharing agreement, and a data dictionary to facilitate the exchange of data
+    with requestors. In 2019, Kentucky released a [Master Data Agreement](https://technology.ky.gov/policy/Documents/POLICIES/CIO-110%20Enterprise%20Data%20Management%20Policy.pdf)
+    for use by all executive agencies, which are also subject to the state’s [Enterprise
+    Privacy Policy](https://technology.ky.gov/policy/Pages/CIO-106-Privacy-Policy.aspx).
+    KYSTATS also has a [Security Policy](https://kystats.ky.gov/about/security?searchunitkeywords=Security%2CPolicy)
+    that contains procedures for securing the confidentiality of the data maintained
+    by KYSTATS. '
   criteria: Data Policies / Agreements
   issue:
   - Economic Mobility
