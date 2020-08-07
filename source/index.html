@@ -16,9 +16,6 @@ seo_image_path: #'/images/media/filename.jpg'
         <h2>Invest in What Works<br>State Standard of Excellence</h2>
       </div>
     </div>
-    <div class="button-container button-container--align-right">
-     <a tabindex="0" class="button button--blueprint" href="https://blueprint.results4america.org" target="_blank" ><span>See the<br>2020 Blueprint</span></a>
-    </div>
 
     <div class="expandable">
       <div class="row align-center">
@@ -34,18 +31,26 @@ seo_image_path: #'/images/media/filename.jpg'
       </div>
     </div>
 
+    <div class="row align-center">
+      <div class="column large-11 medium-12 small-12 markdown" style="margin-bottom:1rem">
+        {{ page.analysis_section | markdownify }}
+      </div>
+    </div>
+
     <div class="accordion-row row align-center">
       <div class="column large-11 markdown">
       <button class="accordion"><h5>States Use Data to Respond to COVID-19</h5><i class="fa fa-plus fa-lg" aria-hidden="true"></i></button>
         <div class="panel">
-          {{ page.states_use_data_accordion | markdownify }}
-          <p><a class="read-more">Read More Here</a></p>
+          <div style="padding-bottom:2rem">
+            {{ page.states_use_data_accordion | markdownify }}
+          </div>
         </div>
         
       <button class="accordion"><h5>Evidence in State Budgets</h5><i class="fa fa-plus fa-lg" aria-hidden="true"></i></button>
         <div class="panel">
-          {{ page.evidence_in_state_budgets_accordion | markdownify }}
-          <p><a class="read-more">Read More Here</a></p>
+          <div style="padding-bottom:2rem">
+            {{ page.evidence_in_state_budgets_accordion | markdownify }}
+          </div>
         </div>
       </div>
     </div>
