@@ -1,0 +1,41 @@
+.analysis {
+  &-header {
+    margin: 0;
+    text-transform: none;
+  }
+
+  .overview-img {
+    max-width: 100px;
+  }
+
+  &-small {
+    text-align: center;
+
+    a {
+      color: $hyperlink-orange;
+      text-decoration: none;
+      &:hover {
+        color: $blue;
+        @extend .u-transition;
+      }
+    }
+  }
+
+  &-graph {
+    margin-bottom: 3rem;
+  }
+
+  .blueprint-goals {
+    margin-bottom: 1rem;
+    .media-object {
+      margin: 0;
+      padding: 1rem;
+      &:nth-child(odd) {
+        background-color: #eff2f3;
+      }
+      &:nth-child(even) {
+        background-color: #ebebea;
+      }
+    }
+  }
+}

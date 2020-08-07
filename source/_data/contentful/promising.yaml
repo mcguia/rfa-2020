@@ -4644,9 +4644,9 @@ promising:
 - sys:
     id: 2t8qjyPGFi0URfM6TUzlla
     created_at: !ruby/object:DateTime 2020-07-30 09:55:28.595000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 18:08:41.542000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:39:24.923000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Utah
   state_abbreviation: UT
   type: Statewide
@@ -4662,6 +4662,7 @@ promising:
   - Economic Mobility
   - Statewide Evidence-Building Capacity
   - Workforce
+  - Health
   year: '2020'
   status: Updated from 2019
 - sys:
@@ -4724,9 +4725,9 @@ promising:
 - sys:
     id: 6Y2nmvtx89Kd1OlaSNGhNL
     created_at: !ruby/object:DateTime 2020-07-30 10:06:47.447000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 15:18:48.065000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:40:33.471000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: California
   state_abbreviation: CA
   type: Multiple agencies
@@ -4746,6 +4747,8 @@ promising:
   issue:
   - Health
   - Economic Mobility
+  - COVID-19
+  - Education
   year: '2020'
   status: Updated from 2019
 - sys:
@@ -4934,9 +4937,9 @@ promising:
 - sys:
     id: 29WNIRhdmuStxsW0yHm04Y
     created_at: !ruby/object:DateTime 2020-07-30 11:32:15.703000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 15:14:44.151000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:44:07.518000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Arkansas
   state_abbreviation: AR
   type: Statewide
@@ -4952,17 +4955,14 @@ promising:
     data-sharing and integration efforts. A [new committee](https://www.arkleg.state.ar.us/Committees/Detail?code=073&ddBienniumSession=2019%2F2020F)
     was established to continue the work of the task force through December 2020.
   criteria: Data Use
-  issue:
-  - Criminal Justice
-  - Economic Mobility
   year: '2020'
   status: Updated from 2019
 - sys:
     id: 1M3D3noz4D1McLFRL68bh5
     created_at: !ruby/object:DateTime 2020-07-30 11:39:15.952000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 15:39:08.820000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:44:20.153000000 Z
     content_type_id: promising
-    revision: 3
+    revision: 4
   state: Colorado
   state_abbreviation: CO
   type: Multiple agencies
@@ -4978,14 +4978,15 @@ promising:
   - Education
   - Workforce
   - Health
+  - COVID-19
   year: '2020'
   status: Updated from 2019
 - sys:
     id: 1q5ICZSzuhSsHBTrnE5kRm
     created_at: !ruby/object:DateTime 2020-07-30 11:40:17.370000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 15:57:11.500000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:44:33.333000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Connecticut
   state_abbreviation: CT
   type: Multiple agencies
@@ -5014,6 +5015,7 @@ promising:
   - Health
   - Education
   - Workforce
+  - Economic Mobility
   year: '2020'
   status: New
 - sys:
@@ -5089,9 +5091,9 @@ promising:
 - sys:
     id: 7F4ZBPJrW8UmOybNb1INv1
     created_at: !ruby/object:DateTime 2020-07-30 11:47:15.084000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 15:35:55.960000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:49:01.247000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Colorado
   state_abbreviation: CO
   type: Single agency
@@ -5105,6 +5107,8 @@ promising:
   criteria: Evaluation Policies
   issue:
   - Education
+  - Economic Mobility
+  - Workforce
   year: '2020'
   status: New
 - sys:
@@ -7279,9 +7283,9 @@ promising:
 - sys:
     id: 1XI20HGfZ8E3bYUBIx25On
     created_at: !ruby/object:DateTime 2020-08-05 20:22:18.984000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-06 02:25:49.372000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:45:44.134000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Minnesota
   state_abbreviation: MN
   type: Statewide
@@ -7293,6 +7297,12 @@ promising:
   criteria: Evaluation Leadership
   issue:
   - Education
+  - Child Welfare
+  - COVID-19
+  - Criminal Justice
+  - Economic Mobility
+  - Health
+  - Workforce
   year: '2020'
   status: Updated from 2019
 - sys:
@@ -7315,6 +7325,36 @@ promising:
   - Child Welfare
   - Health
   - COVID-19
+  year: '2020'
+  status: Updated from 2019
+- sys:
+    id: 4yPvHPhKzhNpMwPIqXS8ci
+    created_at: !ruby/object:DateTime 2020-08-05 20:22:19.127000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-05 23:32:24.755000000 Z
+    content_type_id: promising
+    revision: 2
+  state: Ohio
+  state_abbreviation: OH
+  type: Multiple agencies
+  long_description: In April 2019, Ohio’s Governor signed an [executive order](https://gcc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgovernor.ohio.gov%2Fwps%2Fportal%2Fgov%2Fgovernor%2Fmedia%2Fexecutive-orders%2F2019-15d&data=02%7C01%7CLaura.Pietenpol%40innovate.ohio.gov%7C2fbbdde921624514429208d72cb5dadd%7C50f8fcc494d84f0784eb36ed57c7c8a2%7C0%7C1%7C637027031886320122&sdata=rHaOC19CArNGbiHkkKpgJbxL%2B1WRHW0Gr5q3ds3kUtw%3D&reserved=0)
+    consolidating state data systems into the [InnovateOhio Platform](https://innovateohio.gov/wps/portal/gov/innovate/platform),
+    which uses data as “a shared strategic asset” whose “value is multiplied when
+    data sets are linked across programs and organizations” through [data integration](https://innovateohio.gov/wps/portal/gov/innovate/platform/analytics-and-data-sharing/data-integration)
+    and [management tools](https://innovateohio.gov/wps/portal/gov/innovate/platform/analytics-and-data-sharing/data-management).
+    The executive order created a presumption of data sharing between state agencies,
+    except where a specific legal prohibition is identified in writing. Since its
+    launch, InnovateOhio and the Ohio Department of Administrative Services have collaborated
+    with state agencies to incorporate 1,600 information systems into the State’s
+    cloud environment.
+  criteria: Data Use
+  issue:
+  - Child Welfare
+  - COVID-19
+  - Criminal Justice
+  - Economic Mobility
+  - Education
+  - Workforce
+  - Health
   year: '2020'
   status: Updated from 2019
 - sys:
@@ -7353,36 +7393,6 @@ promising:
   - Statewide Evidence-Building Capacity
   year: '2020'
   status: New
-- sys:
-    id: 4yPvHPhKzhNpMwPIqXS8ci
-    created_at: !ruby/object:DateTime 2020-08-05 20:22:19.127000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-05 23:32:24.755000000 Z
-    content_type_id: promising
-    revision: 2
-  state: Ohio
-  state_abbreviation: OH
-  type: Multiple agencies
-  long_description: In April 2019, Ohio’s Governor signed an [executive order](https://gcc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgovernor.ohio.gov%2Fwps%2Fportal%2Fgov%2Fgovernor%2Fmedia%2Fexecutive-orders%2F2019-15d&data=02%7C01%7CLaura.Pietenpol%40innovate.ohio.gov%7C2fbbdde921624514429208d72cb5dadd%7C50f8fcc494d84f0784eb36ed57c7c8a2%7C0%7C1%7C637027031886320122&sdata=rHaOC19CArNGbiHkkKpgJbxL%2B1WRHW0Gr5q3ds3kUtw%3D&reserved=0)
-    consolidating state data systems into the [InnovateOhio Platform](https://innovateohio.gov/wps/portal/gov/innovate/platform),
-    which uses data as “a shared strategic asset” whose “value is multiplied when
-    data sets are linked across programs and organizations” through [data integration](https://innovateohio.gov/wps/portal/gov/innovate/platform/analytics-and-data-sharing/data-integration)
-    and [management tools](https://innovateohio.gov/wps/portal/gov/innovate/platform/analytics-and-data-sharing/data-management).
-    The executive order created a presumption of data sharing between state agencies,
-    except where a specific legal prohibition is identified in writing. Since its
-    launch, InnovateOhio and the Ohio Department of Administrative Services have collaborated
-    with state agencies to incorporate 1,600 information systems into the State’s
-    cloud environment.
-  criteria: Data Use
-  issue:
-  - Child Welfare
-  - COVID-19
-  - Criminal Justice
-  - Economic Mobility
-  - Education
-  - Workforce
-  - Health
-  year: '2020'
-  status: Updated from 2019
 - sys:
     id: 2Q0C3ErblcaXwIarT4ee06
     created_at: !ruby/object:DateTime 2020-08-05 20:22:19.154000000 Z
@@ -7532,9 +7542,9 @@ promising:
 - sys:
     id: 1nNynmlZLyrFS61E4aVKlF
     created_at: !ruby/object:DateTime 2020-08-05 20:22:20.664000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-06 03:57:09.720000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:50:59.211000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Utah
   state_abbreviation: UT
   type: Multiple agencies
@@ -7550,6 +7560,7 @@ promising:
   - Education
   - Health
   - Workforce
+  - Economic Mobility
   year: '2020'
   status: Updated from 2019
 - sys:
@@ -7870,9 +7881,9 @@ promising:
 - sys:
     id: 5DcXHdvgHLhiJNORD3IZ5L
     created_at: !ruby/object:DateTime 2020-08-05 20:23:00.578000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-06 03:39:59.729000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:43:13.037000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Rhode Island
   state_abbreviation: RI
   type: Single agency
@@ -7888,6 +7899,7 @@ promising:
   issue:
   - Workforce
   - Economic Mobility
+  - COVID-19
   year: '2020'
   status: New
 - sys:
@@ -8248,9 +8260,9 @@ promising:
 - sys:
     id: 1duIHE8WsqM4OKQZv3vl4k
     created_at: !ruby/object:DateTime 2020-08-05 20:23:03.510000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-06 03:03:18.601000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 14:40:49.508000000 Z
     content_type_id: promising
-    revision: 2
+    revision: 3
   state: Washington
   state_abbreviation: WA
   type: Statewide
@@ -8274,6 +8286,7 @@ promising:
   - Health
   - Workforce
   - Statewide Evidence-Building Capacity
+  - Education
   year: '2020'
   status: Updated from 2019
 - sys:

@@ -104,6 +104,16 @@
   }
 }
 
+.modal__content {
+  .issue--covid-19 {
+    background: url(/rfa-2020/images/COVID-white.png) center no-repeat;
+    background-size: 19px;
+    padding-left: 35px;
+    padding-top: 0px;
+    background-position-x: 0;
+  }
+}
+
 .issues-container {
   .issue--covid-19 {
     background: url(/rfa-2020/images/COVID-green.png) center no-repeat;

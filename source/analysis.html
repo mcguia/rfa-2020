@@ -1,0 +1,74 @@
+---
+layout: default
+title: 2020 State Standard of Excellence Sector Analysis and Blueprint Overlay
+description:
+seo_image_path: #'/images/media/filename.jpg'
+---
+{%assign analysis = site.data.contentful.analysisPage.analysisPage[0] %}
+<main role="main" id="analysis">
+  <section class="top-section">
+    <div class="row align-center">
+      <div class="column large-8 medium-8 small-12">
+        <h1 class="index-year">{{ analysis.year }}</h1>
+        <hr>
+        <h2>Sector Analysis<br>and Blueprint Overlay</h2>
+      </div>
+    </div>
+    <div class="button-container button-container--align-left">
+     <a tabindex="0" class="button button--index" href="{{'/' | relative_url}}"><span>Back to<br>Standard</span></a>
+    </div>
+
+    <div class="button-container button-container--align-right">
+     <a tabindex="0" class="button button--blueprint" href="https://blueprint.results4america.org" target="_blank" ><span>See the<br>2020 Blueprint</span></a>
+    </div>
+  </section>
+  <section class="standard-downloads-section analysis">
+    <div class="row align-center">
+      <div class="column large-11 medium-12 small-12 markdown">
+        <h3 class="analysis-header">Sector Analysis</h3>
+        {{ analysis.sector_analysis | markdownify }}
+        <img class="analysis-graph" src={{analysis.sector_analysis_graph.url}}>
+        <h3 class="analysis-header">Blueprint Overlay</h3>
+        {{ analysis.blueprint_overlay1 | markdownify }}
+        <div class="blueprint-goals">
+          <div class="media-object">
+            <div class="media-object-section">
+              <div class="thumbnail">
+                <img class="overview-img" alt="Roadmap" src={{analysis.roadmap_image.url}} />
+              </div>
+            </div>
+            <div class="media-object-section main-section">
+              {{ analysis.roadmap | markdownify }}
+            </div>
+          </div>
+          <div class="media-object">
+            <div class="media-object-section">
+              <div class="thumbnail">
+                <img class="overview-img" alt="Roadmap" src={{analysis.capacity_image.url}} />
+              </div>
+            </div>
+            <div class="media-object-section main-section">
+              {{ analysis.capacity | markdownify }}
+            </div>
+          </div>
+          <div class="media-object">
+            <div class="media-object-section">
+              <div class="thumbnail">
+                <img class="overview-img" alt="Roadmap" src={{analysis.investments_image.url}} />
+              </div>
+            </div>
+            <div class="media-object-section main-section">
+              {{ analysis.investments | markdownify }}
+            </div>
+          </div>
+        </div>
+        <div class="analysis-small"><i>View the Blueprint for Delivering Results in State Government <a href="https://blueprint.results4america.org">here</a>.</i></div>
+        {{ analysis.blueprint_overlay2 | markdownify }}
+
+        <h3 class="analysis-header">State Standard of Excellence Example Growth by Blueprint Theme</h3>
+        {{ analysis.example_growth | markdownify }}
+        <img class="analysis-graph" src={{analysis.example_growth_graph.url}}>
+      </div>
+    </div>
+  </section>
+</main>

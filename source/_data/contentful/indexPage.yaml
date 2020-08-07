@@ -1036,29 +1036,34 @@ indexPage:
 - sys:
     id: 6Ap1JlR5RqMa1PSh9Kqrue
     created_at: !ruby/object:DateTime 2020-07-30 10:11:40.983000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-03 21:49:16.848000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-07 15:35:14.594000000 Z
     content_type_id: indexPage
-    revision: 8
+    revision: 11
   year: '2020'
   short_description: "The Invest in What Works State Standard of Excellence sets a
     national benchmark—a “north star”—for how state governments can consistently and
     effectively use evidence and data in budget, policy, and management decisions
-    to achieve better outcomes for their residents. \n\n\nResults for America identified
-    169 examples of data-driven and evidence-based practices, policies, programs,
-    and systems in effect as of June 2020 in 35 states across the country.  Further,
-    in 2020, the COVID-19 pandemic demonstrated that, now more than ever, states need
-    robust evidence and data capacities to make equitable decisions that affect their
-    residents’ health, economic mobility, and overall well-being. \n\n\nOverall, seven
-    states are leading the way with their use of data-driven and evidence-based practices,
-    policies, programs, and systems. These Leading States are Colorado, Connecticut,
-    Minnesota, Oregon, Tennessee, Utah, and Washington. Four Honor Roll States have
-    also demonstrated a commitment to improving their evidence and data efforts: Massachusetts,
-    North Carolina, Ohio, and Rhode Island...\n\n...The leading and promising examples
-    highlighted in the 2020 State Standard of Excellence are informing other state
-    governments, policymakers, and the public about the effectiveness of using evidence
-    and data to invest taxpayer dollars in what works. To further help states meet
-    the State Standard of Excellence’s national benchmarks, the recently released
-    *[Blueprint for Delivering Results in State Government](https://blueprint.results4america.org/)*
+    to achieve better outcomes for their residents. \n\n\n__2020 State Standard of
+    Excellence Sector Analysis and Blueprint Overlay__\n\nThe 2020 State Standard
+    of Excellence identifies data-driven and evidence-based practices, policies, programs,
+    and systems in the child welfare, criminal justice, economic mobility, education,
+    health, and workforce sectors. Since 2018, state governments continue to invest
+    in evidence-based policymaking across sectors. [Read more](https://mcguia.github.io/rfa-2020/analysis.html)\n\n\nResults
+    for America identified 169 examples of data-driven and evidence-based practices,
+    policies, programs, and systems in effect as of June 2020 in 35 states across
+    the country.  Further, in 2020, the COVID-19 pandemic demonstrated that, now more
+    than ever, states need robust evidence and data capacities to make equitable decisions
+    that affect their residents’ health, economic mobility, and overall well-being.
+    \n\n\nOverall, seven states are leading the way with their use of data-driven
+    and evidence-based practices, policies, programs, and systems. These Leading States
+    are Colorado, Connecticut, Minnesota, Oregon, Tennessee, Utah, and Washington.
+    Four Honor Roll States have also demonstrated a commitment to improving their
+    evidence and data efforts: Massachusetts, North Carolina, Ohio, and Rhode Island...\n\n\n...The
+    leading and promising examples highlighted in the 2020 State Standard of Excellence
+    are informing other state governments, policymakers, and the public about the
+    effectiveness of using evidence and data to invest taxpayer dollars in what works.
+    To further help states meet the State Standard of Excellence’s national benchmarks,
+    the recently released *[Blueprint for Delivering Results in State Government](https://blueprint.results4america.org/)*
     provides state leaders with implementation strategies and actions for consistently
     and effectively using evidence and data to improve residents’ lives."
   blueprint_url: https://blueprint.results4america.org/
@@ -1714,94 +1719,113 @@ indexPage:
     - sys:
         id: 4ZIwPHPt7t1QKKHPmrAAso
     year: '2020'
-  states_use_data_accordion: "With the outbreak of the COVID-19 pandemic, state governors
-    have increasingly turned to data to guide their decision-making. All state governments
-    publicly shared data on their COVID-19 emergency response dashboards, but states
-    with a comprehensive data infrastructure (Criteria 3 Data Leadership; Criteria
-    4 Data Policies/Agreements; and Criteria 5 Data Use) had an enhanced ability to
-    leverage a data-driven response. \n\n\n__COVID-19 Data Dashboards__\n\nThe 2019
-    State Standard of Excellence identified 12 states with significant public-facing
-    performance management efforts. However, in 2020, all 50 states launched COVID-19
-    dashboards to monitor public health data and emergency response services. This
-    alone constitutes a significant step forward for state governments’ use of data-driven
-    policymaking. \n\nMoreover, as of July 2020, 18 governors (nearly all of them
-    from states highlighted in the 2020 State Standard of Excellence) had publicly
-    committed to taking data-driven and evidence-based approaches in their COVID-19
-    response strategies. Through daily press briefings, governors reaffirmed their
-    state’s commitment to a response grounded in facts, science, and data. In regional
-    plans, governors agreed to coordinate re-opening efforts and frequently share
-    data as hotspots emerged. These actions respond to the public demand for data
-    transparency, as well as the public’s desire that their governors and state leaders
-    rely on data to make decisions. A recent national poll commissioned by Results
-    for America and conducted by NORC at the University of Chicago found that 92%
-    of Americans believe  policymakers should seek the best evidence and data available
-    when making decisions. \n\nBeyond these efforts, several states took a comprehensive
-    approach by outfitting their data dashboards with highly detailed information
-    on economic, health, and demographic indicators. For example, Colorado’s COVID-19
-    dashboard features extensive data on hospitals, outbreaks, surveillance efforts,
-    and the incidence and epidemic curve (see Colorado example in Criteria 5). Minnesota’s
-    COVID Response Capacity Tracker monitors hospital surge capacity, child care capacity,
-    and COVID-19 response funding in addition to economic and food security metrics,
-    critical care supplies, dial back indicators, and demographic details (see Minnesota
-    example in Criteria 2). In both states, these data informed governors’ actions
-    and are leveraged to drive everyday decisions during the pandemic.\n\nMinnesota
-    produced a race/ethnicity data dashboard, an approach mirrored in 45 other states
-    that also published demographic COVID-19 data by age, gender, and race/ethnicity.
-    The use of these disaggregated data allows states to identify communities that
-    are disproportionately impacted, in particular, communities of color. For example,
-    Virginia’s COVID-19’s Health Equity Work Group (see Virginia example in Criteria
-    13) leveraged geospatial data to provide testing and personal protective equipment
-    in communities typically underserved by government programs. These data enable
-    states to tailor their response activities in equity-informed ways. States are
-    also encouraging community engagement and civic innovation by publicly posting
-    open data daily on state websites in Massachusetts, Washington, Connecticut, and
-    more.\n\n__States Leverage Data to Support Pandemic Response Efforts__\n\nAll
-    50 states publicly posted coronavirus data, but states with the ability to link,
-    share, and integrate data are well-positioned to incorporate data insights into
-    response efforts. For example, InnovateOhio's statewide data-sharing and integration
-    platform (see Ohio example in Criteria 4), gave Ohio a head start on providing
-    actionable COVID-related data to decision-makers. By using an existing infrastructure,
-    the state obtains vital information, such as hospital capacity, more quickly by
-    turning quarterly data deadlines into daily data reports.\n\nConnecticut’s statewide
-    data-sharing infrastructure helped the state leverage existing data-sharing agreements
-    to match student and SNAP data, enabling students to directly receive SNAP Pandemic
-    EBT food benefits with no application necessary (see Connecticut example in Criteria
+  states_use_data_accordion: "With the outbreak of the COVID-19 pandemic, governors
+    and state leaders have increasingly turned to data to guide their decision-making.
+    All state governments publicly shared data on their COVID-19 emergency response
+    dashboards, but states with a comprehensive data infrastructure (Criteria 3 Data
+    Leadership; Criteria 4 Data Policies/Agreements; and Criteria 5 Data Use) had
+    an enhanced ability to leverage a data-driven response. \n\n__COVID-19 Data Dashboards__\n\nThe
+    2019 State Standard of Excellence [identified](https://2019state.results4america.org/state-standard-of-excellence/performance-management--continuous-improvement.html)
+    12 states with significant public-facing performance management systems. However,
+    in 2020, all 50 states launched COVID-19 dashboards to monitor public health data
+    and emergency response services. This alone constitutes a significant step forward
+    for state governments’ use of data-driven policymaking. \n\nMoreover, as of July
+    2020, 18 governors (nearly all of them from states highlighted in the 2020 State
+    Standard of Excellence) had publicly committed to taking a data-driven and/or
+    evidence-based approach in their COVID-19 response. Through [daily press briefings](https://www.governor.ny.gov/news/governor-cuomo-updates-new-yorkers-states-progress-during-covid-19-pandemic-4),
+    governors reaffirmed their state’s commitment to a response grounded in facts,
+    science, and data. In regional plans, governors agreed to [coordinate re-opening
+    efforts](https://thehill.com/homenews/state-watch/493181-midwest-governors-announce-partnership-to-coordinate-reopening-economies)
+    and frequently share data as hotspots emerged. These actions respond to the public
+    demand for data transparency, as well as the public’s desire that their governors
+    and state leaders rely on data to make decisions. A recent national poll commissioned
+    by Results for America and conducted by NORC at the University of Chicago found
+    that 92% of Americans believe policymakers should seek the best evidence and data
+    available when making decisions. \n\n\nBeyond these efforts, several states took
+    a comprehensive approach by outfitting their data dashboards with highly detailed
+    information on economic, health, and demographic indicators. For example, Colorado’s
+    COVID-19 [dashboard](https://covid19.colorado.gov/covid-19-data) features extensive
+    data on [hospitals](https://covid19.colorado.gov/hospital-data), [outbreaks](https://covid19.colorado.gov/data/outbreak-data),
+    [surveillance efforts](https://covid19.colorado.gov/data/surveillance-data), and
+    [the incidence and epidemic curve](https://covid19.colorado.gov/data/incidence-epidemic-curve)
+    (see Colorado example in Criteria 5). Minnesota’s [COVID Response Capacity Tracker](https://mn.gov/covid19/data/response-prep/response-capacity.jsp)
+    monitors hospital surge capacity, child care capacity, and COVID-19 response funding
+    in addition to [economic and food security metrics](https://mn.gov/covid19/data/response-prep/economic-food-security.jsp),
+    [critical care supplies](https://mn.gov/covid19/data/response-prep/critical-care.jsp),
+    [dial back indicators](https://mn.gov/covid19/data/response-prep/dial-back-dashboard.jsp),
+    and [demographic details](https://mn.gov/covid19/data/covid-dashboard/index.jsp)
+    (see Minnesota example in Criteria 2). In both states, these data [informed](https://www.youtube.com/watch?v=JMCy4goH3Do)
+    governors’ actions and are [leveraged](https://covid19.colorado.gov/press-release/state-launches-new-covid-19-website)
+    to drive everyday decisions during the pandemic. \n\n\nMinnesota’s[ race/ethnicity
+    data dashboard](https://mn.gov/covid19/data/data-by-race-ethnicity/index.jsp)
+    publishes demographic COVID-19 data by age, gender, and race/ethnicity; this approach
+    was mirrored in 45 other states that also released demographic data about COVID-19
+    cases. The use of these disaggregated data allows states to identify disproportionately
+    impacted communities, in particular, communities of color. For example, Virginia’s
+    COVID-19’s [Health Equity Work Group](https://www.governor.virginia.gov/diversity/equity-leadership-taskforce/)
+    (see Virginia example in Criteria 13) leveraged geospatial data to provide testing
+    and personal protective equipment in communities typically underserved by government
+    programs. These data enable states to tailor their response activities in equity-informed
+    ways. States are also encouraging community engagement and civic innovation by
+    publicly posting open data daily on state websites in [Massachusetts](https://www.mass.gov/info-details/covid-19-response-reporting#covid-19-daily-dashboard-),
+    [Washington](https://www.doh.wa.gov/Emergencies/NovelCoronavirusOutbreak2020COVID19/DataDashboard),
+    [Connecticut](https://public.tableau.com/profile/connecticut.state.data.center#!/),
+    and more. \n\n__States Leverage Data to Support Pandemic Response Efforts__\n\nAll
+    50 states publicly posted coronavirus data, but states with the ability to [link,
+    share, and integrate data](https://blueprint.results4america.org/theme/leveraging-data.html)
+    were well-positioned to incorporate data insights into their response efforts.
+    For example, [InnovateOhio's](https://innovateohio.gov/wps/portal/gov/innovate)
+    statewide data-sharing and integration platform (see Ohio example in Criteria
+    4), gave Ohio a head start by providing rapid, actionable COVID-19 data to decision-makers.
+    By using an existing infrastructure, the state obtained vital information, such
+    as hospital capacity, more quickly by turning quarterly data deadlines into daily
+    data reports.\n\nConnecticut’s statewide data infrastructure helped the state
+    leverage existing data-sharing agreements to match student and SNAP data, enabling
+    students to directly receive [SNAP Pandemic EBT](https://portal.ct.gov/DSS/SNAP/Supplemental-Nutrition-Assistance-Program---SNAP)
+    food benefits with no application necessary (see Connecticut example in Criteria
     5). Similarly, in administering the federal COVID-19 Pandemic Unemployment Assistance
     program, Rhode Island’s Department of Labor and Training launched an improved
-    cloud-based system to manage the surge in unemployment claims. This system enabled
-    Rhode Island to be among the first states in the nation to allocate Pandemic Unemployment
-    Assistance benefits in the face of record-high unemployment claims (see Rhode
-    Island example in Criteria 4). Virginia’s Chief Data Officer spearheaded the creation
-    of a roadmap for more integrated data usage that allowed an existing cross-agency
-    data platform, initially launched to coordinate opioid crisis data, to be used
-    to for  data-driven decision-making in response to COVID-19 (see Virginia examples
-    in Criteria 3, 4, and 5). These efforts demonstrate how states were able to use
-    existing data infrastructure to more rapidly provide or expand services and benefits
-    in response to the COVID-19 pandemic."
+    [cloud-based system](https://results4america.org/wp-content/uploads/2020/04/Pandemic-Unemployment-Assistance-Benefits-System-1-1.pdf)
+    to manage the surge in unemployment claims. This system enabled Rhode Island,
+    a model for other states, to be among the first states in the country to allocate
+    Pandemic Unemployment Assistance benefits in the face of record-high unemployment
+    claims (see Rhode Island example in Criteria 4). Prior to the pandemic, Virginia’s
+    Chief Data Officer spearheaded the creation of a roadmap for enhanced data integration
+    and  use that allowed an [existing cross-agency data platform](https://www.governor.virginia.gov/newsroom/all-releases/2020/june/headline-858149-en.html),
+    initially launched to coordinate the opioid crisis , to be enhanced for the COVID-19
+    response (see Virginia examples in Criteria 3, 4, and 5). These efforts demonstrate
+    how states were able to use existing data infrastructure to rapidly provide or
+    expand services and benefits during the COVID-19 crisis. \n"
   evidence_in_state_budgets_accordion: "States have also positioned themselves to
-    leverage evidence and data infrastructure as part of the budget process. This
-    approach to using evidence in fiscal decision-making can foster innovation, build
-    evidence of program effectiveness, and fund evidence-based programs that improve
-    services for state residents. With many states facing unprecedented budgetary
-    decisions as a result of the economic impact of COVID-19, state governments are
-    increasingly investing in evidence-based programs to deliver better outcomes for
-    residents. \n\n\nFor example, Colorado’s FY 2020-2021 budget development instructions
-    (pp. 10-12) require agencies to describe the evidence and body of research supporting
-    any new program (see Colorado example in Criteria 9). Minnesota also issued guidance
-    on identifying evidence in budget proposals, which led to $87 million invested
-    in new or expanded evidence-based programs in the FY 2020-2021 budget (see Minnesota
-    example in Criteria 9). In 2019, the New Mexico legislature defined four tiers
-    of evidence and required select agencies to identify their investments in evidence-based
-    programs. As a result, the state legislature recommended more than $13.6 million
-    in additional spending for evidence-based human services programs (see New Mexico
-    example in Criteria 9). \n\nTennessee, North Carolina, and Rhode Island also demonstrated
-    progress in leveraging evidence as part of their 2020 budget processes. North
-    Carolina’s budget process encouraged departments to identify and develop evidence-focused
-    budget proposals (see North Carolina example in Criteria 9). Tennessee’s Office
-    of Evidence and Impact, founded in 2019, spearheads an increased use of evidence
-    and research in the state budget process (see Tennessee examples in Criteria 6
-    and Criteria 9). In Rhode Island, the FY 2021 budget instructions required agencies
-    to demonstrate program effectiveness and improvement of outcomes, rather than
-    simply counting activities and outputs (see Rhode Island example in Criteria 9).
-    Collectively these actions by states signal a growing commitment to using evidence
-    in fiscal decisions to fund programs that have proven results."
+    [leverage](https://blueprint.results4america.org/theme/building-and-using-evidence.html)
+    evidence and data infrastructure as part of the budget process. This approach
+    to using evidence in fiscal decisions can foster innovation, build evidence of
+    program effectiveness, and fund evidence-based programs that improve services
+    for residents. With many states facing unprecedented budgetary decisions as a
+    result of the COVID-19-induced recession, some states featured in the State Standard
+    of Excellence have developed the capacity to [invest](https://blueprint.results4america.org/theme/investing-for-results.html)
+    in evidence-based programs to deliver better outcomes for residents. \n\n\nFor
+    example, Colorado’s FY 2020-2021 [budget development instructions](https://drive.google.com/open?id=12rEZIkt1bzBcvF_b89Ps7Z0IJRDNuq7P)
+    (pp. 10-12) required agencies to describe the evidence and body of research supporting
+    any new program (see Colorado example in Criteria 9). Minnesota also issued [guidance](https://mn.gov/mmb/evidence/proposal/)
+    on identifying evidence in budget proposals, which led to [$87 million](https://mn.gov/mmb-stat/2-gen/enacted-budget-ebp-investments.pdf)
+    invested in new or expanded evidence-based programs in the FY 2020-2021 budget
+    (see Minnesota example in Criteria 9). In 2019, the New Mexico legislature [defined](https://nmlegis.gov/Sessions/19%20Regular/final/SB0058.pdf#page=3)
+    four tiers of evidence and [required](https://nmlegis.gov/Sessions/19%20Regular/final/SB0058.pdf#page=7)
+    select agencies to identify their investments in evidence-based programs. As a
+    result, the state legislature [recommended](https://govrel.unm.edu/legislative-sessions/2020/2021-legislative-budget.pdf#page=12)
+    more than $13.6 million in additional spending for evidence-based human services
+    programs (see New Mexico example in Criteria 9). \n\n\nTennessee, North Carolina,
+    and Rhode Island demonstrated progress in leveraging evidence in their budget
+    processes. North Carolina’s [budget process](https://files.nc.gov/ncosbm/documents/files/memo20191219_BudgetInstructions_FY2020-21.pdf#page=2)
+    encouraged departments to identify and develop evidence-focused budget proposals
+    (see North Carolina example in Criteria 9). Tennessee’s [Office of Evidence and
+    Impact](https://www.tn.gov/transparenttn/tennessee-program-inventory/about.html),
+    founded in 2019, spearheaded an [increased](https://www.tn.gov/finance/fa/fa-budget-information/budget-instructions-and-forms.html)
+    use of evidence and research in the state budget process (see Tennessee examples
+    in Criteria 6 and Criteria 9). In Rhode Island, the [FY 2021 budget instructions](http://www.omb.ri.gov/documents/instructions/1_FY%202021%20Budget%20Instructions.pdf#page=12)
+    required agencies to describe program effectiveness and improvement of outcomes,
+    rather than simply reporting activities and outputs (see Rhode Island example
+    in Criteria 9). Collectively, these examples signaled a growing commitment across
+    the country to leverage evidence in budget decisions in order to achieve improved
+    results. "

@@ -272,10 +272,10 @@ leadingPage:
       sys:
         id: YR2NPfWvsYQEEgIyaymMg
         created_at: !ruby/object:DateTime 2018-06-26 21:55:25.055000000 Z
-        updated_at: !ruby/object:DateTime 2018-06-26 21:55:25.055000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 14:07:01.860000000 Z
       title: newmexico
       description: 
-      url: "//images.ctfassets.net/cu0oxaxjfcsj/YR2NPfWvsYQEEgIyaymMg/89e2d83c168c27e6c954fe9285db6ede/newmexico.svg"
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/YR2NPfWvsYQEEgIyaymMg/86a3f05b18c8d7ab57d946848e4eb402/NM-State-BigAsset_1_2x.png"
     year: '2018'
   - sys:
       id: 4p11OHq6XCea44OQoEsgCG
@@ -1148,9 +1148,9 @@ leadingPage:
   - sys:
       id: 5jwzZ7x2jhn3I1hIBnD1fQ
       created_at: !ruby/object:DateTime 2020-07-30 10:05:13.841000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.768000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 14:53:32.963000000 Z
       content_type_id: leading
-      revision: 4
+      revision: 5
     state: Minnesota
     state_abbreviation: MN
     type: Statewide
@@ -1177,6 +1177,7 @@ leadingPage:
     - Health
     - Statewide Evidence-Building Capacity
     - Workforce
+    - COVID-19
     state_outline:
       sys:
         id: YlOt55v1CeImIm2qQQEg6
@@ -1230,9 +1231,9 @@ leadingPage:
   - sys:
       id: ijon75u8HYXWNlE7BPY5l
       created_at: !ruby/object:DateTime 2020-07-30 10:51:02.268000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.545000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 14:42:52.539000000 Z
       content_type_id: leading
-      revision: 3
+      revision: 4
     state: Ohio
     state_abbreviation: OH
     type: Multiple agencies
@@ -1261,6 +1262,7 @@ leadingPage:
     - Health
     - Statewide Evidence-Building Capacity
     - Workforce
+    - COVID-19
     state_outline:
       sys:
         id: 7IK6k8NBwjTAp9yUBvcrWf
@@ -1274,9 +1276,9 @@ leadingPage:
   - sys:
       id: 7AGpMFi6FYuolyUMOX2tmg
       created_at: !ruby/object:DateTime 2020-07-30 11:31:30.240000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.524000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 14:43:55.321000000 Z
       content_type_id: leading
-      revision: 3
+      revision: 4
     state: Indiana
     state_abbreviation: IN
     type: Statewide
@@ -1305,6 +1307,7 @@ leadingPage:
     - Education
     - Health
     - Workforce
+    - COVID-19
     state_outline:
       sys:
         id: 1bRacwPuE2AAG0EWugMamq
@@ -1506,18 +1509,18 @@ leadingPage:
       sys:
         id: YR2NPfWvsYQEEgIyaymMg
         created_at: !ruby/object:DateTime 2018-06-26 21:55:25.055000000 Z
-        updated_at: !ruby/object:DateTime 2018-06-26 21:55:25.055000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 14:07:01.860000000 Z
       title: newmexico
       description: 
-      url: "//images.ctfassets.net/cu0oxaxjfcsj/YR2NPfWvsYQEEgIyaymMg/89e2d83c168c27e6c954fe9285db6ede/newmexico.svg"
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/YR2NPfWvsYQEEgIyaymMg/86a3f05b18c8d7ab57d946848e4eb402/NM-State-BigAsset_1_2x.png"
     year: '2020'
     status: Updated from 2019
   - sys:
       id: 3k8cCtSdeHjbjR6dfUOgH4
       created_at: !ruby/object:DateTime 2020-07-30 12:13:28.552000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 03:16:17.015000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 14:51:39.661000000 Z
       content_type_id: leading
-      revision: 3
+      revision: 4
     state: Washington
     state_abbreviation: WA
     type: Multiple agencies
@@ -1543,6 +1546,8 @@ leadingPage:
     - Child Welfare
     - Education
     - Workforce
+    - Criminal Justice
+    - Health
     state_outline:
       sys:
         id: 3zudCcXzzyom4EIOaq8wW
