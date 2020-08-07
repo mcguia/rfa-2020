@@ -7139,9 +7139,9 @@ criteria:
   - sys:
       id: 7m96dZbzXGWMKeaCYiv7uK
       created_at: !ruby/object:DateTime 2020-08-05 20:23:05.214000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 03:06:54.202000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 16:40:37.248000000 Z
       content_type_id: promising
-      revision: 2
+      revision: 3
     state: Kentucky
     state_abbreviation: KY
     type: Statewide
@@ -7158,6 +7158,8 @@ criteria:
     issue:
     - COVID-19
     - Education
+    year: '2020'
+    status: Updated from 2019
   - sys:
       id: 2fOLIfkPd8vXdt1pRPS0IV
       created_at: !ruby/object:DateTime 2020-08-05 20:23:04.496000000 Z
@@ -8117,9 +8119,9 @@ criteria:
   - sys:
       id: R3yLXiNf2Jwl2ImRv0VIT
       created_at: !ruby/object:DateTime 2020-08-05 20:22:20.776000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-05 23:16:53.137000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 16:41:12.398000000 Z
       content_type_id: promising
-      revision: 2
+      revision: 3
     state: Georgia
     state_abbreviation: GA
     type: Multiple agencies
@@ -8135,7 +8137,8 @@ criteria:
     - Economic Mobility
     - Health
     - Child Welfare
-    status: New
+    year: '2020'
+    status: Updated from 2019
   - sys:
       id: 3WZ6JCUJjKxSB72KRPtWvL
       created_at: !ruby/object:DateTime 2020-08-05 20:22:22.804000000 Z
