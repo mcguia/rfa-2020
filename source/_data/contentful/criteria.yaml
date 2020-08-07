@@ -6132,9 +6132,9 @@ criteria:
     sys:
       id: 4z0HAgTrEpjkfkOf1IhOPj
       created_at: !ruby/object:DateTime 2020-08-06 02:09:14.414000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:00.813000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:23.455000000 Z
       content_type_id: blueprintTheme
-      revision: 3
+      revision: 4
     title: Managing for Results
     icon:
       sys:
@@ -6144,6 +6144,14 @@ criteria:
       title: Managing for Results (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6E8eghlLcHDvXYmeCggKTW/9914a93b7fd89130997e6d3a052dfb31/MFR5_white___1_.png"
+    icon_blue:
+      sys:
+        id: RsZTtCJ86NFymsE0O5VWC
+        created_at: !ruby/object:DateTime 2020-08-07 15:52:18.220000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:52:18.220000000 Z
+      title: Managing for Results (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/RsZTtCJ86NFymsE0O5VWC/d709c11d58ac903be29475f4faa2961b/MFR5.png"
     url: https://blueprint.results4america.org/theme/managing-for-results.html
   description: Did the Governor have public statewide strategic goals?
   explanation: The creation of statewide strategic goals is an important first step
@@ -6417,9 +6425,9 @@ criteria:
     sys:
       id: 4z0HAgTrEpjkfkOf1IhOPj
       created_at: !ruby/object:DateTime 2020-08-06 02:09:14.414000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:00.813000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:23.455000000 Z
       content_type_id: blueprintTheme
-      revision: 3
+      revision: 4
     title: Managing for Results
     icon:
       sys:
@@ -6429,6 +6437,14 @@ criteria:
       title: Managing for Results (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6E8eghlLcHDvXYmeCggKTW/9914a93b7fd89130997e6d3a052dfb31/MFR5_white___1_.png"
+    icon_blue:
+      sys:
+        id: RsZTtCJ86NFymsE0O5VWC
+        created_at: !ruby/object:DateTime 2020-08-07 15:52:18.220000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:52:18.220000000 Z
+      title: Managing for Results (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/RsZTtCJ86NFymsE0O5VWC/d709c11d58ac903be29475f4faa2961b/MFR5.png"
     url: https://blueprint.results4america.org/theme/managing-for-results.html
   description: Did the state or any of its agencies implement a performance management
     system aligned with its statewide strategic goals, with clear and prioritized
@@ -6962,9 +6978,9 @@ criteria:
     sys:
       id: 3x1XxBOhGbRziMUG4PFPCy
       created_at: !ruby/object:DateTime 2020-08-06 02:09:43.702000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:54:49.255000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:45.594000000 Z
       content_type_id: blueprintTheme
-      revision: 3
+      revision: 4
     title: Leveraging Data
     icon:
       sys:
@@ -6974,6 +6990,14 @@ criteria:
       title: Leveraging Data (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6vzxPTJfCFU0NwqEIZvhRG/d4f39944d78e001b8945dbe9df8cfb5b/LD2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 3b6o9F9GpEUEjkLBz4BRB6
+        created_at: !ruby/object:DateTime 2020-08-07 15:52:41.057000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:52:41.057000000 Z
+      title: Leveraging Data (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/3b6o9F9GpEUEjkLBz4BRB6/2654205dc06de1eb0b4a92eda820e8ef/LD2.png"
     url: https://blueprint.results4america.org/theme/leveraging-data.html
   description: 'Did the governor’s office or any state agency have a senior staff
     member(s) with the authority, staff, and budget to collect, analyze, share, and
@@ -7378,9 +7402,9 @@ criteria:
     sys:
       id: 3x1XxBOhGbRziMUG4PFPCy
       created_at: !ruby/object:DateTime 2020-08-06 02:09:43.702000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:54:49.255000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:45.594000000 Z
       content_type_id: blueprintTheme
-      revision: 3
+      revision: 4
     title: Leveraging Data
     icon:
       sys:
@@ -7390,6 +7414,14 @@ criteria:
       title: Leveraging Data (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6vzxPTJfCFU0NwqEIZvhRG/d4f39944d78e001b8945dbe9df8cfb5b/LD2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 3b6o9F9GpEUEjkLBz4BRB6
+        created_at: !ruby/object:DateTime 2020-08-07 15:52:41.057000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:52:41.057000000 Z
+      title: Leveraging Data (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/3b6o9F9GpEUEjkLBz4BRB6/2654205dc06de1eb0b4a92eda820e8ef/LD2.png"
     url: https://blueprint.results4america.org/theme/leveraging-data.html
   description: 'Did the state or any of its agencies have data-sharing policies and
     data-sharing agreements—consistent with strong privacy protections—with any nonprofit
@@ -7903,9 +7935,9 @@ criteria:
     sys:
       id: 3x1XxBOhGbRziMUG4PFPCy
       created_at: !ruby/object:DateTime 2020-08-06 02:09:43.702000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:54:49.255000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:45.594000000 Z
       content_type_id: blueprintTheme
-      revision: 3
+      revision: 4
     title: Leveraging Data
     icon:
       sys:
@@ -7915,6 +7947,14 @@ criteria:
       title: Leveraging Data (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6vzxPTJfCFU0NwqEIZvhRG/d4f39944d78e001b8945dbe9df8cfb5b/LD2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 3b6o9F9GpEUEjkLBz4BRB6
+        created_at: !ruby/object:DateTime 2020-08-07 15:52:41.057000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:52:41.057000000 Z
+      title: Leveraging Data (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/3b6o9F9GpEUEjkLBz4BRB6/2654205dc06de1eb0b4a92eda820e8ef/LD2.png"
     url: https://blueprint.results4america.org/theme/leveraging-data.html
   description: Did the state or any of its agencies have data systems consistent with
     strong privacy protections that linked multiple administrative data sets across
@@ -8559,9 +8599,9 @@ criteria:
     sys:
       id: 1Ng1WlZ2xLVgrsra4J45uF
       created_at: !ruby/object:DateTime 2020-08-06 02:13:50.726000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:51.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:52.667000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Building and Using Evidence
     icon:
       sys:
@@ -8571,6 +8611,14 @@ criteria:
       title: Building and Using Evidence (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6Gx0smWfWRv1YEFoacYeuu/2117066ee473ec8416253aa1018b4eba/BUE2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 2l1peypWnL2z9BsiZGIM3C
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:13.042000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:32.357000000 Z
+      title: Building and Using Evidence (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/2l1peypWnL2z9BsiZGIM3C/3c8910e3c5a42199afbdde4bd5bfb832/BUE2.png"
     url: https://blueprint.results4america.org/theme/building-and-using-evidence.html
   description: 'Did the governor’s office or any state agency have a senior staff
     member(s) with the authority, staff, and budget to evaluate its major programs
@@ -8792,9 +8840,9 @@ criteria:
     sys:
       id: 1Ng1WlZ2xLVgrsra4J45uF
       created_at: !ruby/object:DateTime 2020-08-06 02:13:50.726000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:51.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:52.667000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Building and Using Evidence
     icon:
       sys:
@@ -8804,6 +8852,14 @@ criteria:
       title: Building and Using Evidence (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6Gx0smWfWRv1YEFoacYeuu/2117066ee473ec8416253aa1018b4eba/BUE2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 2l1peypWnL2z9BsiZGIM3C
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:13.042000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:32.357000000 Z
+      title: Building and Using Evidence (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/2l1peypWnL2z9BsiZGIM3C/3c8910e3c5a42199afbdde4bd5bfb832/BUE2.png"
     url: https://blueprint.results4america.org/theme/building-and-using-evidence.html
   description: Did the state or any of its agencies have an evaluation policy, evaluation
     plan, and research/learning agenda(s), and did it publicly release the findings
@@ -9022,9 +9078,9 @@ criteria:
     sys:
       id: 1Ng1WlZ2xLVgrsra4J45uF
       created_at: !ruby/object:DateTime 2020-08-06 02:13:50.726000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:51.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:52.667000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Building and Using Evidence
     icon:
       sys:
@@ -9034,6 +9090,14 @@ criteria:
       title: Building and Using Evidence (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6Gx0smWfWRv1YEFoacYeuu/2117066ee473ec8416253aa1018b4eba/BUE2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 2l1peypWnL2z9BsiZGIM3C
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:13.042000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:32.357000000 Z
+      title: Building and Using Evidence (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/2l1peypWnL2z9BsiZGIM3C/3c8910e3c5a42199afbdde4bd5bfb832/BUE2.png"
     url: https://blueprint.results4america.org/theme/building-and-using-evidence.html
   description: Did the state or any of its agencies invest at least 1% of program
     funds in evaluations?
@@ -9091,9 +9155,9 @@ criteria:
     sys:
       id: 1Ng1WlZ2xLVgrsra4J45uF
       created_at: !ruby/object:DateTime 2020-08-06 02:13:50.726000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:51.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:52.667000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Building and Using Evidence
     icon:
       sys:
@@ -9103,6 +9167,14 @@ criteria:
       title: Building and Using Evidence (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6Gx0smWfWRv1YEFoacYeuu/2117066ee473ec8416253aa1018b4eba/BUE2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 2l1peypWnL2z9BsiZGIM3C
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:13.042000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:32.357000000 Z
+      title: Building and Using Evidence (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/2l1peypWnL2z9BsiZGIM3C/3c8910e3c5a42199afbdde4bd5bfb832/BUE2.png"
     url: https://blueprint.results4america.org/theme/building-and-using-evidence.html
   description: Did the state or any of its agencies report or require outcome data
     for its state-funded programs during their budget process?
@@ -9454,9 +9526,9 @@ criteria:
     sys:
       id: 1Ng1WlZ2xLVgrsra4J45uF
       created_at: !ruby/object:DateTime 2020-08-06 02:13:50.726000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:51.651000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:52:52.667000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Building and Using Evidence
     icon:
       sys:
@@ -9466,6 +9538,14 @@ criteria:
       title: Building and Using Evidence (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/6Gx0smWfWRv1YEFoacYeuu/2117066ee473ec8416253aa1018b4eba/BUE2_white___1_.png"
+    icon_blue:
+      sys:
+        id: 2l1peypWnL2z9BsiZGIM3C
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:13.042000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:32.357000000 Z
+      title: Building and Using Evidence (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/2l1peypWnL2z9BsiZGIM3C/3c8910e3c5a42199afbdde4bd5bfb832/BUE2.png"
     url: https://blueprint.results4america.org/theme/building-and-using-evidence.html
   description: Did the state or any of its agencies release a common evidence framework,
     guidelines, or standards to inform its research and funding decisions and make
@@ -9915,9 +9995,9 @@ criteria:
     sys:
       id: 6oQUaS9Pqgwvq4RkUsSvDr
       created_at: !ruby/object:DateTime 2020-08-06 02:15:06.970000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:14.398000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:51:57.150000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Investing for Results
     icon:
       sys:
@@ -9927,6 +10007,14 @@ criteria:
       title: Investing for Results (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/33whE6CrB15owXoonOZcBC/18418747392eef29cc48259ef5ec7a91/IFR2_white___1_.png"
+    icon_blue:
+      sys:
+        id: wytEnKW7njwx2omT50ITe
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+      title: Investing for Results (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/wytEnKW7njwx2omT50ITe/76d9ef2a6e4bd89dcbc2b7084a462148/IFR2.png"
     url: https://blueprint.results4america.org/theme/investing-for-results.html
   description: Did the state or any of its agencies assess and make publicly available
     the costs and benefits of public programs?
@@ -10200,9 +10288,9 @@ criteria:
     sys:
       id: 6oQUaS9Pqgwvq4RkUsSvDr
       created_at: !ruby/object:DateTime 2020-08-06 02:15:06.970000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:14.398000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:51:57.150000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Investing for Results
     icon:
       sys:
@@ -10212,6 +10300,14 @@ criteria:
       title: Investing for Results (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/33whE6CrB15owXoonOZcBC/18418747392eef29cc48259ef5ec7a91/IFR2_white___1_.png"
+    icon_blue:
+      sys:
+        id: wytEnKW7njwx2omT50ITe
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+      title: Investing for Results (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/wytEnKW7njwx2omT50ITe/76d9ef2a6e4bd89dcbc2b7084a462148/IFR2.png"
     url: https://blueprint.results4america.org/theme/investing-for-results.html
   description: Did the state or any of its agencies (1) invest at least 50% of program
     funds in evidence-based solutions or (2) use evidence of effectiveness when allocating
@@ -10559,9 +10655,9 @@ criteria:
     sys:
       id: 6oQUaS9Pqgwvq4RkUsSvDr
       created_at: !ruby/object:DateTime 2020-08-06 02:15:06.970000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:14.398000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:51:57.150000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Investing for Results
     icon:
       sys:
@@ -10571,6 +10667,14 @@ criteria:
       title: Investing for Results (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/33whE6CrB15owXoonOZcBC/18418747392eef29cc48259ef5ec7a91/IFR2_white___1_.png"
+    icon_blue:
+      sys:
+        id: wytEnKW7njwx2omT50ITe
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+      title: Investing for Results (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/wytEnKW7njwx2omT50ITe/76d9ef2a6e4bd89dcbc2b7084a462148/IFR2.png"
     url: https://blueprint.results4america.org/theme/investing-for-results.html
   description: Did the state or any of its agencies have staff, policies, and processes
     in place that encouraged innovation to improve outcomes?
@@ -11080,9 +11184,9 @@ criteria:
     sys:
       id: 6oQUaS9Pqgwvq4RkUsSvDr
       created_at: !ruby/object:DateTime 2020-08-06 02:15:06.970000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:14.398000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:51:57.150000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Investing for Results
     icon:
       sys:
@@ -11092,6 +11196,14 @@ criteria:
       title: Investing for Results (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/33whE6CrB15owXoonOZcBC/18418747392eef29cc48259ef5ec7a91/IFR2_white___1_.png"
+    icon_blue:
+      sys:
+        id: wytEnKW7njwx2omT50ITe
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+      title: Investing for Results (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/wytEnKW7njwx2omT50ITe/76d9ef2a6e4bd89dcbc2b7084a462148/IFR2.png"
     url: https://blueprint.results4america.org/theme/investing-for-results.html
   description: Did the state or any of its agencies enter into performance-based contracts
     and/or use active contract management (frequent use of data and regular communication
@@ -11334,9 +11446,9 @@ criteria:
     sys:
       id: 6oQUaS9Pqgwvq4RkUsSvDr
       created_at: !ruby/object:DateTime 2020-08-06 02:15:06.970000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-06 02:55:14.398000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-07 15:51:57.150000000 Z
       content_type_id: blueprintTheme
-      revision: 2
+      revision: 3
     title: Investing for Results
     icon:
       sys:
@@ -11346,6 +11458,14 @@ criteria:
       title: Investing for Results (white)
       description: 
       url: "//images.ctfassets.net/cu0oxaxjfcsj/33whE6CrB15owXoonOZcBC/18418747392eef29cc48259ef5ec7a91/IFR2_white___1_.png"
+    icon_blue:
+      sys:
+        id: wytEnKW7njwx2omT50ITe
+        created_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+        updated_at: !ruby/object:DateTime 2020-08-07 15:51:53.851000000 Z
+      title: Investing for Results (blue)
+      description: 
+      url: "//images.ctfassets.net/cu0oxaxjfcsj/wytEnKW7njwx2omT50ITe/76d9ef2a6e4bd89dcbc2b7084a462148/IFR2.png"
     url: https://blueprint.results4america.org/theme/investing-for-results.html
   description: Did the state or any of its agencies shift funds away from any practice,
     policy, or program that consistently failed to achieve desired outcomes?

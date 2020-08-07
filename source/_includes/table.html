@@ -67,13 +67,29 @@
       <!-- content columns  -->
       <div class="column examples-grid-column examples-grid__content-cell title"
         onclick="window.location='{{ url | relative_url }}';">
-        <span>
+        <span class="criteria-title">
           <a class="external-link-container" href="{{ url | relative_url }}"><span class="title-order">{{item.order}}.
             </span>{{ item.title }}</a>
         </span>
         <span class="tooltip">
           {{ item.description }}
         </span>
+        <div class="blueprint-section">
+          <div class="blueprint-theme-header">Relevant Blueprint Theme:</div>
+          <div class="media-object">
+            <div class="media-object-section">
+              <div class="thumbnail">
+                <a href="{{ item.blueprint_theme.url }}" target="_blank"><img class="theme-img" src="{{ item.blueprint_theme.icon_blue.url }}"></a>
+              </div>
+            </div>
+            <div class="media-object-section main-section">
+              <a class="blueprint-block-title" href="{{ item.blueprint_theme.url }}" target="_blank">{{ item.blueprint_theme.title }}</a>
+            </div>
+          </div>
+          <p class="blueprint-text">
+            See the <a href="https://blueprint.results4america.org/theme/{{item.blueprint_theme.title | slugify}}.html" target="_blank">{{item.blueprint_theme.title}}</a> section in the <a href="https://blueprint.results4america.org">Blueprint</a> to learn how your state can make progress in meeting this criteria.
+          </p>
+        </div>
       </div>
 
       <div class="column examples-grid-column examples-grid__content-cell leading filterable">
