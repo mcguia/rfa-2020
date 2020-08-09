@@ -1036,9 +1036,9 @@ indexPage:
 - sys:
     id: 6Ap1JlR5RqMa1PSh9Kqrue
     created_at: !ruby/object:DateTime 2020-07-30 10:11:40.983000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-07 17:45:52.627000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-09 18:48:37.320000000 Z
     content_type_id: indexPage
-    revision: 16
+    revision: 18
   year: '2020'
   short_description: "The Invest in What Works State Standard of Excellence sets a
     national benchmark—a “north star”—for how state governments can consistently and
@@ -1053,7 +1053,7 @@ indexPage:
     policies, programs, and systems. These Leading States are Colorado, Connecticut,
     Minnesota, Oregon, Tennessee, Utah, and Washington. Four Honor Roll States have
     also demonstrated a commitment to improving their evidence and data efforts: Massachusetts,
-    North Carolina, Ohio, and Rhode Island...\n\n\n...The leading and promising examples
+    North Carolina, Ohio, and Rhode Island.\n\n\nThe leading and promising examples
     highlighted in the 2020 State Standard of Excellence are informing other state
     governments, policymakers, and the public about the effectiveness of using evidence
     and data to invest taxpayer dollars in what works. To further help states meet
@@ -1715,10 +1715,6 @@ indexPage:
     - sys:
         id: 4ZIwPHPt7t1QKKHPmrAAso
     year: '2020'
-  analysis_section: |-
-    __2020 State Standard of Excellence Sector Analysis and Blueprint Overlay__
-
-    The 2020 State Standard of Excellence identifies data-driven and evidence-based practices, policies, programs, and systems in the child welfare, criminal justice, economic mobility, education, health, and workforce sectors. Since 2018, state governments continue to invest in evidence-based policymaking across sectors. [Read More](https://mcguia.github.io/rfa-2020/analysis.html)
   states_use_data_accordion: "With the outbreak of the COVID-19 pandemic, governors
     and state leaders have increasingly turned to data to guide their decision-making.
     All state governments publicly shared data on their COVID-19 emergency response
