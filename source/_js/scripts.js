@@ -26,7 +26,7 @@ Tooltip.init();
 Utils.markdownLinksNewPage();
 
 
-if (window.location.pathname === '/' || window.location.pathname === '/rfa-2019/') {
+if (window.location.pathname === '/' || window.location.pathname === '/rfa-2019/' || window.location.pathname === '/rfa-2020/') {
   FixedSection.init();
   Filter.init();
 };
