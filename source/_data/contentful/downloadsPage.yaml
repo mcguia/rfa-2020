@@ -338,3 +338,31 @@ downloadsPage:
     download_title: Wisconsin
     state_abbreviation: WI
     download_url: https://2019state.results4america.org/statespotlights/2019%20Wisconsin%20State%20Spotlight.pdf
+- sys:
+    id: 7jbXbsHEovDRpeyFwZ3CaN
+    created_at: !ruby/object:DateTime 2020-08-09 20:05:41.223000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-09 20:05:41.223000000 Z
+    content_type_id: downloadsPage
+    revision: 1
+  page_title: '2020'
+  standard_title: State Standard
+  spotlights_title: State Spotlights
+  spotlights_files:
+  - sys:
+      id: 5LeekXOwIQlJCMOFWqO4Ef
+      created_at: !ruby/object:DateTime 2020-08-09 20:05:11.991000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-09 20:12:43.316000000 Z
+      content_type_id: downloads
+      revision: 2
+    download_title: Texas
+    state_abbreviation: TX
+    download_url: https://mcguia.github.io/rfa-2020/statespotlights/2020%20Texas%20State%20Spotlight.pdf
+  - sys:
+      id: 3dcdnS4A0Oi4XTf5AYvGpf
+      created_at: !ruby/object:DateTime 2020-08-09 20:05:31.371000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-09 20:13:08.969000000 Z
+      content_type_id: downloads
+      revision: 2
+    download_title: Wisconsin
+    state_abbreviation: WI
+    download_url: https://mcguia.github.io/rfa-2020/statespotlights/2020%20Wisconsin%20State%20Spotlight.pdf
