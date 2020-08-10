@@ -1036,9 +1036,9 @@ indexPage:
 - sys:
     id: 6Ap1JlR5RqMa1PSh9Kqrue
     created_at: !ruby/object:DateTime 2020-07-30 10:11:40.983000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-09 18:48:37.320000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-10 19:49:42.197000000 Z
     content_type_id: indexPage
-    revision: 18
+    revision: 19
   year: '2020'
   short_description: "The Invest in What Works State Standard of Excellence sets a
     national benchmark—a “north star”—for how state governments can consistently and
@@ -1048,9 +1048,9 @@ indexPage:
     and systems in effect as of June 2020 in 35 states across the country.  Further,
     in 2020, the COVID-19 pandemic demonstrated that, now more than ever, states need
     robust evidence and data capacities to make equitable decisions that affect their
-    residents’ health, economic mobility, and overall well-being. \n\n\nOverall, seven
-    states are leading the way with their use of data-driven and evidence-based practices,
-    policies, programs, and systems. These Leading States are Colorado, Connecticut,
+    residents’ health, economic mobility, and overall well-being. Overall, seven states
+    are leading the way with their use of data-driven and evidence-based practices,
+    policies, programs, and systems. \n\n\nThese Leading States are Colorado, Connecticut,
     Minnesota, Oregon, Tennessee, Utah, and Washington. Four Honor Roll States have
     also demonstrated a commitment to improving their evidence and data efforts: Massachusetts,
     North Carolina, Ohio, and Rhode Island.\n\n\nThe leading and promising examples

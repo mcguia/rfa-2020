@@ -5,9 +5,16 @@ const FixedSection = {
       const $fixedSection = $('.fixed-section');
       const $fixedSectionWrapper = $('.fixed-section-wrapper');
       let elTop = $fixedSection.offset().top;
+      console.log("normal", elTop);
       // reassign elTop when read more is expanded
       $('.read-more').on('click', () => {
         elTop = $fixedSection.offset().top;
+      });
+      $('.accordion-col').on('click', () => {
+        // account for accordion animation
+        setTimeout(() => {
+          elTop = $fixedSection.offset().top;
+        }, 500);
       });
       const margin = 50;
 

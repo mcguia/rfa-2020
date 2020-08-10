@@ -341,28 +341,325 @@ downloadsPage:
 - sys:
     id: 7jbXbsHEovDRpeyFwZ3CaN
     created_at: !ruby/object:DateTime 2020-08-09 20:05:41.223000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-09 20:05:41.223000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-10 20:08:23.425000000 Z
     content_type_id: downloadsPage
-    revision: 1
+    revision: 2
   page_title: '2020'
   standard_title: State Standard
   spotlights_title: State Spotlights
   spotlights_files:
   - sys:
+      id: 6967ofiTormwG23p6rpSxB
+      created_at: !ruby/object:DateTime 2020-08-10 19:56:37.963000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:56:37.963000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Alabama
+    state_abbreviation: AL
+    download_url: https://2020state.results4america.org/statespotlights/AL_2020StateSpotlight.pdf
+  - sys:
+      id: 2B8TAC7cFZYooevavaR9bB
+      created_at: !ruby/object:DateTime 2020-08-10 19:57:15.026000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:57:15.026000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Arkansas
+    state_abbreviation: AR
+    download_url: https://2020state.results4america.org/statespotlights/AR_2020StateSpotlight.pdf
+  - sys:
+      id: 7E7fRxhQqlZFEytg9Npv69
+      created_at: !ruby/object:DateTime 2020-08-10 19:57:31.538000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:57:31.538000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Arizona
+    state_abbreviation: AZ
+    download_url: https://2020state.results4america.org/statespotlights/AZ_2020StateSpotlight.pdf
+  - sys:
+      id: 2hXpCiynBznefIvgqhNgEF
+      created_at: !ruby/object:DateTime 2020-08-10 19:57:47.449000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:57:47.449000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: California
+    state_abbreviation: CA
+    download_url: https://2020state.results4america.org/statespotlights/CA_2020StateSpotlight.pdf
+  - sys:
+      id: 2XXJtckOEXfACe8TOO8MSG
+      created_at: !ruby/object:DateTime 2020-08-10 19:58:01.760000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:58:01.760000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Colorado
+    state_abbreviation: CO
+    download_url: https://2020state.results4america.org/statespotlights/CO_2020StateSpotlight.pdf
+  - sys:
+      id: 3eVP4ATMFeqLfX0ZItqm9F
+      created_at: !ruby/object:DateTime 2020-08-10 19:58:29.302000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:58:29.302000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Connecticut
+    state_abbreviation: CT
+    download_url: https://2020state.results4america.org/statespotlights/CT_2020StateSpotlight.pdf
+  - sys:
+      id: 3blIvLfJwFUD8hay7p8ws9
+      created_at: !ruby/object:DateTime 2020-08-10 19:58:48.400000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:58:48.400000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Florida
+    state_abbreviation: FL
+    download_url: https://2020state.results4america.org/statespotlights/FL_2020StateSpotlight.pdf
+  - sys:
+      id: 6466wBXPeDoLEWwCYa7eOx
+      created_at: !ruby/object:DateTime 2020-08-10 19:59:04.868000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:59:04.868000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Georgia
+    state_abbreviation: GA
+    download_url: https://2020state.results4america.org/statespotlights/GA_2020StateSpotlight.pdf
+  - sys:
+      id: 6YWl49BmHRawDus8C8JAhp
+      created_at: !ruby/object:DateTime 2020-08-10 19:59:31.916000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:59:31.916000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Illinois
+    state_abbreviation: IL
+    download_url: https://2020state.results4america.org/statespotlights/IL_2020StateSpotlight.pdf
+  - sys:
+      id: 35tVJKFAXU9Jn3dYheIOQO
+      created_at: !ruby/object:DateTime 2020-08-10 19:59:44.539000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 19:59:44.539000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Indiana
+    state_abbreviation: IN
+    download_url: https://2020state.results4america.org/statespotlights/IN_2020StateSpotlight.pdf
+  - sys:
+      id: 41fdzs5uEefBccjwJC8Dod
+      created_at: !ruby/object:DateTime 2020-08-10 20:00:23.720000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:00:23.720000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Kentucky
+    state_abbreviation: KY
+    download_url: https://2020state.results4america.org/statespotlights/KY_2020StateSpotlight.pdf
+  - sys:
+      id: 7jxfzVFeGbQoaInBUFnVhg
+      created_at: !ruby/object:DateTime 2020-08-10 20:00:47.143000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:00:47.143000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Massachusetts
+    state_abbreviation: MA
+    download_url: https://2020state.results4america.org/statespotlights/MA_2020StateSpotlight.pdf
+  - sys:
+      id: 7iGnFYauBG3z0N51tl6hyZ
+      created_at: !ruby/object:DateTime 2020-08-10 20:01:02.334000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:01:02.334000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Maryland
+    state_abbreviation: MD
+    download_url: https://2020state.results4america.org/statespotlights/MD_2020StateSpotlight.pdf
+  - sys:
+      id: 0GCn4kqG7rPGtEqoiX8np
+      created_at: !ruby/object:DateTime 2020-08-10 20:01:20.615000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:01:20.615000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Michigan
+    state_abbreviation: MI
+    download_url: https://2020state.results4america.org/statespotlights/MI_2020StateSpotlight.pdf
+  - sys:
+      id: 6hzj8C2xt0UW6dXOZsiBCt
+      created_at: !ruby/object:DateTime 2020-08-10 20:01:45.758000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:01:45.758000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Minnesota
+    state_abbreviation: MN
+    download_url: https://2020state.results4america.org/statespotlights/MN_2020StateSpotlight.pdf
+  - sys:
+      id: 1eDfo1B6p2xxXRcF7hY3xt
+      created_at: !ruby/object:DateTime 2020-08-10 20:02:19.382000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:02:19.382000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Missouri
+    state_abbreviation: MO
+    download_url: https://2020state.results4america.org/statespotlights/MO_2020StateSpotlight.pdf
+  - sys:
+      id: 2a7f5BKoSsLEZ9GugRlJE3
+      created_at: !ruby/object:DateTime 2020-08-10 20:02:51.070000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:02:51.070000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Mississippi
+    state_abbreviation: MS
+    download_url: https://2020state.results4america.org/statespotlights/MS_2020StateSpotlight.pdf
+  - sys:
+      id: 5eK6HzEFGzrZHydUvrCW7b
+      created_at: !ruby/object:DateTime 2020-08-10 20:03:06.835000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:03:06.835000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: North Carolina
+    state_abbreviation: NC
+    download_url: https://2020state.results4america.org/statespotlights/NC_2020StateSpotlight.pdf
+  - sys:
+      id: 2e8jB8svSnL1D5l2vs5kTN
+      created_at: !ruby/object:DateTime 2020-08-10 20:03:22.107000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:03:22.107000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: North Dakota
+    state_abbreviation: ND
+    download_url: https://2020state.results4america.org/statespotlights/ND_2020StateSpotlight.pdf
+  - sys:
+      id: 2Yt7ka8FmGJ56njZ8EI1Ln
+      created_at: !ruby/object:DateTime 2020-08-10 20:03:37.665000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:03:37.665000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: New Jersey
+    state_abbreviation: NJ
+    download_url: https://2020state.results4america.org/statespotlights/NJ_2020StateSpotlight.pdf
+  - sys:
+      id: 1XXMJundvHKCcXosKobsdj
+      created_at: !ruby/object:DateTime 2020-08-10 20:03:52.372000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:03:52.372000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: New Mexico
+    state_abbreviation: NM
+    download_url: https://2020state.results4america.org/statespotlights/NM_2020StateSpotlight.pdf
+  - sys:
+      id: 22E672EGHX35qDhguoxpTi
+      created_at: !ruby/object:DateTime 2020-08-10 20:04:12.744000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:04:12.744000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Nevada
+    state_abbreviation: NV
+    download_url: https://2020state.results4america.org/statespotlights/NV_2020StateSpotlight.pdf
+  - sys:
+      id: 3hUlX5DIbuNvQcVwUct3RJ
+      created_at: !ruby/object:DateTime 2020-08-10 20:04:30.469000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:04:30.469000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: New York
+    state_abbreviation: NY
+    download_url: https://2020state.results4america.org/statespotlights/NY_2020StateSpotlight.pdf
+  - sys:
+      id: 21muhqeyTdJeGM5oBjVtze
+      created_at: !ruby/object:DateTime 2020-08-10 20:04:46.995000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:04:46.995000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Ohio
+    state_abbreviation: OH
+    download_url: https://2020state.results4america.org/statespotlights/OH_2020StateSpotlight.pdf
+  - sys:
+      id: 2e7sS8mKsI4sYsY5r72G4k
+      created_at: !ruby/object:DateTime 2020-08-10 20:05:00.227000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:05:00.227000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Oregon
+    state_abbreviation: OR
+    download_url: https://2020state.results4america.org/statespotlights/OR_2020StateSpotlight.pdf
+  - sys:
+      id: 5lIAs6memhlRQ0KVVygpAd
+      created_at: !ruby/object:DateTime 2020-08-10 20:05:16.008000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:05:16.008000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Pennsylvania
+    state_abbreviation: PA
+    download_url: https://2020state.results4america.org/statespotlights/PA_2020StateSpotlight.pdf
+  - sys:
+      id: 3vptXA2SV4Art2abPZT6ZK
+      created_at: !ruby/object:DateTime 2020-08-10 20:05:31.413000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:05:31.413000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Rhode Island
+    state_abbreviation: RI
+    download_url: https://2020state.results4america.org/statespotlights/RI_2020StateSpotlight.pdf
+  - sys:
+      id: 1rMJVR61UVhKxBYzYM7C71
+      created_at: !ruby/object:DateTime 2020-08-10 20:05:45.265000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:05:45.265000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: South Carolina
+    state_abbreviation: SC
+    download_url: https://2020state.results4america.org/statespotlights/SC_2020StateSpotlight.pdf
+  - sys:
+      id: CwAgXmqeISCXxYjyjFFBi
+      created_at: !ruby/object:DateTime 2020-08-10 20:06:13.092000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:06:13.092000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Tennessee
+    state_abbreviation: TN
+    download_url: https://2020state.results4america.org/statespotlights/TN_2020StateSpotlight.pdf
+  - sys:
       id: 5LeekXOwIQlJCMOFWqO4Ef
       created_at: !ruby/object:DateTime 2020-08-09 20:05:11.991000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-09 20:12:43.316000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:07:11.551000000 Z
       content_type_id: downloads
-      revision: 2
+      revision: 3
     download_title: Texas
     state_abbreviation: TX
-    download_url: https://mcguia.github.io/rfa-2020/statespotlights/2020%20Texas%20State%20Spotlight.pdf
+    download_url: https://2020state.results4america.org/statespotlights/TX_2020StateSpotlight.pdf
+  - sys:
+      id: 5Z6HVOj2Rw7KbRhGeTVkCo
+      created_at: !ruby/object:DateTime 2020-08-10 20:06:39.175000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:06:39.175000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Utah
+    state_abbreviation: UT
+    download_url: https://2020state.results4america.org/statespotlights/UT_2020StateSpotlight.pdf
+  - sys:
+      id: LsruLKB9DtVZHoBeNsZE9
+      created_at: !ruby/object:DateTime 2020-08-10 20:07:26.592000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:07:26.592000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Virginia
+    state_abbreviation: VA
+    download_url: https://2020state.results4america.org/statespotlights/VA_2020StateSpotlight.pdf
+  - sys:
+      id: 6890C1lXxCs0PMlu78vCi7
+      created_at: !ruby/object:DateTime 2020-08-10 20:07:44.426000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:07:44.426000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Vermont
+    state_abbreviation: VT
+    download_url: https://2020state.results4america.org/statespotlights/VT_2020StateSpotlight.pdf
+  - sys:
+      id: 1pkuC5DcE4ISuC7P3D5G4M
+      created_at: !ruby/object:DateTime 2020-08-10 20:07:58.329000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:07:58.329000000 Z
+      content_type_id: downloads
+      revision: 1
+    download_title: Washington
+    state_abbreviation: WA
+    download_url: https://2020state.results4america.org/statespotlights/WA_2020StateSpotlight.pdf
   - sys:
       id: 3dcdnS4A0Oi4XTf5AYvGpf
       created_at: !ruby/object:DateTime 2020-08-09 20:05:31.371000000 Z
-      updated_at: !ruby/object:DateTime 2020-08-09 20:13:08.969000000 Z
+      updated_at: !ruby/object:DateTime 2020-08-10 20:08:15.864000000 Z
       content_type_id: downloads
-      revision: 2
+      revision: 3
     download_title: Wisconsin
     state_abbreviation: WI
-    download_url: https://mcguia.github.io/rfa-2020/statespotlights/2020%20Wisconsin%20State%20Spotlight.pdf
+    download_url: https://2020state.results4america.org/statespotlights/WI_2020StateSpotlight.pdf

@@ -65,8 +65,7 @@
 
     <div class="row expanded examples-grid__content-row criteria">
       <!-- content columns  -->
-      <div class="column examples-grid-column examples-grid__content-cell title"
-        onclick="window.location='{{ url | relative_url }}';">
+      <div class="column examples-grid-column examples-grid__content-cell title">
         <span class="criteria-title">
           <a class="external-link-container" href="{{ url | relative_url }}"><span class="title-order">{{item.order}}.
             </span>{{ item.title }}</a>
@@ -87,7 +86,7 @@
             </div>
           </div>
           <p class="blueprint-text">
-            See the <a href="https://blueprint.results4america.org/theme/{{item.blueprint_theme.title | slugify}}.html" target="_blank">{{item.blueprint_theme.title}}</a> theme in the <a href="https://blueprint.results4america.org">Blueprint</a> to learn how your state can make progress in meeting this criteria.
+            See the <a href="https://blueprint.results4america.org/theme/{{item.blueprint_theme.title | slugify}}.html" target="_blank">{{item.blueprint_theme.title}}</a> theme in the Blueprint to learn how states can make progress in meeting this criteria.
           </p>
         </div>
       </div>
