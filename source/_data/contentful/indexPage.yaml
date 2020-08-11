@@ -1036,9 +1036,9 @@ indexPage:
 - sys:
     id: 6Ap1JlR5RqMa1PSh9Kqrue
     created_at: !ruby/object:DateTime 2020-07-30 10:11:40.983000000 Z
-    updated_at: !ruby/object:DateTime 2020-08-10 19:49:42.197000000 Z
+    updated_at: !ruby/object:DateTime 2020-08-11 00:36:43.682000000 Z
     content_type_id: indexPage
-    revision: 19
+    revision: 20
   year: '2020'
   short_description: "The Invest in What Works State Standard of Excellence sets a
     national benchmark—a “north star”—for how state governments can consistently and
@@ -1048,7 +1048,8 @@ indexPage:
     and systems in effect as of June 2020 in 35 states across the country.  Further,
     in 2020, the COVID-19 pandemic demonstrated that, now more than ever, states need
     robust evidence and data capacities to make equitable decisions that affect their
-    residents’ health, economic mobility, and overall well-being. Overall, seven states
+    residents’ health, economic mobility, and overall well-being. Overall, [seven
+    states](https://medium.com/@Results4America/2020-invest-in-what-works-state-standard-of-excellence-leading-states-snapshots-the-who-and-the-178b3b2b54c1)
     are leading the way with their use of data-driven and evidence-based practices,
     policies, programs, and systems. \n\n\nThese Leading States are Colorado, Connecticut,
     Minnesota, Oregon, Tennessee, Utah, and Washington. Four Honor Roll States have
@@ -1735,7 +1736,7 @@ indexPage:
     and frequently share data as hotspots emerged. These actions respond to the public
     demand for data transparency, as well as the public’s desire that their governors
     and state leaders rely on data to make decisions. A recent national poll commissioned
-    by Results for America and conducted by NORC at the University of Chicago found
+    by Results for America and conducted by NORC at the University of Chicago [found](https://results4america.org/wp-content/uploads/2020/07/NORC-Americans-Overwelhmingly-Support-Using-Evidence-and-Data-to-Manage-the-Coronavirus-Outbreak-RFA.pdf)
     that 92% of Americans believe policymakers should seek the best evidence and data
     available when making decisions. \n\n\nBeyond these efforts, several states took
     a comprehensive approach by outfitting their data dashboards with highly detailed
