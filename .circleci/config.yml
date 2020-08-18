@@ -3,11 +3,9 @@ jobs:
   build:
     docker:
       - image: circleci/ruby:2.7-node
-    dependencies:
-      pre:
-        - gem install bundler
     steps:
         - checkout
+        - run: gem install bundler
         - run: bundle install
         - run: npm install
         - run: bundle exec jekyll contentful
