@@ -9,5 +9,5 @@ jobs:
     steps:
         - checkout
         - run: bundle install
-        - run: bundle exec middleman contentful
+        - run: bundle exec jekyll contentful
         - run: gulp deploy
