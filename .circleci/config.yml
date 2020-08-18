@@ -1,10 +1,12 @@
-machine:
-  ruby:
-    version: 2.3.1
-dependencies:
-  pre:
-    - gem install bundler
-checkout:
-  post:
-    - bundle install
-    - bash automated_build.sh
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.3-jessie
+    dependencies:
+      pre:
+        - gem install bundler
+    steps:
+        - checkout
+        - run: bundle install
+        - run: bash automated_build.sh
