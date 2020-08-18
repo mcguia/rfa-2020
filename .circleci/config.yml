@@ -9,4 +9,5 @@ jobs:
     steps:
         - checkout
         - run: bundle install
-        - run: bash automated_build.sh
+        - run: bundle exec middleman contentful
+        - run: gulp deploy
