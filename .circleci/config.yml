@@ -21,4 +21,6 @@ jobs:
         - run: npm install
         - run: sudo npm install --global gulp-cli
         - run: bundle exec jekyll contentful
+        - run: git config --global user.email "amcg10@gmail.com"
+        - run: git config --global user.name "Austin McGuire"
         - run: gulp deploy
